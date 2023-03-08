@@ -5,7 +5,8 @@ date: '2023'
 output: html_document
 ---
 
-# March
+<details><summary>March</summary>
+<p>
 
 ## 2023-03-08
 ### Goals
@@ -15,7 +16,7 @@ output: html_document
 - Tested sequential scripts again and all run start-to-finish
 - Split out write-to-drive scripts as sub-numbers (03.02)
 
-TODO: 
+### TODO:
 - Make sure scripts can all be knit
 - Double check files accessed from Drive are public and/or stick them in `data/raw` before sending out as compendium
 
@@ -40,7 +41,16 @@ TODO:
 - One way to think about it: 
  - Consider geotagging and cleaning one discrete, self-contained workflow
  - Export the results as a complete dataset
+</p>
+</details>
 
-# February
+<details>
+<summary>February</summary>
+<p>
+
+### 2023-02-18
+
+</p>
+</details>
 
 # January
