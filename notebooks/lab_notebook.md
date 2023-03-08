@@ -5,7 +5,10 @@ date: '2023'
 output: html_document
 ---
 
-<details><summary># March</summary>
+<details>
+    <summary>
+        <h1>March</h1>
+    </summary>
 <p>
 
 ## 2023-03-08
@@ -45,15 +48,20 @@ output: html_document
 </details>
 
 <details>
-<summary># February</summary>
+    <summary>
+        <h1>February</h1>
+    </summary>
 <p>
 
 ### 2023-02-18
 
 </p>
 </details>
+
 <details>
-<summary># January</summary>
+    <summary>
+        <h1>January</h1>
+    </summary>
 <p>
 
 ### 2023-01-02
