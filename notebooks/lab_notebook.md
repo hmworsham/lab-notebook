@@ -8,6 +8,138 @@ H. M. Worsham
 <p>
 
 
+## 2023-03-28
+
+### Dendro
+- Measuring SNB ABLA
+
+SNB6017A
+1817 inc ring
+1865 Br R
+1932 Br R
+2019 bark pyg
+
+SNB6018A
+1922 inc ring
+1997 Br R
+2019 bark pyg
+
+SNB6016A
+1918 complete pith
+1939 Br lr
+1980 Br R
+2000 Cr B
+
+SNB6025A
+1830 inc ring
+1953 Br R
+2019 bark pyg
+
+SNB6012A
+1940 inc ring
+1995 Cr B
+2003 Br LR
+2004 Br R
+
+6026A
+1979 inc ring
+2014 Cr B
+
+6026B
+0 inc ring 
+153 inc ring
+
+6032A
+1786 complete ring
+1792 Br R
+1816 Br R
+1829 Br R
+1949 Br R
+1975 Cr A
+2019 bark pyg
+
+6020A
+1934 inc ring
+1998 Br R
+2012 Cr A
+
+6007A
+1917 inc
+2013 Cr A
+2014-2015 big break is thru 2014
+
+6024A
+1921 inc
+2015 Br A - break only thru 2015
+2019 bark pyg
+
+6022A
+1934 inc
+2010 Br R
+2017 Cr B
+
+SNB6003A
+0 inc
+86 inc
+
+SNB6031A
+1833 inc
+2019 bark pyg
+
+SNB6028A
+1918 comp pith
+1978 Br R
+1987 BR R
+2005 BR R
+2010 BR R
+2015 missing due to break
+2019 bark pyg
+
+SNB6030A
+1902 pp
+1905 Br lr
+1947 Br R
+1993 Cr A
+2011 Br A
+2016 Br B
+2017 Br A
+2019 bark pyg
+
+SNB6027A
+1860 inc
+2015 Br R
+2019 bark pyg
+
+SNB6008A
+1999 inc 
+2019 bark pyg
+
+SNB6008B
+0 inc
+112 comp ring
+
+SNB6043A
+1755 pp
+1883 Br R
+1979 Br R
+2015 Br R
+2019 pyg
+
+SNB6015A   
+1909 pp
+1975 Br R
+2007 Br B
+2008 Br B
+2014 Br R
+2019 bark pyg
+
+SNB6027B
+1908 pp
+1978 Br R
+2002 Br R
+REMOVING FROM SET - MISLABELED AND HAS CHUNK MOUNTED BACKWARD
+
+
 ## 2023-03-16
 
 ### Dendro
