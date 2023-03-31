@@ -3,6 +3,14 @@ H. M. Worsham
 
 <details>
     <summary>
+        <h1>April</h1>
+    </summary>
+<p>
+
+## 2023-04-03
+
+<details>
+    <summary>
         <h1>March</h1>
     </summary>
 <p>
@@ -15,14 +23,14 @@ H. M. Worsham
 
 PLA6143A  
 2019-1950  
-1950 inc
 2018 12 02 1994 90 82 81 80 67 61 54  
+1950 inc  
 1981 Br lr  
 
 PLA6106A  
 2019-1948  
 2018 13 12 07 03 02 94 90 81 77 67 63  
-1948 inc
+1948 inc  
 2000 Br R  
 2008 Br R  
 2017 Br R
@@ -135,7 +143,7 @@ break at 2016 spans just one ring ie 2016 is last ring before break and first af
 2018 12 02 1992 90 89 81 76 68 65 63 61  
 Knot at 1957 makes it undatable beyond 1958 really; msmts before 1966 may be distorted by knot; consider excluding if it doesn't correlate  
 1958 comp ring  
-1957-1966 knot
+1957-1966 knot  
 1984 Br R  
 2003 Br R  
 2016 Br R 
@@ -272,6 +280,14 @@ SNB6027B
 1978 Br R  
 2002 Br R  
 REMOVING FROM SET - MISLABELED AND HAS CHUNK MOUNTED BACKWARD  
+
+## 2023-03-28
+### Inventory and forest structure
+- Checking formatted and collated inventory data
+- Notice there are a couple thousand `Canopy_Position` observations missing
+    - Don't think there should be this many, as I think we took observations on CP any time we did heights, and certainly at new sites
+    - Likely an artifact of merging... perhaps a data type issue ... at some point that may have been imported as factor and rowbinding may have dropped non-factor entities or something
+- TODO: we still need to incorporate data from 2022 sites  
 
 ## 2023-03-16
 
@@ -465,9 +481,6 @@ SNB6025A
 3. Taxonomic values are up to date
 4. DBH HOM should be 0 if there is a dbh value and it's not otherwise noted ... ? At least from 2021 on ... we didn't note it in prior years
 
-### Notes
-
-
 ## 2023-03-08
 ### Goals
 - Finalize data cleaning script
@@ -483,7 +496,6 @@ SNB6025A
 
 ## 2023-03-07
 - Continued cleaning up the `er-forest-inventory` repo
-
 
 ## 2023-03-03
 
@@ -502,27 +514,3 @@ SNB6025A
 - One way to think about it: 
  - Consider geotagging and cleaning one discrete, self-contained workflow
  - Export the results as a complete dataset
-</p>
-</details>
-
-<details>
-    <summary>
-        <h1>February</h1>
-    </summary>
-<p>
-
-### 2023-02-18
-
-</p>
-</details>
-
-<details>
-    <summary>
-        <h1>January</h1>
-    </summary>
-<p>
-
-### 2023-01-02
-
-</p>
-</details>
