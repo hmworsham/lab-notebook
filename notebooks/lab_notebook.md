@@ -7,138 +7,271 @@ H. M. Worsham
     </summary>
 <p>
 
+## 2023-03-30
 
-## 2023-03-28
+### Dendro
+- Crossdating and measuring XX-PLN1 (PLA) PIEN
+- Finished PIEN set!
+
+PLA6143A  
+2019-1950  
+1950 inc
+2018 12 02 1994 90 82 81 80 67 61 54  
+1981 Br lr  
+
+PLA6106A  
+2019-1948  
+2018 13 12 07 03 02 94 90 81 77 67 63  
+1948 inc
+2000 Br R  
+2008 Br R  
+2017 Br R
+
+PLA6124A  
+2019-1948  
+2018 13 12 03 02 1997 94 82 81 67 64 63 61  
+1948 inc  
+
+PLA6138A  
+2019-1946  
+2018 13 12 03 02 1992 90 81 77 75 69 67  
+1946 pp  
+1980 Br R  
+
+PLA6146A
+2019-1931  
+2018 13 12 03 02 1990 81 80 75 63 61 57  
+1931 inc  
+2000 Cr B  
+
+PLA6110A  
+2019-1958  
+2018 13 12 07 02 1997 90 81 77  
+1958 inc  
+2006 Br R  
+
+PLA6115A
+2019-1931  
+2018 16 13 12 03 02 1994 90 81 80 52 34  
+1931 pp  
+1998 Br lr  
+
+PLA6111A  
+2019-1940  
+2018 13 12 03 02 1994 81 77 76 67 61 52  
+1940 inc  
+1984 Br R  
+
+PLA6134A  
+2019-1941  
+2018 13 12 03 02 1997 90 81 77 59 52 46 43  
+1941 inc  
+
+PLA6131A  
+2019-1950  
+2018 13 12 02 1995 90 81 77 63 61 52  
+1950 inc  
+1966-67 knot  
+2013 Br R  
+
+6129A   
+2019-1947  
+2018 13 12 03 02 1997 90 81 77 67 63 61 57 54  
+1947 cp  
+1972 Cr A  
+1974 Cr B  
+2017 Br R
+
+6142A  
+2019-1953  
+2018 13 12 07 03 02 1992 90 89 80 76 61 59  
+1953 pp  
+1997 Br R  
+2017 Br R  
+
+6137A  
+2019-1937  
+2018 13 12 07 02 1997 92 90 81 80 77 54  
+1937 inc  
+1984 Br R  
+2010 Br LR  
+
+6133A  
+2019-1952
+2018 13 12 03 02 1994 93 81 80 63 61 54  
+1952 inc  
+2005 Br R  
+2017 Br L  
+
+6147A  
+2019-1951    
+2018 13 12 03 02 1994 82 80 77 76 67 61 57 54  
+1951 cp  
+1954 Br R  
+1978 Br R  
+1991 Br lr  
+2008 Br R  
+2018 Br lr  
+
+6135A  
+2019-1942    
+2018 13 12 02 1992 90 83 82 81 77 67 61 57 56  
+1942 inc  
+1953 Br lr  
+2016 Br B  
+
+6141A
+2019-1952  
+2018 13 12 03 02 1997 92 90 89 81 77 61 54  
+break at 2016 spans just one ring ie 2016 is last ring before break and first after
+1952 pp 
+1971 Br lr  
+2005 Cr B  
+2012 Cr B  
+2016 Br B  
+
+6144A  
+2019-1958  
+2018 12 02 1992 90 89 81 76 68 65 63 61  
+Knot at 1957 makes it undatable beyond 1958 really; msmts before 1966 may be distorted by knot; consider excluding if it doesn't correlate  
+1958 comp ring  
+1957-1966 knot
+1984 Br R  
+2003 Br R  
+2016 Br R 
+
+
+## 2023-03-29
 
 ### Dendro
 - Measuring SNB ABLA
+- Completed set!
 
-SNB6017A
-1817 inc ring
-1865 Br R
-1932 Br R
-2019 bark pyg
+SNB6017A  
+1817 inc ring  
+1865 Br R  
+1932 Br R  
+2019 bark pyg  
 
-SNB6018A
-1922 inc ring
-1997 Br R
-2019 bark pyg
+SNB6018A  
+1922 inc ring  
+1997 Br R  
+2019 bark pyg  
 
-SNB6016A
-1918 complete pith
-1939 Br lr
-1980 Br R
-2000 Cr B
+SNB6016A  
+1918 complete pith  
+1939 Br lr  
+1980 Br R  
+2000 Cr B  
 
-SNB6025A
-1830 inc ring
-1953 Br R
-2019 bark pyg
+SNB6025A  
+1830 inc ring  
+1953 Br R  
+2019 bark pyg  
 
-SNB6012A
-1940 inc ring
-1995 Cr B
-2003 Br LR
-2004 Br R
+SNB6012A  
+1940 inc ring  
+1995 Cr B  
+2003 Br LR  
+2004 Br R  
 
-6026A
-1979 inc ring
-2014 Cr B
+6026A  
+1979 inc ring  
+2014 Cr B  
 
-6026B
-0 inc ring 
-153 inc ring
+6026B  
+0 inc ring  
+153 inc ring  
 
-6032A
-1786 complete ring
-1792 Br R
-1816 Br R
-1829 Br R
-1949 Br R
-1975 Cr A
-2019 bark pyg
+6032A  
+1786 complete ring  
+1792 Br R  
+1816 Br R  
+1829 Br R  
+1949 Br R  
+1975 Cr A  
+2019 bark pyg  
 
-6020A
-1934 inc ring
-1998 Br R
-2012 Cr A
+6020A  
+1934 inc ring  
+1998 Br R  
+2012 Cr A  
 
-6007A
-1917 inc
-2013 Cr A
-2014-2015 big break is thru 2014
+6007A  
+1917 inc  
+2013 Cr A  
+2014-2015 big break is thru 2014  
 
-6024A
-1921 inc
-2015 Br A - break only thru 2015
-2019 bark pyg
+6024A  
+1921 inc  
+2015 Br A - break only thru 2015  
+2019 bark pyg  
 
-6022A
-1934 inc
-2010 Br R
-2017 Cr B
+6022A  
+1934 inc  
+2010 Br R  
+2017 Cr B  
 
-SNB6003A
-0 inc
-86 inc
+SNB6003A  
+0 inc  
+86 inc  
 
-SNB6031A
-1833 inc
-2019 bark pyg
+SNB6031A  
+1833 inc  
+2019 bark pyg  
 
-SNB6028A
-1918 comp pith
-1978 Br R
-1987 BR R
-2005 BR R
-2010 BR R
-2015 missing due to break
-2019 bark pyg
+SNB6028A  
+1918 comp pith  
+1978 Br R  
+1987 BR R  
+2005 BR R  
+2010 BR R  
+2015 missing due to break  
+2019 bark pyg  
 
-SNB6030A
-1902 pp
-1905 Br lr
-1947 Br R
-1993 Cr A
-2011 Br A
-2016 Br B
-2017 Br A
-2019 bark pyg
+SNB6030A  
+1902 pp  
+1905 Br lr  
+1947 Br R  
+1993 Cr A  
+2011 Br A  
+2016 Br B  
+2017 Br A  
+2019 bark pyg  
 
-SNB6027A
-1860 inc
-2015 Br R
-2019 bark pyg
+SNB6027A  
+1860 inc  
+2015 Br R  
+2019 bark pyg  
 
-SNB6008A
-1999 inc 
-2019 bark pyg
+SNB6008A  
+1999 inc   
+2019 bark pyg  
 
-SNB6008B
-0 inc
-112 comp ring
+SNB6008B  
+0 inc  
+112 comp ring  
 
-SNB6043A
-1755 pp
-1883 Br R
-1979 Br R
-2015 Br R
-2019 pyg
+SNB6043A  
+1755 pp  
+1883 Br R  
+1979 Br R  
+2015 Br R  
+2019 pyg  
 
-SNB6015A   
-1909 pp
-1975 Br R
-2007 Br B
-2008 Br B
+SNB6015A     
+1909 pp  
+1975 Br R  
+2007 Br B  
+2008 Br B  
 2014 Br R
-2019 bark pyg
+2019 bark pyg  
 
-SNB6027B
-1908 pp
-1978 Br R
-2002 Br R
-REMOVING FROM SET - MISLABELED AND HAS CHUNK MOUNTED BACKWARD
-
+SNB6027B  
+1908 pp  
+1978 Br R  
+2002 Br R  
+REMOVING FROM SET - MISLABELED AND HAS CHUNK MOUNTED BACKWARD  
 
 ## 2023-03-16
 
