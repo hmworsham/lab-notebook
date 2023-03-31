@@ -8,6 +8,8 @@ H. M. Worsham
 <p>
 
 ## 2023-04-03
+</p>
+</details>
 
 <details>
     <summary>
@@ -514,3 +516,6 @@ SNB6025A
 - One way to think about it: 
  - Consider geotagging and cleaning one discrete, self-contained workflow
  - Export the results as a complete dataset
+ 
+</p>
+</details>
