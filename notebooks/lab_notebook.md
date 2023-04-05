@@ -7,7 +7,167 @@ H. M. Worsham
     </summary>
 <p>
 
+## 2023-04-05
+### Dendro
+- Crossdating and measuring XX-PLN1 (PLA) ABLA
+- Crossdating XX-PLN2 (PLB) PIEN
+
+#### PLA
+PLA6121A  
+2019-1941  
+1941 inc  
+2018 16 13 12 06 03 02 1997 92 81 80 68 63 61 52 51  
+1985 Br LR  
+1994 Cr B  
+
+PLA6130A  
+1946-2019  
+1946 inc  
+2018 12 02 1994 90 81 77  
+
+PLA6127A  
+2019-1950  
+1950 inc  
+2018 13 12 06 05 03 02 1997 94 90 81 80 77 61 54  
+1993 Br lr  
+
+PLA6117A  
+2019-1950  
+2018 12 03 02 1997 94 90 89 80 77 61 59  
+knot 1950 back makes dating impossible before then 
+1953-1950 knot
+
+PLA6136A  
+!! Wrong bark piece (+2 years) was mounted on this core. Ignoring this chunk, it dates well from 2019. Removed that chunk from mount, so now lacks bark  
+2019-1932    
+1932 pp  
+2018 12 03 02 90 81 77 59 42 40  
+1937 Br R  
+1994 Br R  
+
+6140A  
+2019-1941  
+1941 inc  
+2018 12 02 1994 92 90 81 77 63 59 44 
+1979 Br R  
+
+6139A  
+2019-1949  
+1949 inc  
+2018 12 02 1990 81 78 77 61 59  
+1994 Br LR  
+2006 Br R
+
+6112A  
+2019-1951  
+2018 12 03 02 1990 81 80 77 67 61 54  
+1978 Br R  
+2002 Br R  
+2004 Br R  
+
+6132A  
+2019-1928    
+1928 cp  
+2018 12 02 1994 90 81 77 44 40 34 
+1973 Br R  
+
+
+6126A  
+2019-1937  
+1937 inc  
+2018 12 02 1990 81 77 63 61 52 43 42  
+
+6122A  
+2016-1948  
+1948 pp  
+2012 11 03 02 1997 94 90 81 80 77 67 64 57 54  
+Last three years mounted backward and incomplete; not sure this one's dated exactly right, but close
+
+6109A  
+2019-1964   
+1964 inc  
+2018 12 02 1997 94 90 81 80  
+
+6113A  
+2019-1956  
+1956 inc  
+2016 12 02 1997 94 90 89 81 80 75 70  
+
+6107A  
+2019-1947  
+1947 inc  
+2018 12 02 1997 94 90 81 80 77 64 61 59 
+
+6119A  
+2017-1944 
+1944 cp   
+2013 12 06 03 02 1994 90 80 77 64 63 61 59 54 52 
+Break after 2017; 2018 and 2019 incomplete and not measured
+
+6123A   
+2011-1947
+1947 inc  
+!! Bark chunk mounted backward; not dateable after 2011; break at 1947; not dateable before; may not correlate well; consider dropping    
+2006 03 02 1997 90 89 81 80 64 59 54 52 
+
+6125A  
+2019-1951  
+1951 inc   
+2016 13 12 02 1990 81 80 77 61 54
+
+6120A  
+2019-1947  
+1947 pp  
+2018 12 06 03 02 1981 80 77 63 52  
+
+6128A  
+2019-1948  
+1948 pp  
+2018 12 03 02 1994 90 89 77 54 
+
+6114A  
+2019-1972    
+1972 inc  
+2012 02 1997 94 89 81 80 
+
+6119B  
+2019-1946  
+1946 inc  
+2018 13 12 03 02 1997 94 81 77 52  
+2019-2015 look different, almost as if from another core; perhaps mounted grain-sideways...; dates OK
+
+6116A
+2019-
+2018 12 03 02 1994 92 81 77 61 59 
+too rotten; removed from set
+
+#### PLB
+5607A  
+2019-1862  
+2018 13 12 03 02 1983 82 77 67 59 55 54 40 34 31 25 15 10 08 02 1899 93 89 79 67 
+
+5615A  
+2019-1833  
+2018 13 12 03 02 1992 90 82 81 77 67 64 63 54 40 34 31 25 11 02 1899 89 83 82 80 79 72 64 61 59 51! 47 46 
+
+5628A  
+2019-1865  
+2018 13 12 03 02 1997 92 90 82 81 77 67 63 61 59 54 47 46 34 31 02 1899 96 89 83 82 72 68  
+
+## 2023-04-04
+### Forest structure
+- Finished reorging and refactoring `eastriver` and its its sub-directories, now independent repos
+- Redesigned data ingest in 05.00_itc_traintest to pull directly from Drive for inventory data, etc. so we don't have to keep rcloning it into scratch every time something gets updated in Drive
+- Refactored data cleaning
+- Made `load.plot.sf` a standalone function in `helpers`, using `load.trees` from `er-forest-inventory` as basis. Key difference is munging. Works as expected
+- Key insight: in `drive_find` and `drive_ls`, specify n_max to keep it to a reasonable return limit (say 200-500 returns) if searching for a small number of objects; otherwise it runs forever searching thousands of objects
+
 ## 2023-04-03
+- Reorganized and refactored `eastriver` repo
+- Basically restructured the whole thing so now each discrete workstream (project) has an independent repo, each prefaced with `er-` (e.g., `er-forest-structure`)
+- Need to be careful when working in savio next, after scheduled downtime: need to pull all the changes and clone the detached repos into ~/Repos, before doing anything in R
+- Also still need to write up the README for the dendro and forest structure repos, at the root directory level and in data and script directories
+
 </p>
 </details>
 
