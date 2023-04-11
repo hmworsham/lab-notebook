@@ -3,13 +3,17 @@
 A set of running notes made during visits to Dafflon and Worsham conifer forest sensor sites 
 in Kueppers et al. forest inventory plots in and around the East River watershed, Colorado.
 
-# 2022
+<details>
+    <summary>
+        <h1>2022</h1>
+    </summary>
+<p>
 
 ## 9/24/22
 ### XX-CAR3
-Arrived: NA
-Exited: NA
-Personnel: Worsham
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
 
 #### Site note
 More animal damage. Elk seem to be rubbing against snow DTPs and bending them over. Elk hair caught in the tape/jars. Had to replace a bunch of stuff... 
@@ -21,13 +25,13 @@ Data download OK. Mostly NA for EC at all depths. The rest of the record is comp
 D85B15 (labeled EF5CC0 on jar)  
 Dead. Removed. 
 
-D58924
+D58924  
 Replaced D85B15. Data download OK, appears to be fully functional. Took GTG measurements. 
 
-FD8114
+FD8114  
 Removed from alongside D85B15, as it is no longer needed. Used to replace soil DTP E7100F, which had animal damage and was dead and full of water.
 
-F4338C
+F4338C  
 Straightened rebar and gently straightened probe. Data download OK until 9/3/2022. Reset, then downloaded again and retrieved complete record. Appears fully functional after full erase and reset.
 
 #### Soil DTP
@@ -37,16 +41,16 @@ Data download OK. Complete record
 E7100F  
 Jar full of water, logger dead. Saved logger to try to retrieve data. Not essential, as we'd already gotten winter/snowmelt values off the logger in June. Replaced with FD8114. 
 
-FD8114
+FD8114  
 Removed from alongside D85B15, as it is no longer needed. Used to replace soil DTP E7100F.
 
 #### Air T/RH
 Data download OK. Complete record. Relaunched at 16:00 MT.
 
 ### SG-SWR1
-Arrived: 12:10 
-Exited: 13:00 
-Personnel: Worsham, Wainwright
+Arrived: 12:10  
+Exited: 13:00  
+Personnel: Worsham, Wainwright  
 
 #### Site note
 Clear day. Soil still damp from storms earlier in the week. No major changes since June, except animal damage to jar of D00829. No issues with sensors themselves. 
@@ -74,9 +78,9 @@ GTG: 17.2 cm
 Data downloaded successfully. Data all OK. Relaunched. 
 
 ### SG-NES1
-Arrived: 09:50
-Exited: 11:00
-Personnel: Worsham, Wainwright
+Arrived: 09:50  
+Exited: 11:00  
+Personnel: Worsham, Wainwright  
 
 #### Site note
 Site in decent shape. No major changes since August. Replaced one snow probe and straightened the other. Did not install 1.0 m probe along T-post, though maybe should have... 
@@ -88,7 +92,7 @@ Data download OK. Battery was quite low. Suspect it was not receiving enough lig
 E19F988  
 Replaced F3F4B3, which had been removed in July. Launched at 11:00 MT. Data download OK, appears to be fully functional. Measured gland-to-ground and -zipties. 
 
-D15344
+D15344  
 Straightened rebar and gently straightened probe. Appears to be fully functional. Data download OK. Complete record post-straightening. Measured GTG (=161 cm).
 
 #### Soil DTP
@@ -102,9 +106,9 @@ Data download OK. Complete record.
 Data download OK. Relaunched.
 
 ### XX-PLN2
-Arrived: 07:45
-Exited: 08:15
-Personnel: Worsham
+Arrived: 07:45  
+Exited: 08:15  
+Personnel: Worsham  
 Sensor data download and maintenance. 
 
 #### Site note
@@ -133,7 +137,7 @@ Replaced sensor with 21167386 using new mount. Measured sensor top to ground (= 
 ## 9/23/22
 ### ER-APU1
 Arrived: 16:25  
-Exited: 17:45
+Exited: 17:45  
 Personnel: Worsham, Wainwright, Wielandt  
 
 #### Site note
@@ -152,7 +156,7 @@ Dead. Removed.
 C158AF  
 Replaced E8DC95. Has two dead sensors at bottom. Took gland-to-ground and -ziptie measurements.
 
-C0AF01
+C0AF01  
 1.0 m probe added along T-post. Took gland-to-ground and -ziptie measurements.
 
 #### Soil DTP
@@ -234,7 +238,7 @@ Data download OK. Complete record at all probes. Reset clock, as it was off by >
 F6F387  
 Data download OK. Complete record at all probes. GTG = -1.0 cm.
 
-CCE749
+CCE749  
 Removed in August. Did not replace. 
 
 #### Air T/RH
@@ -242,9 +246,9 @@ Could not connect to logger to check status or download data. No obvious damage 
 
 ## 9/16/22
 ### CC-CVS1
-Arrived: NA
-Exited: NA
-Personnel: Worsham
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
 
 #### Site note
 Several more sensors damaged since August. Repaired and/or removed. 
@@ -268,9 +272,9 @@ Initial data download problematic. Full reset and download proceeded OK.
 
 ## 9/15/22
 ### ER-GT1
-Arrived: 13:30
-Exited: 14:25
-Personnel: Worsham
+Arrived: 13:30  
+Exited: 14:25  
+Personnel: Worsham  
 
 #### Site note
 Some elk hair evident on snow probe D1AB1B, and slight bend. Soil probe C5E3E8 dead. Otherwise, sensors generally in good shape. Replaced snow probe FC5299, which had been removed 8/6/22. Measured gland to ground and gland to ziptie distances. Measured gland to ground on soil probes. On D1AB1B, measured gland to ground distance (155.3 cm) and reset ziptie heights (10, 34, 70, 110, 140 cm) and tightened zipties. Retrieved data from soil VWC, soil and snow probes. Replaced mounting hardware for HOBO Air T/RH but didn't pull data, as it had just been done. 
@@ -280,7 +284,7 @@ Data downloaded successfully. Valid values in all columns.
 
 #### Snow DTP
 CA177F  
-Started today. Data downloaded successfully. Complete record.   
+Started today. Data downloaded successfully. Complete record.  
 
 D1AB1B  
 Data downloaded successfully. Bent gently back to upright. 
@@ -293,7 +297,7 @@ Data downloaded successfully. Bent gently back to upright.
 - GTZ5: 140 cm
 
 #### Soil DTP
-C50CF1
+C50CF1  
 Data downloaded successfully. Complete record.  
 GTG = 2.8 cm
 
@@ -631,15 +635,15 @@ Data downloaded successfully. 127s for all locations below logger after 12/31/20
 C61168  
 Data downloaded successfully. Still under 3 cm of snow. Did not take GTG measurement.  
 
-E2729C
+E2729C  
 Data downloaded successfully. Data all OK.  
 GTG: 2.0 cm
 
 ## 6/10/22
 ### XX-CAR3
-Arrived: 08:30
-Exited: 09:30
-Personnel: Worsham, Fauteux
+Arrived: 08:30  
+Exited: 09:30  
+Personnel: Worsham, Fauteux  
 
 #### Site note
 Sensor site in very good shape. No damage to any probes or infrastructure. No evidence of animal interaction. 
@@ -672,18 +676,18 @@ Relabeled jar as D85B15 to match logger ID (incorrectly labeled EF5CC0 before). 
 - GTZ4: 121.1 cm
 - GTZ5: 149.7 cm
 
-FD81141
+FD81141  
 127s in every column from 10/7/2021–10/9/2021. Last column all 127s. Otherwise OK. Probe in excellent condition.
 - GTG: 79.0 cm
 - GTZ1: 38.1 cm
 - GTZ2: 66.7 cm
 
 #### Soil DTP
-E7100F
+E7100F  
 Data all OK. Probe in excellent condition.
 GTG: 6.1 cm
 
-CAD062
+CAD062  
 127s in every column from 10/7/2021–10/9/2021. Last column all 127s. Otherwise OK. Probe in excellent condition. 
 GTG: 3.5 cm
 
@@ -732,8 +736,9 @@ GTG: 0.0 cm
 
 ## 6/9/22
 ### SG-NES1
-Arrived: 11:50
-Exited: 13:00
+Arrived: 11:50  
+Exited: 13:00  
+Personnel: Worsham  
 
 #### Site note
 Sensor site in VERY bad shape. One snow DTP (D15344) bent to severe angle, other (F3F4B3) bent in curve to 130º+. Did not find either soil DTP—still under snow. Will return in July for soil DTP data and measurements. 
@@ -759,8 +764,8 @@ FF10A3
 Not located under snowfield. Will retrieve data later in season.
 
 ### SG-SWR1
-Arrived: 09:45 
-Exited: 11:00 
+Arrived: 09:45  
+Exited: 11:00  
 Personnel: Worsham, Fauteux  
 
 #### Site note
@@ -773,7 +778,7 @@ Data downloaded successfully. Complete record for all columns, except for EC at 
 Data downloaded successfully. Data all OK. Secured HOBO with new mount. Had to shift VWC/T/C logger down slightly to fit new mount.
 
 #### Snow DTP
-E3C6D1
+E3C6D1  
 Data downloaded successfully. Data all OK. 
 
 - GTG: 160.6 cm
@@ -819,7 +824,7 @@ GTG: 17.2 cm15
 
 ## 6/8/22
 ### ER-GT1
-Arrived: 16:40
+Arrived: 16:40  
 Exited: 18:20  
 Personnel: Worsham, Fauteux  
 
@@ -865,7 +870,6 @@ C50CF1
 Data downloaded successfully. Data all OK.  
 GTG: 3.1 cm
 
-
 # 2021
 
 ## 10/8/21
@@ -910,3 +914,6 @@ Personnel: Worsham
 
 #### Soil VWC/T/C
 Data downloaded successfully. Full record. Some NAs in ports 1, 3 for conductivity and moisture content. Battery at 97%. Logger and infrastructure OK. No visible damage. 
+
+</p>
+</details>

@@ -9,7 +9,7 @@ A set of running notes made during visits to Kueppers et al. conifer forest inve
 <p>
     
 ## 9/24/22
-### XX-CAR3
+### XX-CAR3  
 Arrived: NA  
 Exited: NA  
 Personnel: Worsham  
