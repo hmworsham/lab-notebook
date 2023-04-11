@@ -2,41 +2,44 @@
 
 A set of running notes made during visits to Kueppers et al. conifer forest inventory sites in and around the East River watershed, Colorado. 
 
-# 2022
-
+<details>
+    <summary>
+        <h1>2022</h1>
+    </summary>
+<p>
 ## 9/24/22
 ### XX-CAR3
-Arrived: NA
-Exited: NA
-Personnel: Worsham
-Sensor data download and maintenance. Even more animal damage than in August. Had to replace a bunch of stuff... 
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
+Sensor data download and maintenance. Even more animal damage than in August. Had to replace a bunch of stuff...  
 
 ### SG-SWR1
-Arrived: 12:10 
-Exited: 13:00 
-Personnel: Worsham, Wainwright
+Arrived: 12:10  
+Exited: 13:00  
+Personnel: Worsham, Wainwright  
 Sensor data download and maintenance. No major changes since June. Replaced jar on one probe due to animal damage, but no issues with sensors themselves.
 
 ### SG-NES1
-Arrived: 09:50
-Exited: 11:00
+Arrived: 09:50  
+Exited: 11:00  
 Personnel: Worsham, Wainwright
 Sensor data download and maintenance. Replaced several sensors. No major changes since August.
 
 ### XX-PLN2
-Arrived: 07:45
-Exited: 08:15
-Personnel: Worsham
+Arrived: 07:45  
+Exited: 08:15  
+Personnel: Worsham  
 Sensor data download and maintenance. Site in good shape. No major changes since June.
 
 ## 9/23/22
 ### ER-APU1
 Arrived: 16:25  
-Exited: 17:45
+Exited: 17:45 
 Personnel: Worsham, Wainwright, Wielandt  
 Sensor data download and maintenance. Clear day, beautiful. 
 
-## 9/21/22
+## 9/21/2
 ### SR-PVG1
 Arrived: NA  
 Exited: NA  
@@ -336,8 +339,14 @@ Arrived: 16:40
 Exited: 18:20  
 Personnel: Worsham, Fauteux  
 Sensor data download and maintenance. 10-15% snow cover, damp soil. Clear sky. T≈20ºC. Mortality extensive but seems similar to that in 2021. See sensor maintenance record for details. 
+</p>
+</details>
 
-# 2021
+<details>
+    <summary>
+        <h1>2021</h1>
+    </summary>
+<p>
 
 ## 10/8/21
 ### CC-CVS1
@@ -460,3 +469,5 @@ Arrived: NA
 Exited: 13:20  
 Personnel: Dafflon, Worsham, Katz  
 First sensor installation. Complete.
+</p>
+</details>
