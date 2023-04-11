@@ -7,6 +7,23 @@ H. M. Worsham
     </summary>
 <p>
 
+## 2023-04-06
+- Rethinking the LOOCV approach to finding trees
+- Remember we're doing this at individual tree scale, not plot scale >> we want to do the best we can at finding individual trees
+- So cross-validation should probably also work at the tree scale
+- First thought, not LOOCV, but k-fold
+- Steps:
+    1. Split inventory data into 80-20 train-test set
+        2. Run A_i,p_j on 80%; save A, p, loss
+        3. Run A_i, p_j+1 on 80%; save A, p, loss
+        4. Run A_i, p_j+2 on 80%; save A, p, loss
+        5. ...
+        6. Find best performing p in training
+        7. Apply to 20% and save loss
+    8. Generate another split
+        2-7.
+    9. Average training and testing loss over all splits 
+
 ## 2023-04-05
 ### Dendro
 - Crossdating and measuring XX-PLN1 (PLA) ABLA
