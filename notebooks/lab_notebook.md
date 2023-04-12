@@ -7,6 +7,87 @@ H. M. Worsham
     </summary>
 <p>
 
+## 2023-04-12
+### Dendro
+- Measuring XX-PLN1 (PLA) ABLA
+- Crossdating XX-PLN2 (PLB) PIEN
+
+#### PLA
+- Measurement notes are under **2023-04-06** for cores 11-22
+
+#### PLB
+PLB5616A  
+2019-1855  
+2018 13 12 03 02 1997 94 92 90 82 81 77 67 61 56 54 40 34 31 11 09 02 1899 89 80 71 68 61 59
+1934 nearly missing  
+
+PLB5623A  
+2019-1842  
+2018 13 12 04 03 1999 92 90 81 77 67 61 59 40 34 31 25 20 06 02 1899 89 83 82 80 68 65 61 51  
+
+PLB5621A  
+2019-1883  
+2018 12 04 02 97 92 90 81 77 67 61 59 54 41 40 34 31 11 09 02 1897 93 89 
+
+PLB5608A  
+2019-1842  
+2018 13 12 07 03 02 1995 92 90 82 81 77 67 61 59 54 40 34 31 25 06 02 1893 89 82 80 79 61
+
+PLB5624A  
+2019-1860  
+2018 13 03 97 95 92 81 77 67 61 56 55 41 34 31 25 15 02 1899 89 82 80 61
+
+5611A  
+2019-1825  
+2018 12 04 03 02 92 90 81 77 67 61 56 54 34 31 25 22 21 02 1899 94 89 83 80 72 71 64 61 51 47 46 38 
+
+5622A  
+2019-1835  
+2018 12 02 92 90 81 77 61 59 54 46 40 34 31 25 09 06 02 1899 93 89 82 80 79 72 61 51 46 
+
+5625A
+2019-1855  
+2018 12 03 02 92 90 77 67 64 61 59 54 40 34 31 22 11 09 02 1899 94 93 89 83 79 77 76 72 67 61  
+
+5619A  
+2019-1838  
+late suppression; not dateable after 2000 due to missing rings; probably won't crossdate or correlate well
+1992 90 81 77 67 61 59 56 54 40 34 31 22 06 02 1899 93 89 83 82 80 72 64 57 51 46
+1977 almost missing  
+1931 almost missing  
+
+5610A  
+2019-1856  
+2018 12 03 02 1997 92 81 77 61 59 54 41 40 34 31 25 15 09 02 1899 93 89 86 83 80 73 72 65 61
+
+5613A  
+2019-1828
+some rings missing after 2000 - doesn't date well beyond that so consider just dating to 2000
+1997 1992 90 81 77 67 61 59 54 40 34 31 25 11 02  1899 89 82 72 64 57 51 
+
+5617A  
+2019-1851
+2018 12 03 02 1997 92 90 81 77 67 59 56 54 40 34 31 02 1899 96 93 89 80 72 61  
+1868-back knot; not dteable before 1851; last mst at 1852
+
+5614A  
+2019-1826 
+2018 12 03 02 1992 90 81 77 67 61 59 54 40 34 31 22 11 06 02 1899 93 82 80 72 68 51 47
+
+5618A  
+2019-1861  
+2018 12 03 02 1992 1982 81 77 67 61 59 54 40 34 31 22 11 06 02 1899 93 89 83 82 80 72 65  
+
+5622B    
+2019-1844   
+break at 206/15 is confusing; count up from 2010  
+2018 12 04 03 1997 92 90 81 77 61 59 54 41 34 31 25 24 15 09 02 1899 93 89 84 83 80 72 71 65 51 
+
+5612A  
+2019-1840   
+2018 13 12 03 02 1999 97 92 90 82 81 77 67 63 61 54 48 41 40 34 31 20 09 06 02 1899 93 89 83 82 80 72 64 61 5147 45
+
+
 ## 2023-04-06
 - Rethinking the LOOCV approach to finding trees
 - Remember we're doing this at individual tree scale, not plot scale >> we want to do the best we can at finding individual trees
@@ -27,6 +108,7 @@ H. M. Worsham
 ## 2023-04-05
 ### Dendro
 - Crossdating and measuring XX-PLN1 (PLA) ABLA
+- Measurement notes for PLA 11-22 made on 4/12/23
 - Crossdating XX-PLN2 (PLB) PIEN
 
 #### PLA
@@ -88,7 +170,6 @@ PLA6136A
 2018 12 02 1994 90 81 77 44 40 34 
 1973 Br R  
 
-
 6126A  
 2019-1937  
 1937 inc  
@@ -104,11 +185,14 @@ Last three years mounted backward and incomplete; not sure this one's dated exac
 2019-1964   
 1964 inc  
 2018 12 02 1997 94 90 81 80  
+2001 Br R  
 
 6113A  
 2019-1956  
 1956 inc  
 2016 12 02 1997 94 90 89 81 80 75 70  
+1986 Br R  
+2001 Cr A  
 
 6107A  
 2019-1947  
@@ -120,38 +204,50 @@ Last three years mounted backward and incomplete; not sure this one's dated exac
 1944 cp   
 2013 12 06 03 02 1994 90 80 77 64 63 61 59 54 52 
 Break after 2017; 2018 and 2019 incomplete and not measured
+1997 BR R  
 
 6123A   
 2011-1947
 1947 inc  
 !! Bark chunk mounted backward; not dateable after 2011; break at 1947; not dateable before; may not correlate well; consider dropping    
 2006 03 02 1997 90 89 81 80 64 59 54 52 
+1991 CR A  
+2007 BR LR
 
 6125A  
 2019-1951  
 1951 inc   
 2016 13 12 02 1990 81 80 77 61 54
+2017 BR B  
+2018 BR A  
 
 6120A  
 2019-1947  
 1947 pp  
 2018 12 06 03 02 1981 80 77 63 52  
+1978 BR R  
+1991 CR B  
 
 6128A  
 2019-1948  
 1948 pp  
 2018 12 03 02 1994 90 89 77 54 
+2011 BR R  
+2017 CR B  
+2018 CR A  
 
 6114A  
 2019-1972    
 1972 inc  
-2012 02 1997 94 89 81 80 
+2012 02 1997 94 89 81 80  
+2018 MISSING - TOO BROKEN TO MEASURE
 
 6119B  
 2019-1946  
 1946 inc  
 2018 13 12 03 02 1997 94 81 77 52  
 2019-2015 look different, almost as if from another core; perhaps mounted grain-sideways...; dates OK
+1991 BR R  
 
 6116A
 2019-
