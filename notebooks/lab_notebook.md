@@ -16,14 +16,14 @@ H. M. Worsham
 PLB5607A  
 1862 ir
 
-PLB5615A 
+PLB5615A  
 1833 ir   
-1962 Br R
+1962 Br R  
 1985 Cr B  
 
 PLB5628A  
 1856 ir  
-2017 br l  
+2017 br l   
 
 - Measurement notes are under **2023-04-12** for cores 4-19
 
@@ -87,7 +87,7 @@ PLB5624A
 5622A  
 2019-1835  
 2018 12 02 92 90 81 77 61 59 54 46 40 34 31 25 09 06 02 1899 93 89 82 80 79 72 61 51 46  
-2835 ir  
+1835 ir  
 1953 br r  
 
 5625A
@@ -100,7 +100,7 @@ PLB5624A
 
 5619A  
 2019-1838  
-late suppression; not dateable after 2000 due to missing rings; probably won't crossdate or correlate well
+late suppression; not dateable after 2000 due to missing rings; probably won't crossdate or correlate well  
 1992 90 81 77 67 61 59 56 54 40 34 31 22 06 02 1899 93 89 83 82 80 72 64 57 51 46
 1838 ir  
 1977 almost missing  
@@ -117,29 +117,29 @@ late suppression; not dateable after 2000 due to missing rings; probably won't c
 2002 br r  
 
 5613A  
-2019-1828
-some rings missing after 2000 - doesn't date well beyond that so consider just dating to 2000
+2019-1828  
+some rings missing after 2000 - doesn't date well beyond that so consider just dating to 2000  
 1997 1992 90 81 77 67 61 59 54 40 34 31 25 11 02  1899 89 82 72 64 57 51  
 1952 br l  
 
 5617A  
-2019-1851
+2019-1851  
 2018 12 03 02 1997 92 90 81 77 67 59 56 54 40 34 31 02 1899 96 93 89 80 72 61  
-1868-back knot; not dteable before 1851; last mst at 1852
+1868-back knot; not dteable before 1851; last mst at 1852  
 1851 knot; ir  
 1852 comp ring  
 1984 br r  
 
 5614A  
-2019-1826 
-2018 12 03 02 1992 90 81 77 67 61 59 54 40 34 31 22 11 06 02 1899 93 82 80 72 68 51 47
+2019-1826  
+2018 12 03 02 1992 90 81 77 67 61 59 54 40 34 31 22 11 06 02 1899 93 82 80 72 68 51 47  
 
 5618A  
 2019-1861  
 2018 12 03 02 1992 1982 81 77 67 61 59 54 40 34 31 22 11 06 02 1899 93 89 83 82 80 72 65  
 
-5622B    
-2019-1844   
+5622B  
+2019-1844  
 break at 206/15 is confusing; count up from 2010  
 2018 12 04 03 1997 92 90 81 77 61 59 54 41 34 31 25 24 15 09 02 1899 93 89 84 83 80 72 71 65 51 
 
