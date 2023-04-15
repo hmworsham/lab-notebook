@@ -22,10 +22,10 @@ PLB5615A
 1985 Cr B  
 
 PLB5628A  
-1856 ir  
+1865 ir  
 2017 br l   
 
-- Measurement notes are under **2023-04-12** for cores 4-19
+- Measurement notes are under **2023-04-12** for cores 4-15
 
 ## 2023-04-12
 ### Dendro
@@ -97,14 +97,13 @@ PLB5624A
 2014 cr a  
 2015 cr b  
 
-
 5619A  
 2019-1838  
 late suppression; not dateable after 2000 due to missing rings; probably won't crossdate or correlate well  
-1992 90 81 77 67 61 59 56 54 40 34 31 22 06 02 1899 93 89 83 82 80 72 64 57 51 46
+1992 90 81 77 67 61 59 56 54 40 34 31 22 06 02 1899 93 89 83 82 80 72 64 57 51 46  
 1838 ir  
-1977 almost missing  
-1934 almost missing  
+1977 nearly missing  
+1934 nearly missing  
 1900 br r  
 
 5610A  
@@ -207,7 +206,7 @@ PLA6136A
 6140A  
 2019-1941  
 1941 inc  
-2018 12 02 1994 92 90 81 77 63 59 44 
+2018 12 02 1994 92 90 81 77 63 59 44  
 1979 Br R  
 
 6139A  
@@ -227,7 +226,7 @@ PLA6136A
 6132A  
 2019-1928    
 1928 cp  
-2018 12 02 1994 90 81 77 44 40 34 
+2018 12 02 1994 90 81 77 44 40 34  
 1973 Br R  
 
 6126A  
@@ -260,24 +259,24 @@ Last three years mounted backward and incomplete; not sure this one's dated exac
 2018 12 02 1997 94 90 81 80 77 64 61 59 
 
 6119A  
-2017-1944 
+2017-1944  
 1944 cp   
-2013 12 06 03 02 1994 90 80 77 64 63 61 59 54 52 
-Break after 2017; 2018 and 2019 incomplete and not measured
+2013 12 06 03 02 1994 90 80 77 64 63 61 59 54 52  
+Break after 2017; 2018 and 2019 incomplete and not measured  
 1997 BR R  
 
 6123A   
-2011-1947
+2011-1947  
 1947 inc  
 !! Bark chunk mounted backward; not dateable after 2011; break at 1947; not dateable before; may not correlate well; consider dropping    
-2006 03 02 1997 90 89 81 80 64 59 54 52 
+2006 03 02 1997 90 89 81 80 64 59 54 52  
 1991 CR A  
 2007 BR LR
 
 6125A  
 2019-1951  
 1951 inc   
-2016 13 12 02 1990 81 80 77 61 54
+2016 13 12 02 1990 81 80 77 61 54  
 2017 BR B  
 2018 BR A  
 
@@ -291,7 +290,7 @@ Break after 2017; 2018 and 2019 incomplete and not measured
 6128A  
 2019-1948  
 1948 pp  
-2018 12 03 02 1994 90 89 77 54 
+2018 12 03 02 1994 90 89 77 54  
 2011 BR R  
 2017 CR B  
 2018 CR A  
@@ -310,7 +309,7 @@ Break after 2017; 2018 and 2019 incomplete and not measured
 1991 BR R  
 
 6116A
-2019-
+2019-  
 2018 12 03 02 1994 92 81 77 61 59 
 too rotten; removed from set
 
