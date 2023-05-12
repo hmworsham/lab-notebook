@@ -3,13 +3,368 @@ H. M. Worsham
 
 <details>
     <summary>
+        <h1>May</h1>
+    </summary>
+<p>
+
+## 2023-05-10  
+### Dendro 
+
+#### ABLA
+
+CVA1350A  
+2022-??
+removed from set - too broken up to crossdate
+
+#### PIEN
+CVA1174A
+2022-1909 
+1909 IR  
+2016 15 03 199 95 80 75 67 52 29 2419 15  
+
+CVA1174B
+2022-1950  
+1950 comp, knot  
+knot 1950-1962  
+not dateable before 1950 due to knot  
+2018 16 15 06 03 99 97 95 81 80 67 55  
+
+CVA1198A  
+2022-1911  
+1911 CP  
+2016 13 12 07 03 1997 95 81 67 48 47 34 33  
+
+CVA1198B
+2022-1935  
+1935 IR  
+2020 16 13 12 03 1999 95 87 81 77 67 64 55  
+
+CVA1230B  
+2022-1898  
+1898 IR  
+2020 13 03 1999 95 90 87 81 80 75 67 64 59 55 16 14 05 04 
+
+CVA1230A  
+2022-1899  
+1899 IR  
+2020 16 13 03 1999 95 87 81 80 70 67 63 59 46 40 29 05  
+
+CVA1208B  
+2022-1884  
+1884 PP  
+HARD TO DATE/MEASURE BEFORE 1893  
+2018 13 03 1999 97 95 81 77 67 59 56 34 08 1899 97 89  
+
+CVA1184B  
+2022-1921  
+1921 IR  
+2013 03 1999 97 92 81 77 59 52 48 35 34  
+
+## 2023-05-04
+### Dendro
+- Crossdating and measuring CC-CVS1 (CVA) ABLA
+
+CVA1346A  
+2022-1909  
+1909 ir  
+2018 12 08 04 1995 81 77 72 71 67 64 59 56 44 40 23 19 16  
+
+CVA1346B  
+1987-1904    
+1904 ir  
+1987 comp  
+1985 81 77 64 56 44 19 18 16 13  
+
+CVA1277A  
+2022-1910  
+1910 IR  
+2017 12 03 1997 95 92 89 81 67 64 63 56 46 18 16  
+
+CVA1277B  
+2022-1899  
+1899 CP  
+2012 11 07 03 1997 89 81 56 46 37 36 32 20 09 02  
+
+CVA1220B  
+2022-1936  
+break spans 2019 only  
+2016 11 06 1995 94 90 83 80 70 61 59 46 45  
+2019 br r  
+
+CVA1217B  
+2022-1909  
+knot 1964-44  
+wild pith, suppression before 1909; not dateable before  
+2015 14 06 03 1999 94 85 84 77 71 70 67 62 56 34 24 11  
+
+CVA1218B  
+2022-1909  
+2013 06 03 1997 94 89 81 77 70 68 64 63 61 59 56 46 36 34 33 19  
+1933 br lr  
+
+CVA1348A  
+2022-1945  
+1945 knot and wild pith; not dateable before  
+2018 17 14 08 03 1997 95 94 81 80 78 77 71 67 58 52  
+2010 br lr  
+
+## 2023-05-03
+### Dendro
+- Crossdating and measuring CC-CVS1 (CVA) PIEN, first 5
+- Crossdating and measuring CC-CVS1 (CVA) ABLA
+
+#### PIEN
+CVA1021B  
+2022-1904  
+1904 cp  
+2018 13 07 03 1997 95 81 77 72 71 67 61 59 56 47 34 16 13  
+
+CVA1007A  
+2022-1907  
+1907 ir  
+2018 13 12 04 03 1999 94 88 81 77 67 63 61 59 56 52 34 25 16  
+
+CVA1260A  
+2022-1920  
+1920 ir  
+2018 07 03 1992 91 81 77 67 61 54 43 25 24  
+
+CVA1250B  
+2022-1935  
+1935 cr  
+knot before 1935, not dateable before  
+2018 13 03 02 1999 97 87 81 77 75 67 63 55 42 41  
+
+CVA1278A  
+2022-1928  
+1928 ir  
+knot 1954-1946  
+2018 13 04 03 1995 94 81 77 67 63 61 46 35 34 33  
+2017 br lr
+
+#### ABLA
+CVA1352A  
+2022-1924  
+1924 ir  
+2013 12 06 03 1997 95 83 81 80 52 46 38 31  
+doesn't crossdate very well; weird marker years, may not correlate 
+
+
+CVA1220A  
+2022-1925  
+1925 ir  
+2014 11 06 1994 92 90 87 81 70 67 63 57 52 49 46 45 27  
+1965 BR LR  
+
+
+CVA1347A  
+2022-1908  
+1908 ir  
+2017 13 12 04 03 1999 95 81 77 67 64 63 59 52 46 11  
+
+CVA1348B  
+2022-1950  
+2012 08 03 1997 94 83 78 77 71 70 67 58 52  
+weird suppression 78-84
+
+CVA1322B
+2022-1960  
+2016 15 13 12 03 1997 81 76 
+
+CVA1177B  
+2022-1948  
+2018 06 1997 81 80 71 61 
+2021 BR R  
+
+CVA1012A
+2022-1955  
+1955 COMP  
+2013 12 03 02 1997 94 92 81 80 70 67 63 59  
+break spans 2020 only  
+</p>
+</details> 
+
+<details>
+    <summary>
         <h1>April</h1>
     </summary>
 <p>
 
+## 2023-04-26
+### Dendro
+
+- Measuring CC-CVS1 (CVA) ABLA, first 11
+- Measurement notes in 2023-04-26 below
+
+## 2023-04-26
+### Dendro
+- Crossdating CC-CVS1 (CVA) ABLA
+- ABLA is complacent, may not corr well, may need to drop some cores
+
+#### ABLA
+CVA1018A  
+2022-1904  
+1904 comp
+2012 07 06 03 1981 77 67 66 58 52 09  
+
+CVA1350B  
+2022-1933  
+1933 ir  
+2016 12 07 03 1994 81 77 59 39  
+2001 br lr  
+2017 br lr  
+
+CVA1343A  
+2022-1926  
+1926 ir  
+2013 12 07 06 03 1997 94 81 77 56 26 32  
+
+CVA1172A  
+2022-1932  
+1932 cp  
+2013 03 1997 81 80 77 71 67 61 57 52 39 36    
+2015 br r 
+
+CVA1322A  
+2022-1911  
+1911 cp  
+2016 13 12 1984 81 71 59 54 46 35 34 19 13  
+
+CVA1330A  
+2022-1991  
+2016 12 03 01 1997  
+
+CVA1344A  
+2022-1893  
+1893 pp  
+2012 06 03 01 00 1997 94 81 77 73 57 56 18 07 04 1897  
+
+CVA1351A  
+2022-1921  
+1921 ir  
+2007 05 1997 81 77 67 59 57 56 46 
+
+CVA1197A  
+2022-1908  
+suppression around 2000 - weird marker years
+2018 03 1999 97 95 92 81 77 70 67 56 47 34 24 19 12 
+03 nearly missing  
+
+CVA1217A  
+2022-1903 ir  
+2019 06 03 97 94 81 80 77 56 54 34 33 18 11 07  
+2016 br lr  
+
+CVA1218A  
+2022-1922 
+1922 ir  
+2018 13 12 06 03 1997 94 89 81 77 67 61 59 56 46 37 34 33  
+
+CVA1344B 
+2021-1960 
+2022 miss, break splits 1960 only
+2021 ir  
+2000 missing
+1960 break; incomplete ring
+2013 06 03 01 1997 95 90 81 80 77 70 67 63 61
+
+CVA1344C
+0-66  
+0 comp ring
+66 break; incomplete ring
+
+## 2023-04-20
+### Dendro
+- Measuring XX-PLN2 (PLB) PIEN
+- Crossdating and measuring XX-PLN2 (PLB) ABLA
+- Finished PLB!
+
+#### PIEN
+PLB5618A  
+1953 cr a  
+1954 cr b  
+
+PLB5622B  
+1968 br r  
+2015 br b  
+2016 br a  
+
+PLB5612A  
+2016 br b  
+2017 br A  
+
+PLB5614A  
+1857 br r  
+1891 br r  
+
+#### ABLA
+PLB5620A  
+2019-1904  
+1904 ir  
+2018 12 06 03 01 1997 94 90 77 68 67 61 59 54 45 34 31 09 
+chunk 1980-1973 mounted backward
+1973 br r  
+1981 br r  
+1984 br r  
+2001 br r  
+
+PLB5632A  
+2019-1870  
+1870 pp  
+2012 03 02 81 77 61 59 54 34 09 02 1899 93 89 80  
+1889 br r  
+1920 br r  
+1957 br r  
+1988 br r  
+1992 br r  
+2016 br lr  
+
+PLB5609A  
+1980-1883  
+1883 ir  
+1977 64 59 54 44 34 31 20 15 09 02 1893 86  
+can only date from 1980 back; several pieces mounted backward; 1982-1955 mounted backward; consider excluding if it doesn't correlate; chunks: xxx; 1955-1980; 1954-1883  
+
+PLB5634A  
+2019-1911  
+1911 ir  
+2018 12 08 02 1981 77 71 64 63 59 44 34 31 16 15   
+1996 br r  
+2016 br r  
+
+PLB5630A  
+2019-1856  
+2018 12 02 1982 81 63 61 59 34 23 11 10 09 1899 97 87 83 72 64 63  
+
+PLB5629A  
+2019-1873  
+2012 03 02 1994 90 81 77 68 59 56 54 34 31 20 11 09 1899 97 93 83 82  
+1967 br r  
+2018 cr b  
+
+PLB5635A  
+2019-1888  
+2018 13 12 02 1997 94 90 81 77 64 63 54 52 44 34 19 15 09 04 02 1893  
+1970 br r  
+2012 br r  
+2016 br r  
+
+PLB5633A  
+2019-1879  
+1879 cp
+2018 12 02 1981 61 59 54 34 22 15 09 06 02 1899 93 90 89 84  
+2011 br r  
+
+PLB5631A  
+2019-1852  
+2018 12 02 1997 94 92 85 81 77 64 61 59 57 44 43 34 31 20 15 06 02 1896 93 83 82 74 71 63 55  
+1852 ir  
+1974 br r  
+2002 br r  
+
 ## 2023-04-13
 ### Dendro
-- Measuring XX-PLN2 (PLB) PIEN (04/13)
+- Measuring XX-PLN2 (PLB) PIEN
 
 #### PLB
 
