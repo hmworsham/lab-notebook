@@ -7,6 +7,122 @@ H. M. Worsham
     </summary>
 <p>
 
+## 2023
+### Dendro
+
+- Measurements for 1229A - 1044B taken on 5/25/23, but notes in 2023-05-24 below
+- Excluded 1019B - not worth trying to crossdate
+- Measuring a few random extra cores from prior sitesthat had been broken, reglued and sanded
+
+### SNB-PIEN
+
+6029A  
+2019-1772  
+1772 ir  
+2016 13 07 03 1997 92 82 81 77 67 61 54 34 26 04 02 1899 93 89 87 80 72 64 57 51 46 36 34 24 18 12 06 00 1793 85 79 78  
+
+
+### SNB-ABLA
+6006A  
+0-113  
+0 ir  
+113 break comp  
+50 cr a 
+
+6006B  
+0-23  
+
+### SSA 
+5117A  
+2019-1915  
+1915 ir  
+2013 12 04 03 1992 80 78 63 61 56 54 52 39 34 32 29 23 
+
+## 2023-05-24
+### Dendro
+
+- Crossdating and measuring CVA PIEN
+- Crossdated remaining 12
+- Excluded 4 (3?) very broken cores
+- Measurements for 1040A - 1060B on 5/24/23
+
+CVA1040A  
+2022-1911  
+1911 ir  
+2003 1997 87 81 80 73 67 64 18 17  
+2016 br lr  
+
+CVA1003B  
+2022-1912 
+1912 ir   
+2018 13 04 03 1999 97 88 87 81 77 34 31 26 19  
+
+CVA1007B  
+2022-1927  
+1927 ir  
+2018 13 03 1999 97 95 88 82 81 77 67 61 59 56 52 34 
+
+CVA1248A  
+2022-1897  
+1897 ir    
+2020 13 12 03 1999 97 92 88 87 81 77 70 67 63 61 31 15 13 09 08 1900 
+
+CVA1019A  
+2022-1902  
+1912 ir  
+2018 16 13 04 03 1999 97 81 75 67 65 59 47 33 16 13  
+
+CVA1260B  
+2022-1909  
+1909 ir  
+2019 13 12 04 03 1999 97 95 81 77 67 64 61 45 41 38 35 25 24 19 12 
+2014 cr a  
+
+CVA1229A  
+2022-1925  
+2016 13 03 01 1999 83 81 78 77 54 42  
+
+CVA1021A  
+2022-1920  
+1920 ir  
+2013 07 03 1999 95 82 81 77 72 71 67 47 44 34 27 
+
+CVA1278B  
+2022-1926  
+1926 pp  
+2018 13 04 03 1995 92 81 77 67 42 40 34 31  
+2017 br r  
+2021 br r  
+
+CVA1216A  
+2022-1901   
+1901 ir   
+2018 13 04 03 1999 97 81 78 77 67 59 56 47 46 35 34 33 04 02  
+
+CVA1248B  
+2021-1912  
+2020 19 06 04 03 1999 92 88 81 80 77 67 59 56 44 43 37 22 15 13  
+
+CVA1044B  
+2022-1946  
+2019 03 1997 92 81 67 61 59 58 57 52  
+
+CVA1019A  
+2014-  
+2014 COMP  
+2003 1999 97 89 87 81 
+
+## 2023-05-23
+### LiDAR
+
+- Working on a good approach to matching field and modeled trees
+- Trying R packages `optmatch`  and `MatchIt` which are really designed for synthetic nonparametric treatment-control matching in non-randomized control studies
+- I think either could be ported for this application, since the underlying stats are the same
+- Using a constrained matching procedure like mahalanobis distance, optimal matching, or exactmatch is probably better than nearest neighbor
+- Nearest neighbor is greedy, in that it seeks matches for all members
+- Mahal and others are non-greedy in the sense that they looks for pairs that minimize the overall sum of distances, but discard possible pairs for suboptimal global minimization
+- 
+
 ## 2023-05-10  
 ### Dendro 
 
