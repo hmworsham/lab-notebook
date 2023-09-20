@@ -2,11 +2,293 @@
 H. M. Worsham
 
 <details>
-    <summary>
-        <h1>May</h1>
-    </summary>
+<summary>
+<h1>September</h1>
+</summary>
 <p>
 
+## 2023-09-19
+- Crossdating and measuring SSA PIEN
+
+### PIEN
+5049A  
+2015-1781  
+2015 br ir  
+Last piece before bark (2 rings) mounted backward, not measured; rings missing; dated from 2015  
+2013 12 10 03 02 1990 89 81 80 77 70 67 56 54 39 37 34 23 15 10 06 02 1893 83 80 79 72 71 70 64 61 55 54 51 47 46 42 41 36 29 25 24 08 06 1796 93 89 86 81 80  
+1997 cr b  
+
+5127A  
+2019-1847  
+1847 ir  
+2016 13 12 07 03 02 1989 80 76 72 67 63 61 56 54 50 46 39 34 32 25 23 10 05 02 00 1893 89 80 79 65 61 51  
+1927 br r  
+2009 br r  
+
+5011A  
+2019-1817  
+2016 13 12 03 1997 81 80 77 67 42 39 34 31 22 16 10 02 1899 96 93 89 84 83 80 68 63 54 51 47 34 29  
+knot 1819-1829
+
+5051A  
+2019-1828    
+2013 12 03 02 1999 89 85 82 81 76 63 54 50 46 40 34 25 15 02 00 1893 83 79 60 51 47 45 34  
+
+5110A  
+2019-1909  
+2013 12 03 02 1997 90 89 81 80 72 61 56 54 50 32 19  
+Break at 2001 spans one ring
+2001 br b  
+
+5175A  
+2019-1794  
+2018 16 13 12 03 02 1997 92 90 81 80 77 72 63 59 54 46 40 34 31 25 23 19 15 13 02 00 1896 93 89 83 79 71 70 64 55 54 51 47 46 34 29 24 11 04 03 1799  
+
+## 2023-09-14
+- Crossdating and measuring APU and BMA-2022
+
+### BMA PIEN
+1329A  
+2019-1917  
+1917 pp 
+1948-39 knot
+2011 03 1995 86 67 62 57 46 30 25 23 21  
+1961 br r  
+
+1355B  
+2022-1946  
+1946 ir 
+2013 12 11 07 04 03 1999 95 86 70 68 67 57  
+2020 br lr  
+
+1350B  
+2022-1941  
+1941 ir 
+2016 13 07 1986 83 82 78 71 64 62 52 
+2020 br r  
+
+1394B  
+2019-1810  
+2019 break ir
+2011 04 03 1995 92 86 78 65 58 57 52 47 34 20 16 15 02 1895 84 80 79 72 68 65 62 58 47 46 32 29  
+
+1292B  
+2022-1869  
+1869 comp ring  
+2013 11 07 03 1995 92 77 70 67 56 54 46 41 35 34 26 25 15 13 04 1896 93 89 83 82 80 71 70  
+Dated to last visible ring  
+2012 br r  
+
+### APU PIEN
+7091B  
+2022-1956  
+2020 13 12 03 02 1997 92 81 80 79 72 67 59 
+
+7091A  
+2022-1968  
+2020 13 12 04 03 1997 92 81 80 79 73 72  
+
+7064A  
+2022-1933  
+2020 18 16 13 12 03 1999 97 89 87 82 81 80 71 67 54 59 50 39 34  
+2009 br r  
+
+7064C  
+0-170  
+
+7075A  
+2022-1850  
+2020 13 12 04 1997 92 89 67 59 51 43 34 23 16 04 1899 93 86 84 80 70 68 57 54  
+Knot at 1849; dated to last full ring before knot; no bark but dates well from 2022
+
+7001A  
+0-96  
+No bark; relative
+
+
+## 2023-09-12
+- Crossdating and measuring APU
+
+### PIEN
+7464A  
+2022-1939  
+1939 ir  
+2018 13 04 03 1997 92 81 80 57 45  
+
+7203A  
+2022-1930  
+1930 cp  
+2016 12 08 03 1990 81 80 79 74 61 57 44 39 34  
+
+7229A  
+2022-1947  
+2018 12 02 1997 90 79 78 69 65 57 56 52  
+2013 br lr  
+
+7473A  
+2022-1940  
+2018 13 12 04 1999 98 97 92 81 80 70 67 66 64 59 58 52 46 45  
+2015 br l  
+2016 br r  
+
+### ABLA
+7379A  
+2022-1936  
+2019 12 06 03 1997 71 70 67 59 52 51 43 40 39  
+1936 ir  
+
+7456B  
+0-63  
+0 ir  
+doesn't crossdate well with anything; may be some rings missing at bark end
+
+7328A  
+2022-1949  
+1949 ir  
+2020 13 12 06 1997 94 89 80 78 56 51  
+dated to last complete ring before knot / distorted pith  
+1990 br r  
+
+7415A  
+2022-1966  
+1966 ir  
+2020 12 03 02 1997 89 80 71 68
+2012 br l  
+2013 br r  
+
+7454A  
+2022-1949  
+2018 12 06 03 1997 95 81 80 68 67 57  
+1953 cr a  
+2009 br r  
+
+7138A  
+0-41  
+0 cp  
+41 comp ring  
+
+7138B 
+0-47   
+0 comp ring  
+47 ir  
+
+7456A  
+0-66  
+0 ir  
+trouble crossdating even with B core
+
+7271A  
+0-38  
+0 ir  
+38 ir  
+
+7218A  
+0-46  
+0 ir at knot  
+46 last visible ring before bark growth  
+
+## 2023-09-07
+- Crossdating and measuring APU
+
+### ABLA
+APU7140A  
+2022-1923  
+1923 ir  
+2018 12 06 03 02 1997 89 81 77 71 67 51 50 43 32 29 
+
+APU7046A  
+2022-1946  
+1946 ir  
+2012 06 1997 89 79 72 71 66 62 56 52 51  
+
+APU7437A  
+2022-1882  
+1882 pp  
+2018 12 04 03 1997 80 71 67 56 52 43 35 34 23 20 16 06 1897 83  
+1940 br lr  
+2009 br r  
+2018 br r  
+
+APU7046B  
+2022-1937  
+1937 cp  
+2016 12 06 01 1997 89 81 80 79 71 62 57 56 52 51 42 39  
+1948 br lr  
+
+### PIEN 
+APU7224A  
+2022-1919  
+1919 ir  
+2018 12 06 04 1997 92 89 80 77 63 53 43 39 36 34 28 24  
+break at 1998 comprises 1 ring
+
+APU7064B  
+2022-1824  
+multiple piths/knots; possible krumholz legacy; knot before 1824; dated to last good ring  
+2022 minimal/missing  
+2018 13 12 03 1997 82 81 70 67 63 50 43 39 34 20 16 04 1899 93 87 80 74 73 72 68 64 57 51 40 30 29 24
+
+APU7231A  
+2022-1963  
+complacent; may not crossdate well; no bark but visually dates OK  
+2012 04 03 1995 89 87 79 71 70  
+2009 br r  
+
+## 2023-09-05
+### Dendro
+- Crossdating and measuring APU
+
+### PIEN
+
+APU7427A  
+2022-1907
+2016 12 04 03 1999 97 95 81 67 57 52 51 39 34 32 27 16 13  
+1907 cp
+
+APU7235B  
+2022-1847  
+2016 13 12 07 03 1997 89 81 80 77 70 67 51 50 46 40 34 25 19 15 13 10 06 04 1893 83 80 73 67 65 62 53 51  
+1967 br r  
+2019 br lr  
+1847 cp  
+
+APU7068A  
+2022-1927  
+2018 12 07 02 1997 89 82 81 69 67 62 57 52 48 43 42 39 32  
+1927 cp  
+2011 br lr  
+2017 br r  
+
+APU7042B
+2022-1784  
+2020 16 12 04 03 02 1997 89 81 77 72 68 62 56 42 39 34 24 16 10 1894 81 70 69 62 61 55 52 45 41 38 34 31 26 25 24 23 20 16 04 01 1793  
+1784 pp  
+2011 br r  
+possible additional ring at 1841 - thought it was false on first reading
+consider dating the other side of the core - nearly complete 
+
+APU7041B
+2022-1761  
+2016 12 03 02 1997 89 80 70 68 67 63 62 49 39 34 32 25 23 15 06 04 1899 93 87 80 72 58 65 64 57 51 40 39 36 24 14 01 1793 89 75 64 63  
+1761 ir  
+2006 cr a  
+2007 cr b  
+
+APU7235A
+2022-1868  
+2016 13 12 07 03 1997 92 89 87 80 77 70 67 61 57 51 50 46 40 39 34 31 25 13 10 06 04 1893 90 84 83 80 73  
+1868 ir  
+2019 cr a  
+2020 cr b  
+
+</p>
+</details>
+
+<details>
+<summary>
+<h1>June</h1>
+</summary>
+<p>
 
 ## 2023-06-08
 ### Dendro
@@ -76,6 +358,7 @@ CVA1044A
 2022-1954  
 1954 IR  
 2019 13 12 08 03 1997 95 94 89 80 79 71 68 62 57  
+1984 br lr  
 1995 BR L  
 1996 BR R  
 
@@ -97,7 +380,7 @@ APU7041A
 
 APU7011A  
 2022-1872
-1872 ir    
+1872 ir
 2020 13 12 06 02 1997 92 89 81 80 77 68 67 59 53 43 39 37 34 30 23 18 16 09 06 00 1899 90 91 85 84 83 80 76  
 
 APU7132A   
@@ -143,6 +426,12 @@ CVA1229B
 2005 03 1999 93 92 63 54  
 2020 br lr  
 2021 br r  
+
+<details>
+<summary>
+<h1>April</h1>
+</summary>
+<p>
 
 ## 2023-05-25
 ### Dendro
@@ -200,7 +489,7 @@ CVA1007B
 
 CVA1248A  
 2022-1897  
-1897 ir    
+1897 ir
 2020 13 12 03 1999 97 92 88 87 81 77 70 67 63 61 31 15 13 09 08 1900 
 
 CVA1019A  
@@ -322,7 +611,7 @@ CVA1346A
 2018 12 08 04 1995 81 77 72 71 67 64 59 56 44 40 23 19 16  
 
 CVA1346B  
-1987-1904    
+1987-1904
 1904 ir  
 1987 comp  
 1985 81 77 64 56 44 19 18 16 13  
@@ -401,13 +690,11 @@ CVA1352A
 2013 12 06 03 1997 95 83 81 80 52 46 38 31  
 doesn't crossdate very well; weird marker years, may not correlate 
 
-
 CVA1220A  
 2022-1925  
 1925 ir  
 2014 11 06 1994 92 90 87 81 70 67 63 57 52 49 46 45 27  
 1965 BR LR  
-
 
 CVA1347A  
 2022-1908  
@@ -437,9 +724,9 @@ break spans 2020 only
 </details> 
 
 <details>
-    <summary>
-        <h1>April</h1>
-    </summary>
+<summary>
+<h1>April</h1>
+</summary>
 <p>
 
 ## 2023-04-26
@@ -474,7 +761,7 @@ CVA1343A
 CVA1172A  
 2022-1932  
 1932 cp  
-2013 03 1997 81 80 77 71 67 61 57 52 39 36    
+2013 03 1997 81 80 77 71 67 61 57 52 39 36
 2015 br r 
 
 CVA1322A  
@@ -760,16 +1047,16 @@ break at 206/15 is confusing; count up from 2010
 - So cross-validation should probably also work at the tree scale
 - First thought, not LOOCV, but k-fold
 - Steps:
-    1. Split inventory data into 80-20 train-test set
-        2. Run A_i,p_j on 80%; save A, p, loss
-        3. Run A_i, p_j+1 on 80%; save A, p, loss
-        4. Run A_i, p_j+2 on 80%; save A, p, loss
-        5. ...
-        6. Find best performing p in training
-        7. Apply to 20% and save loss
-    8. Generate another split
-        2-7.
-    9. Average training and testing loss over all splits 
+1. Split inventory data into 80-20 train-test set
+2. Run A_i,p_j on 80%; save A, p, loss
+3. Run A_i, p_j+1 on 80%; save A, p, loss
+4. Run A_i, p_j+2 on 80%; save A, p, loss
+5. ...
+6. Find best performing p in training
+7. Apply to 20% and save loss
+8. Generate another split
+2-7.
+9. Average training and testing loss over all splits 
 
 ## 2023-04-05
 ### Dendro
@@ -804,7 +1091,7 @@ knot 1950 back makes dating impossible before then
 
 PLA6136A  
 !! Wrong bark piece (+2 years) was mounted on this core. Ignoring this chunk, it dates well from 2019. Removed that chunk from mount, so now lacks bark  
-2019-1932    
+2019-1932
 1932 pp  
 2018 12 03 02 90 81 77 59 42 40  
 1937 Br R  
@@ -831,7 +1118,7 @@ PLA6136A
 2004 Br R  
 
 6132A  
-2019-1928    
+2019-1928
 1928 cp  
 2018 12 02 1994 90 81 77 44 40 34  
 1973 Br R  
@@ -875,7 +1162,7 @@ Break after 2017; 2018 and 2019 incomplete and not measured
 6123A   
 2011-1947  
 1947 inc  
-!! Bark chunk mounted backward; not dateable after 2011; break at 1947; not dateable before; may not correlate well; consider dropping    
+!! Bark chunk mounted backward; not dateable after 2011; break at 1947; not dateable before; may not correlate well; consider dropping
 2006 03 02 1997 90 89 81 80 64 59 54 52  
 1991 CR A  
 2007 BR LR
@@ -903,7 +1190,7 @@ Break after 2017; 2018 and 2019 incomplete and not measured
 2018 CR A  
 
 6114A  
-2019-1972    
+2019-1972
 1972 inc  
 2012 02 1997 94 89 81 80  
 2018 MISSING - TOO BROKEN TO MEASURE
@@ -951,9 +1238,9 @@ too rotten; removed from set
 </details>
 
 <details>
-    <summary>
-        <h1>March</h1>
-    </summary>
+<summary>
+<h1>March</h1>
+</summary>
 <p>
 
 ## 2023-03-30
@@ -1053,7 +1340,7 @@ PLA6131A
 2017 Br L  
 
 6147A  
-2019-1951    
+2019-1951
 2018 13 12 03 02 1994 82 80 77 76 67 61 57 54  
 1951 cp  
 1954 Br R  
@@ -1063,7 +1350,7 @@ PLA6131A
 2018 Br lr  
 
 6135A  
-2019-1942    
+2019-1942
 2018 13 12 02 1992 90 83 82 81 77 67 61 57 56  
 1942 inc  
 1953 Br lr  
@@ -1208,7 +1495,7 @@ SNB6043A
 2015 Br R  
 2019 pyg  
 
-SNB6015A     
+SNB6015A 
 1909 pp  
 1975 Br R  
 2007 Br B  
@@ -1226,8 +1513,8 @@ REMOVING FROM SET - MISLABELED AND HAS CHUNK MOUNTED BACKWARD
 ### Inventory and forest structure
 - Checking formatted and collated inventory data
 - Notice there are a couple thousand `Canopy_Position` observations missing
-    - Don't think there should be this many, as I think we took observations on CP any time we did heights, and certainly at new sites
-    - Likely an artifact of merging... perhaps a data type issue ... at some point that may have been imported as factor and rowbinding may have dropped non-factor entities or something
+- Don't think there should be this many, as I think we took observations on CP any time we did heights, and certainly at new sites
+- Likely an artifact of merging... perhaps a data type issue ... at some point that may have been imported as factor and rowbinding may have dropped non-factor entities or something
 - TODO: we still need to incorporate data from 2022 sites  
 
 ## 2023-03-16
