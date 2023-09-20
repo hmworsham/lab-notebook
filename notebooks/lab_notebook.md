@@ -427,6 +427,9 @@ CVA1229B
 2020 br lr  
 2021 br r  
 
+</p>
+</details>
+
 <details>
 <summary>
 <h1>April</h1>
