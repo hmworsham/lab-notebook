@@ -7,6 +7,70 @@ H. M. Worsham
 </summary>
 <p>
 
+## 2023-09-26
+
+### SSA 
+- Checking Quinn's SSA work
+	- 5076A - corrected
+		- First 3 rings mounted backward so excluded and started dating/measuring from 2016 instead of 2019
+	- 5125A - corrected
+		- Quinn counted an extra ring adjacent to bark so full series was offset + 1 year
+	- 5199A - looks OK
+	- 5017A - corrected
+		- Chunk 2 mounted backward so broke this up up and considered pre-2011 relative
+		- Now 2 additional floater series 
+	- 5015A - Corrected
+		- Missing rings at 2016-2017
+		- Originally dated as continuous series from 2019
+		- Dated and measured from break at 2015
+	- 5196A - looks OK
+
+### PVG PIEN
+- Crossdating and measuring
+
+8652A
+2022-1869  
+
+8652B  
+2022-1869  
+No bark but dates well  
+
+8609A
+2022-1798  
+1808 br r - break may not actually be continous; rings don't look to align well but see how well it xdates with others of similar age...   
+2020 br lr  
+
+## 2023-09-21
+- Crossdating and measuring UCA 
+
+### UCA PIEN
+6087A  
+2019-1753  
+1965 br r  
+
+6082A  
+2019-1666  
+1947 br r 
+
+6059A  
+2019-1900  
+
+6075A  
+2019-1774  
+
+### UCA ABLA
+6042A  
+2019-1904  
+2003 br r  
+
+6056A  
+2019-1876  
+2009 br r  
+
+6089A  
+2019-1918  
+1993 br r  
+
 ## 2023-09-19
 - Crossdating and measuring SSA PIEN
 

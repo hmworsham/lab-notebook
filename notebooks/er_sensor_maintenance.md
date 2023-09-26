@@ -3,6 +3,391 @@
 A set of running notes made during visits to Dafflon and Worsham conifer forest sensor sites 
 in Kueppers et al. forest inventory plots in and around the East River watershed, Colorado.
 
+
+<details>
+    <summary>
+        <h1>2023</h1>
+    </summary>
+<p>
+
+## 8/9/2023
+### XX-PLN2
+Arrived: NA
+Exited: NA
+Personnel: Worsham, MT Powell, Sewanee
+
+#### Soil VWC/T/EC
+Repaired logger housing mount. Everything functional. Data download OK. Left same batteries as they were at 100%. 
+
+#### Air T/RH
+Spliced broken cable. No data download. No reader. 
+
+## 8/8/2023
+### ER-APU1 
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham   
+
+#### Snow DTP 
+EEBFB0  
+Data download successful. Leans 44º downslope. Straightened.
+
+- GTG (ortho, before straightening): 143 cm
+- GTG (ortho, after straightening): 162 cm
+
+C158AF  
+Data download successful. Leans 38º downslope. Straightened. 
+
+- GTG (ortho, before straightening): 171 cm
+- GTG (ortho, after straightening): 182 cm 
+
+C0AF01
+Data download successful. Sharp c-shaped bend in probe. Did not straighten, as doing so would likely break probe.
+
+- GTG (ortho): 87 cm
+
+## 8/7/2023
+### ER-BME1
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
+
+#### Site note
+Most infrastructure OK. Some bent DTP probes. 
+
+#### Soil VWC/T/EC
+Mount broken. Repaired with new style. Data download OK. Complete record. 15 minute logging interval. Replaced batteries: all 100%. 
+
+#### Snow DTP
+EDAD8A  
+Dead battery in logger. Replaced. Functional. Reset date/time. Download OK but new date seems off. 
+
+- GTG: 176 cm
+
+EC94AF  
+Data download OK. Complete record. 
+
+- GTG: 102 cm
+
+#### Soil DTP
+E2729C  
+Download OK. Complete record. 
+
+- GTG 0 cm
+
+### ER-BME3
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham, Sewanee
+
+#### Site note
+Quick data download during mortality survey, since we were there. Everything looks good heading into winter.
+
+#### Soil VWC/T/EC
+Data download successful. Complete record. 
+
+## 8/4/2023
+### SR-PVG1
+Arrived: NA
+Exited: NA
+Personnel: Worsham, MT Powell
+
+#### Site note
+Site in poor shape. Big leans in infrastructure. Lots of dead equipment. 
+
+#### Soil VWC/T/EC
+Logger dead. Could not download data. Moinsture inside logger. Likely due to lean downslope and resulting snow intrusion. Replacing batteries allowed connection, but no new data since last visit. Dried interior and removed desiccant. Need to replace desiccant at next visit. Replaced old mount with new style.
+
+#### Snow DTP
+DA9321  
+Data download successful. Complete record. "S" curve at bottom of probe. Did not straighten.
+
+- GTG (ortho): 94.7 cm
+
+#### Air T/RH
+Bent. Straightened. No data download. No reader.
+
+### ER-APU1
+Arrived: 09:45  
+Exited: 11:50  
+Personnel: Worsham, MT Powell  
+
+#### Soil VWC/T/EC
+Data download OK. Infrastructure in good shape. Post bent downslope. Straightened. EC had frequent NAs across ports. Battery dropped to ~50% in April and May. Stayed above that for rest of winter. Replaced batteries. Logger functional. Upgraded mount.  
+
+No snow or soil DTP data download this trip. Need to bring phone up and get during mortality survey.
+
+#### Air T/RH
+No data download. Shield bent. Straightened.
+
+## 8/2/2023
+### ER-APL1
+Arrived: NA 
+Exited: NA  
+Personnel: Worsham, Dashpute, Budoff-Corujo, MT Powell, Frazee
+
+Repaired HOBO mount with new style.
+
+## 8/1/2023
+### CC-CVS1
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham 
+
+#### Soil VWC/T/EC
+- Replaced batteries in VWC with new rechargeables - at 100%
+- Repaired mount with new style
+- Reinstalled solar panel
+- Data download OK, all probes and logger functional
+- Temporary batteries remained at 100% in interim
+
+#### Air T/RH
+- Replaced mount
+
+## 7/22/2023
+### CC-CVS1 
+Arrived: NA
+Exited: NA
+Personnel: Worsham
+
+#### Soil VWC/T/EC
+
+- Reinstalled Meter logger at 08:20. Connection and data download OK. 
+- Note that data need to be removed for downtime:
+    - 07/16/2023 16:32 - 07/22/2023 08:20 [Meter]
+    - 07/16/2023 16:48 - 07/22/2023 08:25 [HOBO]
+- Temporarily mounted with zipties. Housing still broken. Used non recharge batteries temporarily
+- On next visit, need to:
+    - Replace Meter batteries with rechargeable
+    - Reinstall Meter solar connection 
+    - Fix Meter mounts
+
+#### Air T/RH
+- Reinstalled HOBO at 08:25
+- HOBO mounted with stick
+- On next visit, need to: 
+    - Replace HOBO with new style mount
+
+## 7/18/2023
+### SG-NES1
+Arrived: 14:00
+Exited: 14:35
+Personnel: Worsham
+
+Site OK. Most sensors bent but many still functional. 
+
+#### Soil VWC/T/EC
+Data download OK. Complete record. Loggger OK. Battery = 55%. Facing downhill with bend so low light exposure. T-post severely bent. Straightened and reoriented more southward. All probes functional. 
+
+#### Snow DTP
+E19F98  
+Data download OK. Complete record. 90º bend downslope at 110 cm but still functional. Straightened and left in place. 
+
+- GTG (before straightening): 104 cm
+- GTG (after straightening): 178 cm
+
+D15344  
+Data download OK. Complete record. Slight bend, though still functional. Left in place. 
+- GTG: 161 cm
+
+#### Soil DTP
+FF10A3  
+Data download successful. Complete record. 
+
+- GTG: 0 cm
+
+D1E4DD  
+Data download successful. Complete record. 
+
+- GTG: 4.8 cm
+
+#### Air T/RH
+No download. Mount bent. Straightened.
+
+## 7/16/2023
+### CC-CVS1
+Arrived: 16:00  
+Exited: 17:00  
+Personnel: Worsham, Dashpute  
+
+#### Site note
+Site in OK shape. Some damage to probes. Lots of snow over winter, evidently. 
+
+#### Soil VWC/T/EC
+Logger dead. No data downloaded. Removed for troubleshooting and will replace on or around 7/17. 
+
+#### Snow DTP
+DBD0B2  
+Data download OK. Full probe died 5/8/22. Logger sensor also dead. Removed.
+
+E029EE  
+Data download OK. Complete record. Leaned downslope. Measured angle and GTG distance, then straightened and remeasured.
+
+- Angle of lean downslope: 39º
+- GTG (orthogonal): 1.58 m 
+- GTG (along probe): 1.82 m
+- GTG (after straightening): 1.80 m
+
+#### Soil DTP
+F9E464
+Died 10/6/22, just a month after installing... argh. Only have data to 10/6. Connection issue. Removed and held logger for troubleshooting and data download. 
+
+#### Air T/RH
+Mount broken, sensor dangling. Removed and will reinstall with new mount around 7/17. 
+
+## 6/17/23
+### XX-PLN2
+Arrived: 09:40  
+Exited: 10:50  
+Personnel: Worsham  
+
+#### Site note
+Site in great shape. No breaks, all sensors functional. Some damage to Meter logger housing, to repair next visit.  
+
+#### Soil VWC/T/EC
+Logger mount broken. Taped for now. Need to replace with better solution for winter. Battery 0% for much of winter. Need to reorient for good sun exposure. 
+
+#### Snow DTP
+FD3BC1  
+Download OK. Complete record.
+
+EDED77  
+Download OK. Complete record. 
+
+#### Soil DTP
+EF707A  
+Download OK. Complete record.
+
+FF3475  
+Download OK. Complete record. 
+
+DDD64E  
+Download OK. Complete record. 
+
+#### Air T/RH
+No download, no reader. Cable chewed through. Didn't have time to repair so need to do so at next visit.
+
+## 6/13/23
+### SG-SWR1
+Arrived: 11:00
+Exited: 12:30  
+Personnel: Worsham, Kueppers, Budoff-Corujo, Talavera, Sanchez  
+
+#### Site note
+Site is in good shape. One bent/broken snow probe. HOBO mount broken. Some remnant snow.
+
+#### Soil VWC/T/EC
+Data download OK. Battery 100%, >0% through winter. Complete record since last download. 
+
+#### Snow DTP
+D00829  
+Data download OK. COmplete record except bottom sensor.
+
+E3C6D1
+Not detected on phone. Still in snow. Need to return and pull data, measure deformity after melt.
+
+#### Soil DTP
+E56385  
+Data download OK. Still under snow. Complete record except bottom sensor.
+
+E94751
+Not detected. Under snow.
+
+#### Air T/RH
+Mount broken. No data download, no reader.
+
+- GTG: 158 cm
+
+## 6/12/23
+### ER-GT1
+Arrived: 12:10  
+Exited: 12:45  
+Personnel: Worsham, Budoff-Corujo  
+
+#### Site note
+Site is in OK shape. One snow probe bent badly. Soil probes OK. No snow remaining at sensor sites. 
+
+#### Soil VWC/T/EC
+Data download OK. Full record. Battery 100% and >0% through period. 
+
+#### Snow DTP
+CA177F  
+Dead. Removed. Probe bent downslope at 90º, PVC broken at top of rebar. Dead from probe 11 down from 4/14/23. Download OK but incomplete record. Measurements:
+
+- From gland, bend at 83 cm 
+- GTG: 79 cm
+
+D1AB1B  
+In place. Data download OK. Complete record. No damage.
+
+#### Soil DTP 
+F408C9  
+In place. Data download OK. Complete record.
+
+C50CF1  
+In place. Data download OK. Complete record.
+
+#### Air T/RH
+No download. No reader. Radiation shield broken. Mount OK.
+
+### ER-APL1  
+Arrived: 10:00  
+Exited: 11:00  
+Personnel: Worsham, Budoff-Corujo  
+
+#### Site note
+Site is in OK shape. Snow probes deformed at top near loggers, likely due to snow compression. Assume both are broken but may still be logging. One soil T probe visible, no longer in snow.
+
+#### Soil VWC/T/EC
+Data download OK. Complete record. Battery 100% and > 0% for full period. 
+
+#### Snow DTP
+D61896  
+Dead. Removed. Bent severely at logger, not detected on phone. Saved logger for data retrieval in lab. [Lab note: logger was unplugged and batteries dead. Data downloaded OK with new battery.] Probe died 12/30/22, fully dead below logger. Bend measurements: 
+
+- From gland bottom, hard bend at 3cm, soft bend at 12 cm
+- From apex of soft bend to soil: 150 cm
+- GTG (orthogonal): 156 cm
+
+C89BC2  
+Dead. Removed. Sensor broken below logger 3/26/23. Still in 10 cm of snow. A well formed around probe (8cm diameter) at surface, nearly cylindrical down 4 cm to well bottom. Bend measurements: 
+
+- From gland bottom, hard bend at 3.5 cm, soft bend at 14.5 cm 
+- From apex of soft bend to soil: 148 cm
+- GTG (orthogonal): 154 cm
+
+#### Soil DTP
+F6F387  
+In place. Data download OK. Full record. No longer in snow. Only soil DTP probe in site.
+
+- GTG: 0 cm 
+
+#### Air T/RH
+No data download. No reader. Broken mount (old style) needs replacing.  
+
+
+## 6/11/23
+### SR-PVG1 
+Arrived: 16:20  
+Exited: 17:10  
+Personnel: Worsham
+
+#### Site note
+Soil snow sensor data download thwarted!  River was crossable but a snowplug remained at PG2 campsite. Slope extremely snowy, hard to access site. Everything still under snow; soil moisture logger only just visible at snow surface. Pulled soil VWC/T/EC but heard a wet slide somewhere upslope and left. 
+
+#### Soil VWC
+Data download OK. Logger died 2/12/23, no readings after that point. Some ice visible within logger body; may have intruded when pole was pushed downslope; bottom of logger was fully in contact with snow. Will need to be repaired or replaced after snowmelt. 
+
+#### Snow DTP
+DA9321  
+Still buried but detected on phone. Data download OK through 4/27/23, nothing after. Possible battery or logger connection issue. Full record for period before then. Will need to repair or replace after snowmelt. 
+
+#### Air T/RH
+Not downloaded. No reader in SFA house. 
+
+</p>
+</details>
+
 <details>
     <summary>
         <h1>2022</h1>

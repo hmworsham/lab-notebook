@@ -4,6 +4,218 @@ A set of running notes made during visits to Kueppers et al. conifer forest inve
 
 <details>
     <summary>
+        <h1>2023</h1>
+    </summary>
+<p>
+
+## 8/9/2023
+### XX-PLN2
+Arrived: NA
+Exited: NA
+Personnel: Worsham, MT Powell, Sewanee
+
+Mortality survey. Also repaired soil VWC logger and HOBO air T/RH cable. 
+
+## 8/8/2023
+### ER-APU1 
+
+Mortality survey. Downloaded DTP data.
+
+## 8/7/2023
+### ER-BME1
+
+Sensor data download and maintenance. 
+
+### ER-BME3  
+
+Mortality survey. Downloaded VWC data.
+
+## 8/4/2023
+### SR-PVG1
+Arrived: NA
+Exited: NA
+Personnel: Worsham, MT Powell
+
+Sensor data download and maintenance. Site in poor shape due to heavy snow. Snow finally gone. 
+
+### ER-APU1
+Arrived: 09:45  
+Exited: 11:50  
+Personnel: Worsham, MT Powell  
+
+Sensor data download and maintenance. Set lines for mortality survey. 3 tags and collars found on the ground
+
+- 7344 - hung on dead tree at S edge of plot
+- 7065 - left in place on the ground
+
+## 8/3/2023
+### ER-APL1
+Arrived: 09:30  
+Exited: 15:00  
+Personnel: Worsham, MT Powell, Frazee
+
+Reinventory. Complete. All stems located and measured. Full records.
+
+## 8/2/2023
+### ER-APL1
+Arrived: NA 
+Exited: NA  
+Personnel: Worsham, Dashpute, Budoff-Corujo, MT Powell, Frazee
+
+Reinventory. Also repaired HOBO mount with new style. No data download.
+
+## 8/1/2023
+### ER-APL1
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
+Set lines for reinventory. No inventory–storms.
+
+### CC-CVS1
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham 
+
+Sensor maintenance.
+
+## 7/22/2023
+### CC-CVS1 
+Arrived: NA
+Exited: NA
+Personnel: Worsham
+
+Sensor maintenance and data download. 
+
+## 7/21/2023
+### ER-APL1
+Arrived: NA
+Exited: NA
+Personnel: Worsham
+
+Soil sampling for HYPROP. 
+
+- Dug to 15 cm 
+- Loamy soil 
+- Some metasedimentary stones 1-2 cm
+- Removed sample at 17:25. Check SM records.
+
+### ER-GT1
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
+
+Soil sampling for HYPROP. 
+
+- Dug to 18 cm
+- Hammered ring into flat surface
+- Some stones at 2-3 cm down
+- Clay-loam, more sand and decomposing granodiorite than at ER-BME1
+- Removed sample at 16:15. Check SM data
+- Distance to logger: 1.6 m
+
+### ER-BME1
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
+
+Soil sampling for HYPROP. 
+
+- Dug to 18 cm
+- Exposed flat soil surface
+- Hammered ring with rubber mallet until flush with bottom
+- Soil = clay-loam, 0% rocks and stones
+- MOIST!
+- Removed sample at 15:30. Check SM records.
+- Distance to SM logger: 5.0 m 
+
+## 7/20/2023
+### SG-NES2
+Arrived: NA
+Exited: NA
+Personnel: Worsham, MT Powell, Dashpute, Budoff-Corujo, Frazee  
+
+Re-inventory Day 1 + coring PICO. Only got a handful of PICO, trying to keep up with inventory pace and dealing with storm. Field data in `EastRiver_Coring_Field_Data_2022-2023.`
+
+## 7/18/2023
+### SG-SES1
+Arrived: 15:10 
+Exited: 17:00
+Personnel: Worsham
+
+Soil sampling for HYPROP. Protocol:
+
+- Dug pit to 15 cm
+- Exposed flat surface at bottom
+- Using a rubber mallet, hammered sampling ring to flush with soil surface
+- Used trowel to dig out soil around ring
+- Pulled out ring, using trowel to preserve soil at bottom, and leaving some soil mounded on top
+- Cut mound so soil level was flush with edge of ring
+- Soil was extremely dry and somewhat rocky: may have lost some soil or disrupted pore structure especially near the bottom of the sample 
+- Removed sample at 16:35. Check SM records.
+- Distance to logger: 3.2 m
+
+Notes: 
+- Had to dig 3 pits and refill 2
+- First tried to hammer without plastic top on top of ring, and soil bounced out with hammering
+- Also tried extracting ring without trowel assist, and soil all poured out
+- In second pit, tried using trowel to assist extraction, but still lost a lot of soil
+- Conclusion was that I needed to dig down well below the bottom of the ring to pull ring and soil out with minimal disturbance
+
+### SG-NES1
+Arrived: 14:00
+Exited: 14:35
+Personnel: Worsham
+
+Sensor data download. Site in decent shape. Very little to remove. 
+
+## 7/16/2023
+### CC-CVS1
+Arrived: 16:00  
+Exited: 17:00  
+Personnel: Worsham, Dashpute  
+
+Sensor data download. Site in poor shape.
+
+## 6/17/23
+### XX-PLN2
+Arrived: 09:40  
+Exited: 10:50  
+Personnel: Worsham  
+
+Sensor data download. Site in great shape.
+
+## 6/13/23
+### SG-SWR1
+Arrived: 11:00
+Exited: 12:30  
+Personnel: Worsham, Kueppers, Budoff-Corujo, Talavera, Sanchez  
+
+Sensor data download and scouting for sapflux installation. Site in good shape. 
+
+## 6/12/23
+### ER-GT1
+Arrived: 12:10  
+Exited: 12:45  
+Personnel: Worsham, Budoff-Corujo  
+Sensor data download. Site in OK shape. 
+
+### ER-APL1  
+Arrived: 10:00  
+Exited: 11:00  
+Personnel: Worsham, Budoff-Corujo  
+Sensor data download and maintenance. Site in OK shape. Even more deadfall than I recall from last year. Hard-hit defoliated trees from August 2022 mostly seem to have revived, survived. Some new green growth evident on defoliated branches.
+## 6/11/23
+### SR-PVG1
+Arrived: 16:20  
+Exited: 17:10  
+Personnel: Worsham  
+Sensor data download and maintenance. Thwarted due to snow. 
+
+</p>
+</details>
+
+<details>
+    <summary>
         <h1>2022</h1>
     </summary>
 <p>
