@@ -10,9 +10,9 @@ A set of running notes made during visits to Kueppers et al. conifer forest inve
 
 ## 8/9/2023
 ### XX-PLN2
-Arrived: NA
-Exited: NA
-Personnel: Worsham, MT Powell, Sewanee
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham, MT Powell, Sewanee  
 
 Mortality survey. Also repaired soil VWC logger and HOBO air T/RH cable. 
 
@@ -32,9 +32,9 @@ Mortality survey. Downloaded VWC data.
 
 ## 8/4/2023
 ### SR-PVG1
-Arrived: NA
-Exited: NA
-Personnel: Worsham, MT Powell
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham, MT Powell  
 
 Sensor data download and maintenance. Site in poor shape due to heavy snow. Snow finally gone. 
 
@@ -58,9 +58,9 @@ Reinventory. Complete. All stems located and measured. Full records.
 
 ## 8/2/2023
 ### ER-APL1
-Arrived: NA 
+Arrived: NA  
 Exited: NA  
-Personnel: Worsham, Dashpute, Budoff-Corujo, MT Powell, Frazee
+Personnel: Worsham, Dashpute, Budoff-Corujo, MT Powell, Frazee  
 
 Reinventory. Also repaired HOBO mount with new style. No data download.
 
@@ -80,17 +80,17 @@ Sensor maintenance.
 
 ## 7/22/2023
 ### CC-CVS1 
-Arrived: NA
-Exited: NA
-Personnel: Worsham
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
 
 Sensor maintenance and data download. 
 
 ## 7/21/2023
 ### ER-APL1
-Arrived: NA
-Exited: NA
-Personnel: Worsham
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
 
 Soil sampling for HYPROP. 
 
@@ -130,17 +130,17 @@ Soil sampling for HYPROP.
 
 ## 7/20/2023
 ### SG-NES2
-Arrived: NA
-Exited: NA
+Arrived: NA  
+Exited: NA  
 Personnel: Worsham, MT Powell, Dashpute, Budoff-Corujo, Frazee  
 
 Re-inventory Day 1 + coring PICO. Only got a handful of PICO, trying to keep up with inventory pace and dealing with storm. Field data in `EastRiver_Coring_Field_Data_2022-2023.`
 
 ## 7/18/2023
 ### SG-SES1
-Arrived: 15:10 
-Exited: 17:00
-Personnel: Worsham
+Arrived: 15:10  
+Exited: 17:00  
+Personnel: Worsham  
 
 Soil sampling for HYPROP. Protocol:
 
@@ -162,9 +162,9 @@ Notes:
 - Conclusion was that I needed to dig down well below the bottom of the ring to pull ring and soil out with minimal disturbance
 
 ### SG-NES1
-Arrived: 14:00
-Exited: 14:35
-Personnel: Worsham
+Arrived: 14:00  
+Exited: 14:35  
+Personnel: Worsham  
 
 Sensor data download. Site in decent shape. Very little to remove. 
 
@@ -186,7 +186,7 @@ Sensor data download. Site in great shape.
 
 ## 6/13/23
 ### SG-SWR1
-Arrived: 11:00
+Arrived: 11:00  
 Exited: 12:30  
 Personnel: Worsham, Kueppers, Budoff-Corujo, Talavera, Sanchez  
 
@@ -204,6 +204,7 @@ Arrived: 10:00
 Exited: 11:00  
 Personnel: Worsham, Budoff-Corujo  
 Sensor data download and maintenance. Site in OK shape. Even more deadfall than I recall from last year. Hard-hit defoliated trees from August 2022 mostly seem to have revived, survived. Some new green growth evident on defoliated branches.
+
 ## 6/11/23
 ### SR-PVG1
 Arrived: 16:20  
@@ -219,7 +220,7 @@ Sensor data download and maintenance. Thwarted due to snow.
         <h1>2022</h1>
     </summary>
 <p>
-    
+
 ## 9/24/22
 ### XX-CAR3  
 Arrived: NA  
@@ -248,7 +249,7 @@ Sensor data download and maintenance. Site in good shape. No major changes since
 ## 9/23/22
 ### ER-APU1
 Arrived: 16:25  
-Exited: 17:45 
+Exited: 17:45  
 Personnel: Worsham, Wainwright, Wielandt  
 Sensor data download and maintenance. Clear day, beautiful. 
 
@@ -359,7 +360,7 @@ Mortality survey. Partway through the first lane, Worsham started doing smaller 
 ### SR-PVG1
 Arrived: 08:20  
 Exited: 10:45  
-Personnel: Worsham, Powell MT, Ramsey
+Personnel: Worsham, Powell MT, Ramsey  
 Mortality survey and sensor maintenance. Site was damp, as usual. Coral fungus and devil's fingers fruiting. Finished mortality survey quickly, as there were only about 80 trees. 
 
 ## 8/9/22
@@ -413,7 +414,7 @@ Coring. No major changes in site since July. Very warm and dry. T=75ºF. Underst
 ### ER-APU1
 Arrived: NA  
 Exited: NA  
-Personnel: Worsham, Henderson A, Peterson A   
+Personnel: Worsham, Henderson A, Peterson A  
 Coring. No major changes in site since June. Warm, windy and dry. All cores taken within plot boundaries.
 
 ## 7/14/22

@@ -12,9 +12,9 @@ in Kueppers et al. forest inventory plots in and around the East River watershed
 
 ## 8/9/2023
 ### XX-PLN2
-Arrived: NA
-Exited: NA
-Personnel: Worsham, MT Powell, Sewanee
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham, MT Powell, Sewanee  
 
 #### Soil VWC/T/EC
 Repaired logger housing mount. Everything functional. Data download OK. Left same batteries as they were at 100%. 
@@ -88,9 +88,9 @@ Data download successful. Complete record.
 
 ## 8/4/2023
 ### SR-PVG1
-Arrived: NA
-Exited: NA
-Personnel: Worsham, MT Powell
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham, MT Powell  
 
 #### Site note
 Site in poor shape. Big leans in infrastructure. Lots of dead equipment. 
@@ -122,7 +122,7 @@ No data download. Shield bent. Straightened.
 
 ## 8/2/2023
 ### ER-APL1
-Arrived: NA 
+Arrived: NA  
 Exited: NA  
 Personnel: Worsham, Dashpute, Budoff-Corujo, MT Powell, Frazee
 
@@ -146,9 +146,9 @@ Personnel: Worsham
 
 ## 7/22/2023
 ### CC-CVS1 
-Arrived: NA
-Exited: NA
-Personnel: Worsham
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
 
 #### Soil VWC/T/EC
 
@@ -170,9 +170,9 @@ Personnel: Worsham
 
 ## 7/18/2023
 ### SG-NES1
-Arrived: 14:00
-Exited: 14:35
-Personnel: Worsham
+Arrived: 14:00  
+Exited: 14:35  
+Personnel: Worsham  
 
 Site OK. Most sensors bent but many still functional. 
 
@@ -269,7 +269,7 @@ No download, no reader. Cable chewed through. Didn't have time to repair so need
 
 ## 6/13/23
 ### SG-SWR1
-Arrived: 11:00
+Arrived: 11:00  
 Exited: 12:30  
 Personnel: Worsham, Kueppers, Budoff-Corujo, Talavera, Sanchez  
 
@@ -283,14 +283,14 @@ Data download OK. Battery 100%, >0% through winter. Complete record since last d
 D00829  
 Data download OK. COmplete record except bottom sensor.
 
-E3C6D1
+E3C6D1  
 Not detected on phone. Still in snow. Need to return and pull data, measure deformity after melt.
 
 #### Soil DTP
 E56385  
 Data download OK. Still under snow. Complete record except bottom sensor.
 
-E94751
+E94751  
 Not detected. Under snow.
 
 #### Air T/RH
@@ -370,7 +370,7 @@ No data download. No reader. Broken mount (old style) needs replacing.
 ### SR-PVG1 
 Arrived: 16:20  
 Exited: 17:10  
-Personnel: Worsham
+Personnel: Worsham  
 
 #### Site note
 Soil snow sensor data download thwarted!  River was crossable but a snowplug remained at PG2 campsite. Slope extremely snowy, hard to access site. Everything still under snow; soil moisture logger only just visible at snow surface. Pulled soil VWC/T/EC but heard a wet slide somewhere upslope and left. 
@@ -452,12 +452,14 @@ Data downloaded successfully. Complete record. Took GTG and GTZ measurements. Re
 
 #### Soil DTP
 E56385  
-Data downloaded successfully. Complete record
-GTG: 11.5 cm
+Data downloaded successfully. Complete record  
+
+- GTG: 11.5 cm
 
 E94751  
-Data downloaded successfully. Complete record.
-GTG: 17.2 cm
+Data downloaded successfully. Complete record.  
+
+- GTG: 17.2 cm
 
 #### Air T/RH
 Data downloaded successfully. Data all OK. Relaunched. 
@@ -481,10 +483,10 @@ D15344
 Straightened rebar and gently straightened probe. Appears to be fully functional. Data download OK. Complete record post-straightening. Measured GTG (=161 cm).
 
 #### Soil DTP
-D1E4DD
+D1E4DD  
 Data download OK. Complete record. 
 
-FF10A3
+FF10A3  
 Data download OK. Complete record. 
 
 #### Air T/RH
@@ -684,14 +686,15 @@ Data downloaded successfully. Bent gently back to upright.
 #### Soil DTP
 C50CF1  
 Data downloaded successfully. Complete record.  
-GTG = 2.8 cm
+
+- GTG = 2.8 cm
 
 C5E3E8  
 Removed due to animal damage. Died on 7/5/22. Replaced with F408C9.  
 
 F408C9  
 Data downloaded successfully.  
-GTG: 2.3 cm
+- GTG: 2.3 cm
 
 
 ## 8/17/22
