@@ -201,6 +201,15 @@ No bark but dates well
 1808 br r - break may not actually be continous; rings don't look to align well but see how well it xdates with others of similar age...  
 2020 br lr  
 
+## 2023-09-25
+
+### Still to do with 2023 field notebook entry: 
+
+- enter sensor height measurements in spreadsheed "Sensor Height Measurements"
+- enter sensor installation notes
+- add new soil vwc sensors to sensor list and sensor status list
+- file photos per site
+
 ## 2023-09-21
 - Crossdating and measuring UCA 
 
