@@ -1,11 +1,172 @@
 # 2023 Lab Notebook
 H. M. Worsham
 
+
+<details>
+<summary>
+<h1>October</h1>
+</summary>
+<p>
+
+## 2023-10-03
+- Crossdating and measuring SSA
+
+### PIEN
+5154A  
+2019-1749  
+2018 13 12 03 2000 1997 95 92 89 81 77 67 63 54 50 34 25 06 02 1893 89 80 79 72 65 64 54 51 47 45 36 34 32 24 21 08 00 1793 87 82 79 68 60 56  
+1992 br r  
+1993 br l  
+
+6001A  
+2019-1930  
+2018 13 12 03 91 90  89 81 80 77 72 63 54 43 34   
+1998 br r  
+2011 br r  
+2012 br l  
+
+5126A  
+2019-1837  
+2018 16 13 12 03 02 1999 90 89 80 77 72 71 67 63 56 54 50 43 39 34 25 23 15 05 02 00 1893 89 80 61 51 47  
+1975 br lr  
+
+5129A  
+2019-1904  
+2018 12 03 02 1999 97 89 82 76 63 54 50 47 46 39 34 28 15   
+
+5119A  
+2019-1954  
+2013 12 03 02 1997 90 89 85 80 76 72 71 63 61  
+
+5045A  
+2019-1837  
+2013 12 03 02 1997 90 81 80 77 76 67 64 63 59 54 50 44 43 40 34 31 25 23 19 09 08 02 00 1899 96 93 89 84 80 76 68 65 62 54 53 51  
+1904 br r  
+1933 br r  
+1986 br lr  
+
+5795A  
+2019-1965  
+2013 12 03 02 1999 90 89 81 80 72 71  
+
+5031A  
+2019-1833  
+2013 12 03 02 1997 92 90 81 77 67 63 61 59 54 44 43 40 34 31 25 24 15 13 02 00 1899 96 93 89 80 76 73 68 65 53 51 42  
+
+5128A  
+2019-1921  
+2018 16 13 12 06 03 02 1999 97 90 89 80 77 76 63 61 56 50 46 44 40 34 
+2016 br l  
+
+5042A  
+2019-1903  
+2018 16 13 12 07 06 02 1997 90 81 77 64 63 61 59 54 50 40 37 34 31 25  
+dated to last clear ring at knot  
+1966 br r  
+2011 br r  
+
+5010A  
+2019-1908  
+2013 12 10 03 02 96 91 90 89 81 77 76 72 71 67 64 63 61 56 54 51 50 46 44 42 34 31 25  
+dated to last full ring before knot  
+1952 br lr  
+
+5041A  
+2019-1888  
+2018 16 13 12 07 03 02 1990 89 81 80 77 76 71 63 61 56 51 50 46 44 40 34 31 25 16 15 10 02 00 1896 93  
+1987 br r  
+2002 br r  
+
+6002A
+2019-1866  
+2013 12 06 03 02 1999 90 81 77 72 67 63 61 59 56 54 51 50 40 34 31 06 02 1899 96 93 80 79 
+49, 48 missing  
+very difficult to crossdate; may not correlate well  
+1933 br r  
+1997 br r  
+2017 br lr  
+2018 br r  
+
+5022A  
+2019-1814  
+2018 06 13 12 10 07 03 02 1997 90 81 80 77 76 72 67 63 61 59 56 54 48 40 34 31 25 23 15 10 02 00 1896 93 89 80 79 61 57 51 47 46 42 34 29 24  
+34 nearly missing  
+dated to last partial ring after break  
+
+5022B  
+0-29  
+NA  
+
+5111A  
+0-62  
+NA  
+55 br r  
+
+
+</p>
+</details>
+
 <details>
 <summary>
 <h1>September</h1>
 </summary>
 <p>
+
+## 2023-09-28
+- Crossdating and measuring PVG ABLA and PIEN
+
+### PIEN
+8617A  
+2022-1914  
+1914 cp  
+2013 12 11 03 1999 87 81 59 43 36 31 27 23 22 16    
+
+8655A  
+2022-1867  
+1867 cp  
+2013 11 03 1999 90 80 67 57 31 09 1899 93 76 75 70 65 62  
+2019 br l  
+
+8679A  
+2022-1830  
+2013 12 07 03 1999 97 81 72 57 54 34 19 02 1896 93 92 80 74 72 57 
+
+### ABLA  
+8627A  
+2022-1899  
+2013 08 06 03 1999 97 95 81 67 59 34  
+1950 br r  
+2013 br r  
+
+8627B  
+break at 1900 doesn't align  
+0-17  
+NA  
+
+8656A  
+2022-1908  
+1908 ir  
+2018 13 03 1995 81 80 71 67 59 32 27 09  
+2007 br lr  
+
+8626A  
+2022-1913  
+2016 13 03 1982 81 80 73 70 67 59 56 41 40 34 32 23  
+2001 br r  
+
+8634A  
+2022-1925  
+2013 03 1997 95 90 81 80 67 57 56 44 34  
+2014 br r  
+
+8616A  
+2022-1954  
+dated to last visible ring before knot  
+2013 12 03 1997 95 85 81 80 61  
+
+8635A  
+2022-1917  
+2013 03 1997 81 80 71 67 61 56 44 37 32 27 23  
 
 ## 2023-09-26
 
@@ -28,16 +189,16 @@ H. M. Worsham
 ### PVG PIEN
 - Crossdating and measuring
 
-8652A
+8652A  
 2022-1869  
 
 8652B  
 2022-1869  
 No bark but dates well  
 
-8609A
+8609A  
 2022-1798  
-1808 br r - break may not actually be continous; rings don't look to align well but see how well it xdates with others of similar age...   
+1808 br r - break may not actually be continous; rings don't look to align well but see how well it xdates with others of similar age...  
 2020 br lr  
 
 ## 2023-09-21
@@ -92,7 +253,7 @@ Last piece before bark (2 rings) mounted backward, not measured; rings missing; 
 5011A  
 2019-1817  
 2016 13 12 03 1997 81 80 77 67 42 39 34 31 22 16 10 02 1899 96 93 89 84 83 80 68 63 54 51 47 34 29  
-knot 1819-1829
+knot 1819-1829  
 
 5051A  
 2019-1828    
@@ -101,7 +262,7 @@ knot 1819-1829
 5110A  
 2019-1909  
 2013 12 03 02 1997 90 89 81 80 72 61 56 54 50 32 19  
-Break at 2001 spans one ring
+Break at 2001 spans one ring  
 2001 br b  
 
 5175A  
@@ -114,26 +275,26 @@ Break at 2001 spans one ring
 ### BMA PIEN
 1329A  
 2019-1917  
-1917 pp 
-1948-39 knot
+1917 pp  
+1948-39 knot  
 2011 03 1995 86 67 62 57 46 30 25 23 21  
 1961 br r  
 
 1355B  
 2022-1946  
-1946 ir 
+1946 ir  
 2013 12 11 07 04 03 1999 95 86 70 68 67 57  
 2020 br lr  
 
 1350B  
 2022-1941  
-1941 ir 
-2016 13 07 1986 83 82 78 71 64 62 52 
+1941 ir  
+2016 13 07 1986 83 82 78 71 64 62 52  
 2020 br r  
 
 1394B  
 2019-1810  
-2019 break ir
+2019 break ir  
 2011 04 03 1995 92 86 78 65 58 57 52 47 34 20 16 15 02 1895 84 80 79 72 68 65 62 58 47 46 32 29  
 
 1292B  
@@ -167,7 +328,7 @@ Knot at 1849; dated to last full ring before knot; no bark but dates well from 2
 
 7001A  
 0-96  
-No bark; relative
+No bark; relative  
 
 
 ## 2023-09-12
@@ -258,7 +419,7 @@ trouble crossdating even with B core
 APU7140A  
 2022-1923  
 1923 ir  
-2018 12 06 03 02 1997 89 81 77 71 67 51 50 43 32 29 
+2018 12 06 03 02 1997 89 81 77 71 67 51 50 43 32 29  
 
 APU7046A  
 2022-1946  
@@ -284,7 +445,7 @@ APU7224A
 2022-1919  
 1919 ir  
 2018 12 06 04 1997 92 89 80 77 63 53 43 39 36 34 28 24  
-break at 1998 comprises 1 ring
+break at 1998 comprises 1 ring  
 
 APU7064B  
 2022-1824  
@@ -305,9 +466,9 @@ complacent; may not crossdate well; no bark but visually dates OK
 ### PIEN
 
 APU7427A  
-2022-1907
+2022-1907  
 2016 12 04 03 1999 97 95 81 67 57 52 51 39 34 32 27 16 13  
-1907 cp
+1907 cp  
 
 APU7235B  
 2022-1847  
@@ -328,8 +489,8 @@ APU7042B
 2020 16 12 04 03 02 1997 89 81 77 72 68 62 56 42 39 34 24 16 10 1894 81 70 69 62 61 55 52 45 41 38 34 31 26 25 24 23 20 16 04 01 1793  
 1784 pp  
 2011 br r  
-possible additional ring at 1841 - thought it was false on first reading
-consider dating the other side of the core - nearly complete 
+possible additional ring at 1841 - thought it was false on first reading  
+consider dating the other side of the core - nearly complete  
 
 APU7041B
 2022-1761  
@@ -347,6 +508,37 @@ APU7235A
 
 </p>
 </details>
+
+<details>
+	<summary>
+		<h1>July</h1>
+	<summary>
+<p>
+
+## Tree crown detection
+
+Need to decide if it's all delineation or delineation + segmentation ... 
+- Li 2012
+- Dalponte 2016 (?) >> Dalponte is segmentation, but really just relies on LMF
+- ptree [delineation]
+- hamraz2016 [segmentation]
+- LayerStacking [segmentation]
+- multichm [delineation]
+- lmfauto
+
+SEGMENTATION ALGORITHMS CODED:
+1. Li 2012
+2. PTrees
+3. LayerStacking
+4. multichm
+5. lmf fixed window
+6. lmf variable window
+7. lmfauto
+8. TBD - from that one paper?
+9. watershed?
+
+</p>
+</summary>
 
 <details>
 <summary>
@@ -382,7 +574,7 @@ CVA1184A
 2016 13 12 1997 95 92 67 56 52 48 
 
 CVA1040B  
-2022-1913 
+2022-1913  
 2012 03 1997 87 81 77 67 55 16  
 
 CVA1044A  
@@ -447,8 +639,8 @@ APU7011A
 1872 ir
 2020 13 12 06 02 1997 92 89 81 80 77 68 67 59 53 43 39 37 34 30 23 18 16 09 06 00 1899 90 91 85 84 83 80 76  
 
-APU7132A   
-2022-1833 
+APU7132A  
+2022-1833  
 1833 ir  
 2020 18 12 04 02 1997 92 89 81 77 76 70 67 59 43 27 16 15 04 1899 93 86 85 84 76 68 65 62 54 49 
 
@@ -467,7 +659,7 @@ not sure this one is accurately crossdated; bark chunk may be missing rings
 2019 br lr  
 
 APU7474A
-2022-1933   
+2022-1933  
 2013 12 08 03 02 97 90 84 81 70 68 67 59 57 56 52 43 40 39 38  
 1933-1960 rot  
 
@@ -545,7 +737,7 @@ CVA1040A
 2016 br lr  
 
 CVA1003B  
-2022-1912 
+2022-1912  
 1912 ir   
 2018 13 04 03 1999 97 88 87 81 77 34 31 26 19  
 
@@ -556,7 +748,7 @@ CVA1007B
 
 CVA1248A  
 2022-1897  
-1897 ir
+1897 ir  
 2020 13 12 03 1999 97 92 88 87 81 77 70 67 63 61 31 15 13 09 08 1900 
 
 CVA1019A  
@@ -567,7 +759,7 @@ CVA1019A
 CVA1260B  
 2022-1909  
 1909 ir  
-2019 13 12 04 03 1999 97 95 81 77 67 64 61 45 41 38 35 25 24 19 12 
+2019 13 12 04 03 1999 97 95 81 77 67 64 61 45 41 38 35 25 24 19 12  
 2014 cr a  
 
 CVA1229A  
@@ -621,12 +813,12 @@ CVA1019A
 #### ABLA
 
 CVA1350A  
-2022-??
+2022-??  
 removed from set - too broken up to crossdate
 
 #### PIEN
-CVA1174A
-2022-1909 
+CVA1174A  
+2022-1909  
 1909 IR  
 2016 15 03 199 95 80 75 67 52 29 2419 15  
 
@@ -642,7 +834,7 @@ CVA1198A
 1911 CP  
 2016 13 12 07 03 1997 95 81 67 48 47 34 33  
 
-CVA1198B
+CVA1198B  
 2022-1935  
 1935 IR  
 2020 16 13 12 03 1999 95 87 81 77 67 64 55  
@@ -773,7 +965,7 @@ CVA1348B
 2012 08 03 1997 94 83 78 77 71 70 67 58 52  
 weird suppression 78-84
 
-CVA1322B
+CVA1322B  
 2022-1960  
 2016 15 13 12 03 1997 81 76 
 
@@ -782,7 +974,7 @@ CVA1177B
 2018 06 1997 81 80 71 61 
 2021 BR R  
 
-CVA1012A
+CVA1012A  
 2022-1955  
 1955 COMP  
 2013 12 03 02 1997 94 92 81 80 70 67 63 59  
@@ -810,7 +1002,7 @@ break spans 2020 only
 #### ABLA
 CVA1018A  
 2022-1904  
-1904 comp
+1904 comp  
 2012 07 06 03 1981 77 67 66 58 52 09  
 
 CVA1350B  
@@ -852,8 +1044,8 @@ CVA1351A
 
 CVA1197A  
 2022-1908  
-suppression around 2000 - weird marker years
-2018 03 1999 97 95 92 81 77 70 67 56 47 34 24 19 12 
+suppression around 2000 - weird marker years  
+2018 03 1999 97 95 92 81 77 70 67 56 47 34 24 19 12  
 03 nearly missing  
 
 CVA1217A  
@@ -862,22 +1054,22 @@ CVA1217A
 2016 br lr  
 
 CVA1218A  
-2022-1922 
+2022-1922  
 1922 ir  
 2018 13 12 06 03 1997 94 89 81 77 67 61 59 56 46 37 34 33  
 
-CVA1344B 
-2021-1960 
-2022 miss, break splits 1960 only
+CVA1344B  
+2021-1960  
+2022 miss, break splits 1960 only  
 2021 ir  
-2000 missing
-1960 break; incomplete ring
-2013 06 03 01 1997 95 90 81 80 77 70 67 63 61
+2000 missing  
+1960 break; incomplete ring  
+2013 06 03 01 1997 95 90 81 80 77 70 67 63 61  
 
 CVA1344C
 0-66  
-0 comp ring
-66 break; incomplete ring
+0 comp ring  
+66 break; incomplete ring  
 
 ## 2023-04-20
 ### Dendro
@@ -907,8 +1099,8 @@ PLB5614A
 PLB5620A  
 2019-1904  
 1904 ir  
-2018 12 06 03 01 1997 94 90 77 68 67 61 59 54 45 34 31 09 
-chunk 1980-1973 mounted backward
+2018 12 06 03 01 1997 94 90 77 68 67 61 59 54 45 34 31 09  
+chunk 1980-1973 mounted backward  
 1973 br r  
 1981 br r  
 1984 br r  
@@ -934,7 +1126,7 @@ can only date from 1980 back; several pieces mounted backward; 1982-1955 mounted
 PLB5634A  
 2019-1911  
 1911 ir  
-2018 12 08 02 1981 77 71 64 63 59 44 34 31 16 15   
+2018 12 08 02 1981 77 71 64 63 59 44 34 31 16 15  
 1996 br r  
 2016 br r  
 
@@ -957,7 +1149,7 @@ PLB5635A
 
 PLB5633A  
 2019-1879  
-1879 cp
+1879 cp  
 2018 12 02 1981 61 59 54 34 22 15 09 06 02 1899 93 90 89 84  
 2011 br r  
 
@@ -975,7 +1167,7 @@ PLB5631A
 #### PLB
 
 PLB5607A  
-1862 ir
+1862 ir  
 
 PLB5615A  
 1833 ir   
@@ -1153,12 +1345,12 @@ PLA6127A
 PLA6117A  
 2019-1950  
 2018 12 03 02 1997 94 90 89 80 77 61 59  
-knot 1950 back makes dating impossible before then 
+knot 1950 back makes dating impossible before then  
 1953-1950 knot
 
 PLA6136A  
 !! Wrong bark piece (+2 years) was mounted on this core. Ignoring this chunk, it dates well from 2019. Removed that chunk from mount, so now lacks bark  
-2019-1932
+2019-1932  
 1932 pp  
 2018 12 03 02 90 81 77 59 42 40  
 1937 Br R  
@@ -1229,10 +1421,10 @@ Break after 2017; 2018 and 2019 incomplete and not measured
 6123A   
 2011-1947  
 1947 inc  
-!! Bark chunk mounted backward; not dateable after 2011; break at 1947; not dateable before; may not correlate well; consider dropping
+!! Bark chunk mounted backward; not dateable after 2011; break at 1947; not dateable before; may not correlate well; consider dropping  
 2006 03 02 1997 90 89 81 80 64 59 54 52  
 1991 CR A  
-2007 BR LR
+2007 BR LR  
 
 6125A  
 2019-1951  
@@ -1266,12 +1458,12 @@ Break after 2017; 2018 and 2019 incomplete and not measured
 2019-1946  
 1946 inc  
 2018 13 12 03 02 1997 94 81 77 52  
-2019-2015 look different, almost as if from another core; perhaps mounted grain-sideways...; dates OK
+2019-2015 look different, almost as if from another core; perhaps mounted grain-sideways...; dates OK  
 1991 BR R  
 
 6116A
 2019-  
-2018 12 03 02 1994 92 81 77 61 59 
+2018 12 03 02 1994 92 81 77 61 59  
 too rotten; removed from set
 
 #### PLB
