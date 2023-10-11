@@ -479,7 +479,7 @@ trouble crossdating even with B core
 | N | X1 ... X225 | N | 6 | P |
 
 - Then... for each best-voted OBS candidate, check against surrounding PRED trees
-- Say match = 4, then T(matrix)
+- Say match = 4, then T(matrix):
 
 | Obs ID | 1 ... 98 | 
 | ------ | -------- |
@@ -492,7 +492,11 @@ trouble crossdating even with B core
 
 ### Accuracy metrics
 
-$`OVERALL ACCURACY = \frac{TP\NOBS}`$
+$`OVERALL ACCURACY = \frac{TP}{NOBS}`$
+$`COMM ERROR = \frac{FP}{N_{pred}}`$
+$`OMM ERROR = \frac{FN}{NOBS}`$
+$`EXTRACTION RATE = \frac{N_{pred}}{N_{obs}}`$
+$`MATCH RATE = \frac{N_{match}}{N_{obs}}`$
 
 ## 2023-09-07
 - Crossdating and measuring APU
