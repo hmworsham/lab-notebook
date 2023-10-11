@@ -8,6 +8,50 @@ H. M. Worsham
 </summary>
 <p>
 
+## 2023-10-10
+- Crossdating and measuring SSA ABLA
+- Corrected Quinn's crossdating on several cores
+
+### ABLA
+5214A  
+2019-1885  
+1999 br r  
+2015 br l  
+2016 br b  
+2017 br r  
+
+5029A  
+2019-1878  
+1965 br lr  
+
+5029B  
+2019-1885  
+2010 br r  
+
+5050A
+2008 br r  
+
+5037A
+1959 cr a  
+
+5026A
+2010 br l  
+2011 br r  
+
+5193A
+
+5032A  
+1930 br lr  
+1947 br lr  
+
+5181B
+241 br r  
+
+5015A  
+1920 br l  
+1921 br r  
+
+
 ## 2023-10-03
 - Crossdating and measuring SSA
 
@@ -420,6 +464,14 @@ trouble crossdating even with B core
 0-46  
 0 ir at knot  
 46 last visible ring before bark growth  
+
+## 2023-09-08
+- Tree crown identification
+
+... from vote 2: 
+| Pred ID | Obs ID | Pred ID | Obs | Pair ID |
+| ------- | ------ | ------- | --- | ------- |
+| 1 | X1 ... X225 | 1 | 4 | 1 |   
 
 ## 2023-09-07
 - Crossdating and measuring APU
