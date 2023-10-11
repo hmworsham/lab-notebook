@@ -482,6 +482,7 @@ trouble crossdating even with B core
 - Say match = 4, then T(matrix)
 
 | Obs ID | 1 ... 98 | 
+| ------ | -------- |
 | 1 | |
 | 2 | |
 | 3 | |
@@ -491,7 +492,7 @@ trouble crossdating even with B core
 
 ### Accuracy metrics
 
-$ OVERALL ACCURACY = \frac{TP\NOBS} $
+$`OVERALL ACCURACY = \frac{TP\NOBS}`$
 
 ## 2023-09-07
 - Crossdating and measuring APU
