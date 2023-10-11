@@ -466,7 +466,7 @@ trouble crossdating even with B core
 46 last visible ring before bark growth  
 
 ## 2023-09-08
-- Tree crown identification
+### Tree crown identification
 
 ... from vote 2: 
 | Pred ID | Obs ID | Pred ID | Obs | Pair ID |
@@ -477,6 +477,21 @@ trouble crossdating even with B core
 | 4 | ... | 4 | 1 | 2 |   
 | ... | ... | ... | ... | ... |
 | N | X1 ... X225 | N | 6 | P |
+
+- Then... for each best-voted OBS candidate, check against surrounding PRED trees
+- Say match = 4, then T(matrix)
+
+| Obs ID | 1 ... 98 | 
+| 1 | |
+| 2 | |
+| 3 | |
+| **4** | <- |
+| ... | | 
+| 225 | | 
+
+### Accuracy metrics
+
+$ OVERALL ACCURACY = \frac{TP\NOBS} $
 
 ## 2023-09-07
 - Crossdating and measuring APU
