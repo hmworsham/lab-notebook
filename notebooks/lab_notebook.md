@@ -471,7 +471,12 @@ trouble crossdating even with B core
 ... from vote 2: 
 | Pred ID | Obs ID | Pred ID | Obs | Pair ID |
 | ------- | ------ | ------- | --- | ------- |
-| 1 | X1 ... X225 | 1 | 4 | 1 |   
+| 1 | X1 ... X225 | 1 | 4 | 1 | 
+| 2 | ... | 2 | NA | NA | 
+| 3 | ... | 3 | NA | NA |   
+| 4 | ... | 4 | 1 | 2 |   
+| ... | ... | ... | ... | ... |
+| N | X1 ... X225 | N | 6 | P |
 
 ## 2023-09-07
 - Crossdating and measuring APU
@@ -573,7 +578,7 @@ APU7235A
 <details>
 	<summary>
 		<h1>July</h1>
-	<summary>
+	</summary>
 <p>
 
 ## Tree crown detection
@@ -599,7 +604,7 @@ SEGMENTATION ALGORITHMS CODED:
 9. watershed?
 
 </p>
-</summary>
+</details>
 
 <details>
 <summary>
