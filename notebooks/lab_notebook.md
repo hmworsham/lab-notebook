@@ -492,11 +492,11 @@ trouble crossdating even with B core
 
 ### Accuracy metrics
 
-$`OVERALL ACCURACY = \frac{TP}{NOBS}`$
-$`COMM ERROR = \frac{FP}{N_{pred}}`$
-$`OMM ERROR = \frac{FN}{NOBS}`$
-$`EXTRACTION RATE = \frac{N_{pred}}{N_{obs}}`$
-$`MATCH RATE = \frac{N_{match}}{N_{obs}}`$
+$`OVERALL\ ACCURACY = \frac{TP}{NOBS}`$  
+$`COMM\ ERROR = \frac{FP}{N_{pred}}`$  
+$`OMM\ ERROR = \frac{FN}{NOBS}`$  
+$`EXTRACTION\ RATE = \frac{N_{pred}}{N_{obs}}`$  
+$`MATCH\ RATE = \frac{N_{match}}{N_{obs}}`$  
 
 ## 2023-09-07
 - Crossdating and measuring APU
