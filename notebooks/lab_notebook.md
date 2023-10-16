@@ -8,6 +8,109 @@ H. M. Worsham
 </summary>
 <p>
 
+## 2023-10-12
+
+- Finalizing tree crown detection
+
+
+- Crossdating and measuring PVG PIEN
+
+### PIEN
+8636B  
+2022-1904  
+2013 03 1991 71 67 59 57 50 47  
+
+8621A  
+2022-1874  
+2012 03 1999 97 67 57 12 04 02 00 1896 82  
+
+8615B  
+2022-1911  
+2018 13 03 1999 97 85 81 80 59 27 16  
+
+8638A  
+2022-1915  
+2013 03 1999 81 67 61 07 1899 93 90  
+
+8657B  
+2022-1887  
+2013 03 1999 80 78 61 60 57 47  
+
+8649A  
+2022-1853  
+2015 13 03 1999 92 81 80 71 67 61 59 54 47 40 37 1880 76 75 68 63 62  
+
+8639A  
+2022-1902  
+2020 13 03 1999 81 59 50 490 48 43 33 10  
+
+8657A  
+2022-1910  
+2003 1999 67 61 59  
+very complacent; may not correlate well  
+
+8631A  
+2022-1894  
+2013 12 03 1999 97 95 81 80 78 67 61 59 57 25 23 22 16 09 07 01 1899  
+
+8630A  
+2022-1873  
+2013 12 03 1999 87 86 81 71 67 57 54 46 34 31 26 25 09 07 06 02 1899 93 84 80 74  
+
+8617B  
+2022-1919  
+2015 12 11 03 1999 81 77 75 61 59 57 43 37 36 32 27 23  
+
+8621B  
+2022-1876  
+2015 12 03 1999 97 81 71 67 50 39 34 10 02 00 1899 95 94 82 80   
+crossdating before ~1920 seems to be off by 2 years (1895, 1882 vs 1893, 1880)  
+
+## 2023-10-11
+
+Helpful reference from Christoph Molnar [*Interpretable Machine Learning*](https://christophm.github.io/interpretable-ml-book/extend-lm.html)
+
+Here is a list of problems you might encounter with linear models, along with the name of a solution for this problem that you can copy and paste into your favorite search engine.
+
+**My data violates the assumption of being independent and identically distributed (iid).**  
+For example, repeated measurements on the same patient.  
+Search for mixed models or generalized estimating equations.  
+
+**My model has heteroscedastic errors.**  
+For example, when predicting the value of a house, the model errors are usually higher in expensive houses, which violates the homoscedasticity of the linear model.  
+Search for robust regression.  
+
+**I have outliers that strongly influence my model.**  
+Search for robust regression.  
+
+**I want to predict the time until an event occurs.**  
+Time-to-event data usually comes with censored measurements, which means that for some instances there was not enough time to observe the event. For example, a company wants to predict the failure of its ice machines, but only has data for two years. Some machines are still intact after two years, but might fail later.  
+Search for parametric survival models, cox regression, survival analysis.  
+
+**My outcome to predict is a category.**  
+If the outcome has two categories use a logistic regression model, which models the probability for the categories.
+If you have more categories, search for multinomial regression.  
+Logistic regression and multinomial regression are both GLMs.  
+
+**I want to predict ordered categories.**  
+For example school grades.  
+Search for proportional odds model.  
+
+**My outcome is a count (like number of children in a family).**  
+Search for Poisson regression.  
+The Poisson model is also a GLM. You might also have the problem that the count value of 0 is very frequent.
+Search for zero-inflated Poisson regression, hurdle model.  
+
+**I am not sure what features need to be included in the model to draw correct causal conclusions.**  
+For example, I want to know the effect of a drug on the blood pressure. The drug has a direct effect on some blood value and this blood value affects the outcome. Should I include the blood value into the regression model?  
+Search for causal inference, mediation analysis.  
+
+**I have missing data.**
+Search for multiple imputation.  
+
+**I want to integrate prior knowledge into my models.**  
+Search for Bayesian inference.  
+
 ## 2023-10-10
 - Crossdating and measuring SSA ABLA
 - Corrected Quinn's crossdating on several cores
@@ -28,26 +131,26 @@ H. M. Worsham
 2019-1885  
 2010 br r  
 
-5050A
+5050A  
 2008 br r  
 
-5037A
+5037A  
 1959 cr a  
 
-5026A
+5026A  
 2010 br l  
 2011 br r  
 
-5193A
+5193A  
 
 5032A  
 1930 br lr  
 1947 br lr  
 
-5181B
+5181B  
 241 br r  
 
-5015A  
+5015D  
 1920 br l  
 1921 br r  
 
@@ -631,6 +734,17 @@ SEGMENTATION ALGORITHMS CODED:
 <h1>June</h1>
 </summary>
 <p>
+
+## 2023-06-20
+### Tree crown detection
+- Workflow: 
+	- Functions
+	- Optimization script
+		- Loadup
+		- Run optimization
+		- Write results and plots
+	- Shell: run each algo 'module' on separate node
+	- Output is per optimization script
 
 ## 2023-06-08
 ### Dendro
@@ -1385,6 +1499,9 @@ break at 206/15 is confusing; count up from 2010
 2019-1840   
 2018 13 12 03 02 1999 97 92 90 82 81 77 67 63 61 54 48 41 40 34 31 20 09 06 02 1899 93 89 83 82 80 72 64 61 5147 45
 
+## 2023-04-10
+
+![whiteboard]('../figs/wb_23-04-10.jpg')
 
 ## 2023-04-06
 - Rethinking the LOOCV approach to finding trees
