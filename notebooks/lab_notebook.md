@@ -1501,7 +1501,7 @@ break at 206/15 is confusing; count up from 2010
 
 ## 2023-04-10
 
-![whiteboard]('../figs/wb_23-04-10.jpg')
+![whiteboard](../figs/wb_23-04-10.jpg)
 
 ## 2023-04-06
 - Rethinking the LOOCV approach to finding trees
