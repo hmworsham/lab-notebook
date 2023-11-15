@@ -298,7 +298,7 @@ last ring is 2021, not sure 2022 is distinguishable
 
 ## 2023-10-18
 - Alternate allometric equation:
-$H = a + (b-a) * [1-e^(-cD)]$
+$H = a + (b-a) * [1-e^{-cD}]$
 
 ## 2023-10-12
 
