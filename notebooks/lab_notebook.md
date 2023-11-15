@@ -4,9 +4,301 @@ H. M. Worsham
 
 <details>
 <summary>
+<h1>November</h1>
+</summary>
+<p>
+
+## 2023-11-14
+- Fixing APL PIEN
+- Crossdating and measuring SNA PIEN
+- Crossdated all floaters in APL PIEN
+- What's left to do with fixing APL PIEN at end of day:
+	- 1063A - rho is just a little low after all other series corrected (0.28...) may be ok or may drop
+	- 1088A - will probably remove because of intense suppression and poor correlation after other series have been corrected (rho=0.076)
+
+### SNA PIEN
+4790A  
+2022-1759  
+2016 10 07 03 1995 92 82 81 67 60 57 34 25 15 04 02 1893 89 83 82 79 70 67 58 47 36 35 31 22 18 03 1789 77 68 
+
+4620B  
+2022-1785  
+2016 15 10 07 03 00 1997 95 92 87 82 81 77 67 60 57 54 34 31 25 12 08 06 1897 93 89 83 82 79 67 64 51 47 46 22 12 11 03 1798 91  
+
+4321A  
+2022-1779  
+2020 13 12 04 03 1992 88 82 81 77 67 59 54 42 41 34 25 13 10 02 01 1899 93 89 83 82 72 71 64 59 58 51 47 46 36 
+24 18 04 00 1793 88 82  
+2010 br r
+
+4818A  
+2022-1744  
+
+4620A
+2022-1793  
+2016 15 10 07 03 1999 97 92 82 81 77 67 61 34 31 25 24 15 13 12 08 06 1897 89 82 79 78 72 66 64 51 46 40 34 18 12 07 03 1798 95 
+2001 cr b
+2002 cr a
+2018 br lr 
+
+### APL PIEN
+#### Checked:  
+- 1097A - improved
+- 1082A - improved
+- 1100A - improved
+- 1013A - improved 
+
+#### Remeasured:  
+- 1069A - improved
+- 1082A - improved
+- 1019A - ends up looking OK after other cores corrected
+- 1086A - measured at 1993 where 0 recorded for break at first; ends up looking OK after other cores corrected
+- 1102A - measured at 1666 and 1701 where 0 recorded for break at first; ends up looking OK after other cores corrected
+
+#### Still have issues:
+- 1065A - crossdates well 1957-2019, but this means 1065B is mounted incorrectly; this seems plausible, as A's last ring looks a lot like a bark ring
+- 1065B - removed from set
+- 1088A - probably need to remove from set
+- 1063A - rho is just a little low after all other series corrected (0.28...) may be ok or may drop
+
+## 2023-11-13
+- Fixing APL PIEN
+
+#### Checked:  
+- 1088A - still has issues
+- 1088B - still has issues
+- 1106B - OK
+- 1106A - improved
+- 1019A - still has issues
+- 1127A - OK
+- 1078A - improved
+- 1129A - improved
+- 1120A - improved
+- 1124A - improved
+- 1072A - improved
+- 1077A - OK
+- 1068A - OK
+- 1063A - still has issues
+- 1069A - still has issues
+- 1086A - still has issues
+
+## 2023-11-07
+- Crossdating and measuring PVG ABLA
+- Crossdating and measuring CRC PIEN + ABLA
+
+### CRC ABLA
+8594A  
+2022-1927  
+2018 13 12 08 06 02 1997 85 81 77 68 67 63 61 54 50 48 39  
+2007 br r  
+
+8440B  
+2022-1918  
+2012 07 06 04 02 1996 92 89 81 77 71 63 56 54 46 43 38 33 25 24  
+1983 br r  
+
+8599B  
+2022-1901  
+2012 04 03 1994 92 89 80 77 76 67 63 54 50 49 43 34 33 19  
+
+8596A  
+2022-1921  
+2018 12 07 04 1997 89 67 63 50 35 34 
+
+8365A  
+2022-1920  
+2012 06 03 02 1997 95 90 81 67 61 47 44 35
+1964 br r  
+2018 br lr  
+
+### CRC PIEN
+8395A  
+1910-2022  
+2018 16 12 02 1998 92 81 77 67 63 59 54 50 43 39 35 34 19 
+
+8313A  
+1921-2022  
+2018 16 12 08 06 03 1997 92 90 81 80 77 70 67 63 59 54 52 46 39 35 33 26  
+2020 br r  
+
+8313B  
+0-84  
+can't get this to crossdate properly; considered relative and measured from pith to last big ring before suppression (84); may be multiple missing rings in suppressed area
+
+8583A
+1913-2022  
+2018 12 03 1995 92 81 80 77 73 63 59 55 54 52 40 34 29 19 
+
+8376A  
+1892-2022  
+2018 13 12 02 1997 90 89 85 81 80 7767 63 59 54 43 40 19 09 05 02 01 1896  
+1991 br r  
+1998 br r  
+
+8314A  
+1914-2022
+2018 12 04 02 1997 90 89 81 77 71 67 63 61 54 47 39 19  
+1970 br r  
+
+### PVG ABLA
+8688A  
+1926-2022  
+2016 06 03 1995 91 89 88 80 78 5644 35 32 29  
+2013 br r  
+
+8676A  
+0-105  
+bark-adjacent piece mounted backward; considered relative
+
+8676B
+0-20  
+0 cp  
+
+8626B  
+1927-2017  
+2017 comp ring
+2013 03 1997 95 91 80 78 77 73 71 65 61 59 57 56 52 46 45 40 39 32  
+
+8684B  
+1954-2022  
+2003 01 1997 92 91 83 61 57 56  
+break at 1962 spans 1 ring
+1962 br r 
+
+8681A  
+1896-2022  
+2013 06 03 02 1994 80 71 70 63 56 45 43 33 19 17 08 06  
+2015, 2016 missing
+
+## 2023-11-02
+- Measuring PVG PIEN
+- Crossdating and measuring PVG ABLA
+
+### ABLA
+
+8684A  
+1931-2022  
+2013 12 08 03 01 1995 81 80 53 44 40 37 36  
+
+8683A  
+1909-2022  
+2013 12 04 03 1993 81 80 78 67 57 56  
+2017-2011 chunk mounted backward but aligns OK in crossdating  
+1909-1923 difficult to discern - suppression + sappy pith - BE CAREFUL  
+2011 br l  
+2017 br lr  
+
+8634B  
+1910-2022  
+2013 12 03 1997 95 81 80 78 67 57 45 44 41 35 29 21 16  
+
+8685A  
+1943-2022  
+2013 10 09 04 03 1970 67 57 
+
+8682A  
+1926-2022  
+2014 13 1108 03 1997 95 80 78 67 57  
+
+8661A  
+1910-2022  
+2013 12 03 02 1999 97 91 87 81 77 71 67 63 61 59 52 45 39  
+2002 br r  
+
+8680A  
+1915-2022  
+2018 17 09 03 1997 95 82 81 78 71 70 67 64 59 53 52 44 43 37 35 27 23 17  
+
+8682B  
+1940-2022  
+2014 13 08 03 1997 95 80 78 57 52 44  
+
+8618A  
+1953-2022  
+2016 14 13 06 03 1992 80 61  
+
+8618B  
+1970-2022  
+2016 12 03 1997 81 80  
+2021 br lr  
+
+8685B  
+1930-2022  
+2013 12 1981 80 74 73 71 70 61 48 35  
+2020 br r  
+
+
+### PIEN 
+Notes in 10-31 and 10-24 below
+
+</p>
+</details>
+
+<details>
+<summary>
 <h1>October</h1>
 </summary>
 <p>
+
+## 2023-10-31
+- Crossdating and measuring PVG PIEN
+
+8624A  
+1880-2021  
+last ring is 2021, not sure 2022 is distinguishable
+2014 13 12 03 1999 97 81 80 70 61 59 57 35 31 25 22 20 17 16 09 07 06 01 1899 96 90 86 83
+
+8643A  
+1898-2022  
+2013 03 1981 80 77 57 56 34 25 04  
+
+8633A  
+1915-2022  
+2016 03 1999 94 81 80 75 59 57 34 25  
+2013 br l  
+2014 br r  
+
+8636A  
+1910-2019  
+2013 03 1999 67 57  
+
+8668A  
+1845-2022  
+2016 13 03 1999 92 86 83 81 75 71 67 61 47 02 00 1893 80 79 68 67 57 54 53 50  
+
+## 2023-10-24
+- Measuring and crossdating PVG PIEN
+
+### PIEN
+8639A  
+1902-2022  
+
+8657A  
+1910-2022  
+2014 br lr  
+
+8631A
+8630A
+8617B
+8621B
+
+### Crossdating PIEN
+8615A  
+1905-2022  
+2016 15 13 12 07 03 1997 87 81 80 70 47 33 16 14 09  
+1905 pp  
+2020 br lr  
+
+8663A  
+1894-2022  
+1894 cp  
+2013 12 11 03 1999 81 75 67 71 57 11 09 00 1899 93 89
+1889 may be false  
+2017 br lr  
+
+## 2023-10-18
+- Alternate allometric equation:
+$H = a + (b-a) * [1-e^(-cD)]$
 
 ## 2023-10-12
 
@@ -112,6 +404,13 @@ Search for multiple imputation.
 Search for Bayesian inference.  
 
 ## 2023-10-10
+
+### Notes from accountability check-in
+- Look at interactions between elevation, aspect, and AWC >> do high AWC, low radiation sites have denser trees?
+- Look at asymptotic growth functions, e.g., $log(size) + size^2$
+
+### 
+
 - Crossdating and measuring SSA ABLA
 - Corrected Quinn's crossdating on several cores
 
@@ -153,7 +452,6 @@ Search for Bayesian inference.
 5015D  
 1920 br l  
 1921 br r  
-
 
 ## 2023-10-03
 - Crossdating and measuring SSA
@@ -258,6 +556,13 @@ NA
 <h1>September</h1>
 </summary>
 <p>
+
+## 2023-09-30
+### ITD 
+- After first round of matching, are there any candidates left for unmatched trees? 
+- See if running through multiple cycles captures more matches
+- How many iterations are needed to get to 0 candidates?
+- Could functionalize it if many rounds needed
 
 ## 2023-09-28
 - Crossdating and measuring PVG ABLA and PIEN
