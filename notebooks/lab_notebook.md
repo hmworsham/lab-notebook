@@ -8,6 +8,62 @@ H. M. Worsham
 </summary>
 <p>
 
+## 2023-11-17
+- Dug into signal-free detrending
+
+$$ Ring\ width = Raw\ msmt = \f(age\ trend, climate\ forcing, error) $$
+
+## 2023-11-16
+- Crossdating and measuring SNA ABLA
+- Fixing APL ABLA
+
+### SNA ABLA
+4367A  
+2022-1780  
+2016 09 1995 86 72 66 62 57 54 32 25 24 04 01 1898 89 85 70 56 45 34 26 23 20 11 07 1795 94 93 86 84  
+2016 br r
+doesn't crossdate too well; break at 2016 may have a missing ring; check stats
+
+4401A  
+2022-1910  
+2013 07 03 02 1995 89 86 81 80 64 61 59 56 52 38 25 20 16  
+2016 br r  
+
+4338B  
+2022-1843  
+2018 13 12 09 07 03 02 1997 95 92 87 81 77 76 61 57 54 34 25 20 10 09 1896 93 89 81 80 73 72 68 65 63 62 56 49  
+1843 cp
+
+4434A  
+2022-1776  
+2018 16 04 03 1997 88 81 61 59 52 34 32 20 10 09 06 02 00 1896 93 87 80 72 68 62 56 53 52 45 36 26 18 11 04 01 1799 89 88 
+1837 br r  
+1851 cr b  
+1876 br lr  
+1970 br r  
+2015 br r  
+
+4801A  
+2022-1772  
+2013 04 1995 92 83 81 72 67 61 57 54 52 46 40 34 24 1896 93 89 83 72 66 62 57 51 47 36 18 11 08 04 1789 79  
+
+4329A
+2022-1798  
+2020 18 13 06 03 02 1992 81 80 77 67 59 52 42 38 34 29 27 23 20 09 02 1899 93 87 80 71 68 62 57 51 50 38 29 17 12 11  
+2019 br r  
+
+### APL ABLA
+1071A - removed; noncontiguous with B and not enough rings to use independently
+1071B - statistically crossdated and assigned absolute dates 1940-2014
+1199A - checked; seems OK
+1056A - can't seem to crossdate; check after giving absolute dates to floaters
+1036A - stat crossdated and assigned absolute dates 1911-2005; merged with B (2006-2019)
+1036B - merged with A
+1048A - corrected; remeasured; absolute dated 1931-2017 but could move up 2 years, 1933-2019
+1048B - corrected; remeasured; absolute dated 1929-2017 but could move up 2 years, 1931-2019
+1048C - need to check against corrected A+B
+1056A - aligns well after 1967 but not before; does break at 1977 span 2 rings? is 2009 actually missing?
+
 ## 2023-11-14
 - Fixing APL PIEN
 - Crossdating and measuring SNA PIEN
