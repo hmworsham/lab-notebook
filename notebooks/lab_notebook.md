@@ -39,6 +39,10 @@ $$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\
 
 ... in which case error is divided across the aggregation of tree index values. But that doesn't make a ton of sense, because error should really be multiplied across in aggregation. So maybe I'm not so clear on what "error" means in this case... because then:
 
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} \frac{Ring\ width}{Expected\ growth}}{n\ trees * error} \ \ \ (6) $$
+
+which makes the next step basically impossible:
+
 
 ## 2023-11-16
 - Crossdating and measuring SNA ABLA
