@@ -35,11 +35,11 @@ $$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} Tree\ index_i + error}{
 
 Unless he's trying to say: 
 
-$$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees}} {error} =  \frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees * error}\ \ \ (5b)$$
+$$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees}} {error} =  \frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees * error}\ \ \ (5b) $$
 
 ... in which case error is divided across the aggregation of tree index values. But that doesn't make a ton of sense, because error should really be multiplied across in aggregation. So maybe I'm not so clear on what "error" means in this case... because then:
 
-$$Site\ chronology\ index = \sum\limits{i=1}^{n} \frac{Ring\ width}{Expected\ growth}$$
+$$ Site\ chronology\ index = \sum\limits{i=1}^{n} \frac{Ring\ width}{Expected\ growth} $$
 
 Also, it seems like algebraically, the chronology index is implicitly assumed to be an estimate of climate forcing! 
 
