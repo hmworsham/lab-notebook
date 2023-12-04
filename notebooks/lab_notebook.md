@@ -43,6 +43,8 @@ $$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} \frac{Ring\ width}{Expe
 
 which makes the next step basically impossible:
 
+$$ Site\ chronology\ index = \frac{\frac{Ring\ width}{Expected\ growth}} {Error} = \frac{Ring\ width}{Expected\ Growth * Error} \ \ \ (7) $$
+
 
 ## 2023-11-16
 - Crossdating and measuring SNA ABLA
