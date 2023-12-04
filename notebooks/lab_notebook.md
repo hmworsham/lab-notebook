@@ -11,7 +11,7 @@ H. M. Worsham
 ## 2023-11-17
 - Dug into signal-free detrending
 
-$$ Ring\ width = Raw\ msmt = f(age\ trend, climate\ forcing, error) $$ (1)
+$$ Ring\ width = Raw\ msmt = f(age\ trend, climate\ forcing, error) \t (1) $$
 
 $$ Tree\ index = \frac{Ring\ width}{Expected\ growth}$$
  
