@@ -27,21 +27,34 @@ $$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} {Tree\ index_i} }{n\ tr
 
 A rather vague "error" term is then introduced, so that somehow:
 
-$$ Site\ chronology\ index = \frac{Tree index}{Error} \ \ \ (5)$$
+$$ Site\ chronology\ index = \frac{Tree\ index}{Error} \ \ \ (5)$$
 
 But this is where I get mixed up, because really it should be: 
 
-$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} Tree\ index_i + error}{n\ trees} \ \ \ (5a)$$
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees} + error \ \ \ (5a)$$
 
 Unless he's trying to say: 
 
-$$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees}} {error} =  \frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees * error}\ \ \ (5b) $$
+$$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees}} {error} =  \frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees * error} \ \ \ (5b)$$
 
 ... in which case error is divided across the aggregation of tree index values. But that doesn't make a ton of sense, because error should really be multiplied across in aggregation. So maybe I'm not so clear on what "error" means in this case... because then:
 
-$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} \frac{Ring\ width}{Expected\ growth}}{n\ trees * error} $$
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} \frac{Ring\ width}{Expected\ growth}}{n\ trees * error} \ \ \ (6)$$
 
-Also, it seems like algebraically, the chronology index is implicitly assumed to be an estimate of climate forcing! 
+which makes the next step basically impossible:
+
+$$Site\ chronology\ index = \frac{\frac{Ring\ width}{Expected\ growth}}{Error} = \frac{Ring\ width}{Expected\ Growth * Error} \ \ \ (7)$$
+
+so that: 
+
+$$Ring\ width = Site\ chronology\ index * Expected\ growth * Error \ \ \ (8)$$
+
+and: 
+
+$$\frac{Ring\ width}{Site\ chronology\ index} = Expected\ growth * Error * 1 \ \ \ (9)$$, 
+which is supposed to describe what growth would be if Site chronology index = 1, that is, ring width in an average climate year for the site. 
+
+Also, with these last two equations, it seems like algebraically the chronology index is implicitly assumed to be an estimate of climate forcing! 
 
 
 ## 2023-11-16
