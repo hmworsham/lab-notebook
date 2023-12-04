@@ -23,7 +23,7 @@ meaning, mean growth assuming climate forcing = 0 or ring-width variance related
 
 $$ Tree\ index = \frac{Ring\ width}{1 * Estimated\ age\ trend} \ \ \ (3)$$
 
-$$ Site\ chronology\ index = \frac{\sum_{i=1}^n{Tree\ index}}{N\ trees} \ \ \ (4)$$
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} {Tree\ index} }{N\ trees} \ \ \ (4)$$
 
 ## 2023-11-16
 - Crossdating and measuring SNA ABLA
