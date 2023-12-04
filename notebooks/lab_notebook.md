@@ -51,7 +51,7 @@ $$ Ring\ width = Site\ chronology\ index * Expected\ growth * Error \ \ \ (8) $$
 
 and: 
 
-$$\frac{Ring\ width} {Site\ chronology\ index} = Expected\ growth * Error * 1 \ \ \ (9) $$ 
+$$ \frac{Ring\ width} {Site\ chronology\ index} = Expected\ growth * Error * 1 \ \ \ (9) $$ 
 
 which is supposed to describe what growth would be if Site chronology index = 1, that is, ring width in an average climate year for the site. 
 
