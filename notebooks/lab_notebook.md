@@ -11,7 +11,14 @@ H. M. Worsham
 ## 2023-11-17
 - Dug into signal-free detrending
 
-$$ Ring\ width = Raw\ msmt = /f(age\ trend, climate\ forcing, error) $$
+$$ Ring\ width = Raw\ msmt = f(age\ trend, climate\ forcing, error) $$ (1)
+
+$$ Tree\ index = \frac{Ring\ width}{Expected\ growth}$$
+ 
+Where expected growth is mean growth assuming climate forcing = 0 or ring-width variance related to climate = 1:
+
+
+$$ Tree\ index = \frac{Ring\ width}{1 * estimated\ age\ trend} $$
 
 ## 2023-11-16
 - Crossdating and measuring SNA ABLA
