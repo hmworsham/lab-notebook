@@ -13,12 +13,13 @@ H. M. Worsham
 
 $$ Ring\ width = Raw\ msmt = f(age\ trend, climate\ forcing, error) \ \ \ (1) $$
 
-$$ Tree\ index = \frac{Ring\ width}{Expected\ growth}$$
+$$ Tree\ index = \frac{Ring\ width}{Expected\ growth} \ \ \ (2)$$
  
-Where expected growth is mean growth assuming climate forcing = 0 or ring-width variance related to climate = 1:
+Where $Expected\ growth = 1 * Estimated\ age\ trend$, meaning, mean growth assuming climate forcing = 0 or ring-width variance related to climate = 1.
 
+$$ Tree\ index = \frac{Ring\ width}{1 * Estimated\ age\ trend} \ \ \ (3)$$
 
-$$ Tree\ index = \frac{Ring\ width}{1 * estimated\ age\ trend} $$
+$$ Site\ chronology\ index = \frac{\sum^n_{i=1} Tree\ index}{N\ trees}$$
 
 ## 2023-11-16
 - Crossdating and measuring SNA ABLA
