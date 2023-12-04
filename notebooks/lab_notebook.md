@@ -35,14 +35,6 @@ $$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n}{Tree\ index_i + error}{
 
 Unless he's trying to say: 
 
-$$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n}{Tree\ index_i}{n\ trees}}} {error} \ \ \ (5b)$$
-
-... in which case error is multiplied across the aggregation of tree index values, which is plausible. But then:
-
-$$Site\ chronology\ index = \frac{\frac{sum\limits_{i=1}^{n}{\frac{Ring\ width_i}{Expected growth_i}}{n_trees}}} {error}$$
-
-Also, it seems like algebraically, the chronology index is implicitly assumed to be an estimate of climate forcing! 
-
 ## 2023-11-16
 - Crossdating and measuring SNA ABLA
 - Fixing APL ABLA
