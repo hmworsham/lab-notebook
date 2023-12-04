@@ -23,7 +23,25 @@ meaning, mean growth assuming climate forcing = 0 or ring-width variance related
 
 $$ Tree\ index = \frac{Ring\ width}{1 * Estimated\ age\ trend} \ \ \ (3)$$
 
-$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} {Tree\ index} }{N\ trees} \ \ \ (4)$$
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} {Tree\ index_i} }{n\ trees} \ \ \ (4)$$
+
+A rather vague "error" term is then introduced, so that somehow:
+
+$$ Site\ chronology\ index = \frac{Tree index}{Error} \ \ \ (5?)$$
+
+But this is where I get mixed up, because really it should be: 
+
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n}{Tree\ index_i + error}{n\ trees}} \ \ \ (5a?)$$
+
+Unless he's trying to say: 
+
+$$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n}{Tree\ index_i}{n\ trees}}}{error} \ \ \ (5b?)$$
+
+... in which case error is multiplied across the aggregation of tree index values, which is plausible. But then:
+
+$$Site\ chronology\ index = \frac{}{}$$
+
+Also, it seems like algebraically, the chronology index is implicitly assumed to be an estimate of climate forcing! 
 
 ## 2023-11-16
 - Crossdating and measuring SNA ABLA
