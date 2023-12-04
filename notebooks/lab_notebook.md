@@ -11,7 +11,7 @@ H. M. Worsham
 ## 2023-11-17
 - Dug into signal-free detrending
 
-$$ Ring\ width = Raw\ msmt = \f(age\ trend, climate\ forcing, error) $$
+$$ Ring\ width = Raw\ msmt = /f(age\ trend, climate\ forcing, error) $$
 
 ## 2023-11-16
 - Crossdating and measuring SNA ABLA
