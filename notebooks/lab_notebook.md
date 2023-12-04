@@ -9,7 +9,7 @@ H. M. Worsham
 <p>
 
 ## 2023-11-17
-- Dug into signal-free detrending
+- Signal-free detrending
 
 $$ Ring\ width = Raw\ msmt = f(age\ trend, climate\ forcing, error) \ \ \ (1) $$
 
@@ -27,15 +27,15 @@ $$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} {Tree\ index_i} }{n\ tr
 
 A rather vague "error" term is then introduced, so that somehow:
 
-$$ Site\ chronology\ index = \frac{Tree index}{Error} \ \ \ (5?)$$
+$$ Site\ chronology\ index = \frac{Tree index}{Error} \ \ \ (5)$$
 
 But this is where I get mixed up, because really it should be: 
 
-$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n}{Tree\ index_i + error}{n\ trees}} \ \ \ (5a?)$$
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n}{Tree\ index_i + error}{n\ trees}} \ \ \ (5a)$$
 
 Unless he's trying to say: 
 
-$$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n}{Tree\ index_i}{n\ trees}}}{error} \ \ \ (5b?)$$
+$$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n}{Tree\ index_i}{n\ trees}}}{error} \ \ \ (5b)$$
 
 ... in which case error is multiplied across the aggregation of tree index values, which is plausible. But then:
 
