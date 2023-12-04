@@ -47,6 +47,8 @@ $$ Site\ chronology\ index = \frac{\frac{Ring\ width}{Expected\ growth}} {Error}
 
 so that: 
 
+$$ Ring\ width = Site\ chronology\ index * Expected\ growth * Error \ \ \ (8) $$
+
 
 
 ## 2023-11-16
