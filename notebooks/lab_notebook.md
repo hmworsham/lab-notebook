@@ -578,6 +578,36 @@ NA
 
 $$ Ring\ width = Raw\ msmt = f(age\ trend, climate\ forcing, error) \ \ \ (1) $$
 
+$$ Tree\ index = \frac{Ring\ width}{Expected\ growth} \ \ \ (2)$$
+ 
+where 
+
+$$ Expected\ growth = 1 * Estimated\ age\ trend $$
+
+meaning, mean growth assuming climate forcing = 0 or ring-width variance related to climate = 1.
+
+$$ Tree\ index = \frac{Ring\ width}{1 * Estimated\ age\ trend} \ \ \ (3)$$
+
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} {Tree\ index_i} }{n\ trees} \ \ \ (4)$$
+
+A rather vague "error" term is then introduced, so that somehow:
+
+$$ Site\ chronology\ index = \frac{Tree\ index}{Error} \ \ \ (5)$$
+
+But this is where I get mixed up, because really it should be: 
+
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees} + error \ \ \ (5a) $$
+
+Unless he's trying to say: 
+
+$$ Site\ chronology\ index = \frac{\frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees}} {error} =  \frac{\sum\limits_{i=1}^{n} Tree\ index_i}{n\ trees * error} \ \ \ (5b) $$
+
+... in which case error is divided across the aggregation of tree index values. But that doesn't make a ton of sense, because error should really be multiplied across in aggregation. So maybe I'm not so clear on what "error" means in this case... because then:
+
+$$ Site\ chronology\ index = \frac{\sum\limits_{i=1}^{n} \frac{Ring\ width}{Expected\ growth}}{n\ trees * error} \ \ \ (6) $$
+
+which makes the next step basically impossible:
+
 
 
 ## 2023-11-16
