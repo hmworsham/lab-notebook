@@ -671,16 +671,16 @@ doesn't crossdate too well; break at 2016 may have a missing ring; check stats
 2019 br r  
 
 ### APL ABLA
-1071A - removed; noncontiguous with B and not enough rings to use independently
-1071B - statistically crossdated and assigned absolute dates 1940-2014
-1199A - checked; seems OK
-1056A - can't seem to crossdate; check after giving absolute dates to floaters
-1036A - stat crossdated and assigned absolute dates 1911-2005; merged with B (2006-2019)
-1036B - merged with A
-1048A - corrected; remeasured; absolute dated 1931-2017 but could move up 2 years, 1933-2019
-1048B - corrected; remeasured; absolute dated 1929-2017 but could move up 2 years, 1931-2019
-1048C - need to check against corrected A+B
-1056A - aligns well after 1967 but not before; does break at 1977 span 2 rings? is 2009 actually missing?
+- 1071A - removed; noncontiguous with B and not enough rings to use independently
+- 1071B - statistically crossdated and assigned absolute dates 1940-2014
+- 1199A - checked; seems OK
+- 1056A - can't seem to crossdate; check after giving absolute dates to floaters
+- 1036A - stat crossdated and assigned absolute dates 1911-2005; merged with B (2006-2019)
+- 1036B - merged with A
+- 1048A - corrected; remeasured; absolute dated 1931-2017 but could move up 2 years, 1933-2019
+- 1048B - corrected; remeasured; absolute dated 1929-2017 but could move up 2 years, 1931-2019
+- 1048C - need to check against corrected A+B
+- 1056A - aligns well after 1967 but not before; does break at 1977 span 2 rings? is 2009 actually missing?
 
 ## 2023-11-14
 - Fixing APL PIEN
