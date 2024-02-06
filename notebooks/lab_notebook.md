@@ -620,7 +620,7 @@ $$ \frac{Ring\ width} {Site\ chronology\ index} = Expected\ growth * Error * 1 \
 
 which is supposed to describe what growth would be if Site chronology index = 1, that is, ring width in an average climate year for the site, which is the signal free measurement. So:
 
-$$ Signal\-free\ index = \frac{Ring\ width}{Site\ chronology\ index} $$
+$$ SigFree\ index = \frac{Ring\ width}{Site\ chronology\ index} $$
 
 With these last few equations, it seems like algebraically the chronology index is implicitly assumed to be an estimate of climate forcing. Is that reasonable? 
 
@@ -628,7 +628,7 @@ To get a "signal-free detrended" series, you fit a curve to the *signal-free ind
 
 $$ Detrended\ series = \frac{Ring\ width}{Signal-free\ trend}$$
 
-Generate a mean-value chronology from the detrended-series, then iterate. 
+Generate a mean-value chronology from the detrended series, then iterate. 
 
 
 ## 2023-11-16
