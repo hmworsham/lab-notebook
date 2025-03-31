@@ -8,7 +8,185 @@ H. M. Worsham
 </summary>
 <p>
 
-## 2024-02-01
+## 2024-02-08
+- Crossdating and measuring CRC ABLA
+- Crossdating and measuring GTA PIEN/ABLA 2022 B cores
+- Crossdating and measuring APL PIEN/ABLA 2022 B cores
+- Crossdating and measuring BMA ABLA 2022 B cores
+
+### BMA ABLA
+1286B  
+0-46  
+may not help; very short, relative
+4 br lr  
+30 br r  
+40 br r  
+46 break IR  
+
+1326B  
+2022-1929
+last two chunks mounted backward; bark adjacent chunk is not bark ring; bark ring starts at 2022 on pithward edge of second chunk; may not help or date well because of mounting issues and knot
+bark chunk: 2008-2013
+chunk 2: 2014-2022
+1956-1943 knot  
+
+1269B
+2022-1939   
+2008 cr b  
+2011 br r  
+
+1397C  
+2022-1924  
+2009 br r  
+
+### APL PIEN
+1088C  
+2022-1656  
+1926 br r  
+redated/redotted before 1926 break - missed a ring in first attempt
+
+1077B  
+0-99    
+0 cp  
+96 br lr  
+may not help much; hard to discern rings because mounted poorly; may not be crossdated accurately; dated and measured to break near bark
+
+### APL ABLA
+1080B  
+2022-1943  
+2013 br lr  
+
+1158B  
+2022-1896
+2012 br lr 
+
+### GTA PIEN
+2C  
+2022-1868    
+1871-1873 knot  
+
+71B  
+2022-1943  
+
+69C  
+2022-1945  
+1957 br lr  
+
+309B  
+2022-1894  
+2017 br lr  
+
+2B  
+2022-1950  
+mislabeled; removed from set  
+
+### GTA ABLA
+1A  
+2022-1925  
+1970-77 suppression  
+1997 br r  
+
+306B  
+2022-1956  
+2016 br r 
+2021 br r  
+
+394B  
+2022-1978  
+
+300B  
+0-72  
+1062 br lr  
+1069 br lr  
+72 break IR  
+
+### CRC ABLA
+8547A  
+2022-1927  
+1927 cp  
+2020 18 12 07 02 1997 81 80 79 67 63 61 52 39 36 35  
+
+8528B  
+2022-1916  
+1916 pp  
+2012 07 03 1997 92 81 80 78 77 60 69 52 46 35  
+1983 br r  
+
+8593A  
+2022-1911  
+2018 12 07 04 03 1992 89 81 80 77 70 68 63 54 34 33 19 18  
+1911 pp  
+
+8562A  
+0-96  
+bark end mushed up; consider relative  
+NA  
+
+8590A  
+2022-1947  
+2020 12 04 03 1997 90 77 59 58 54  
+1947 pp  
+
+8537B  
+2022-1947  
+2018 13 12 04 03 1997 89 81 80 77 74 67 58 52  
+1954 br lr  
+
+8537A  
+2022-1945  
+2018 12 03 1997 92 89 77 67 63 52  
+
+8440A  
+2022-1922  
+2021 16 12 06 04 02 1997 94 81 80 77 68 59 54 47 34 33 25  
+2003 br r  
+
+8528A  
+2022-1921  
+2021 12 04 03 1997 92 90 89 81 80 77 71 67 63 59 53 52 33 32 24  
+1984 br r  
+
+8599A  
+2022-1901  
+2012 04 03 1989 80 77 72 67 61 59 54 51 50 34  
+
+8592A  
+2022-1919  
+2013 04 03 1997 81 80 67 63 61 59 39 
+1977 br r  
+
+8337B  
+2022-1909  
+2018 14 13 03 02 1997 81 80 77 61 59 52 34 33 31 30 19 15  
+1932 br lr  
+2019 br r  
+
+8547B  
+2022-1929  
+2012 07 04 1992 81 79 67 63 61 59 54 47 45 42 39 34  
+1987 br  
+
+8595A  
+2022-1912  
+2007 04 1997 92 87 81 80 77 52 48 47 46 35 34 19
+1980 br r  
+
+8337A  
+2022-1895  
+2012 04 1990 89 81 80 77 63 47 44 39 38 35 34 15 13 02 1898  
+2004 br lr  
+
+8598A  
+2022-1921 
+2020 13 05 03 02 1995 92 89 81 80 67 63 61 59 43 34 
+2003 missing   
+
+8364A  
+0-88 
+NA  
+63 br r  
+
+## 2024-02-06
 - Crossdating and measuring CRC PIEN
 
 8471A  
