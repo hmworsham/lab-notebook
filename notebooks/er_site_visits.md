@@ -3,16 +3,223 @@
 A set of running notes made during visits to Kueppers et al. conifer forest inventory sites in and around the East River watershed, Colorado. 
 
 <details>
-    <summary>
-        <h1>2023</h1>
-    </summary>
+<summary>
+<h1>2025</h1>
+</summary>
 <p>
+
+## 10/28/2025
+### CA-CAR3
+Arrived: NA
+Exited: NA
+Personnel: Beutler, Shirley
+
+Sensor data download and maintenance. Some site damage. 
+
+### CC-CVS1
+Arrived: NA
+Exited: NA
+Personnel: Beutler, Shirley
+
+Sensor data download and maintenance. Mostly OK. 
+
+## 8/16/2025
+
+### SG-NES1
+Arrived: NA
+Exited: NA
+Personnel: Katz
+
+Sensor data download and maintenance. Site OK. Soil moisture and snow DTP download OK but soil DTPs and HOBO not responsive. 
+
+## 8/10/2025
+### ER-APU1
+Arrived: NA
+Exited: NA
+Personnel: Kueppers
+
+Sensor data download and maintenance. Site OK, data downloads OK. 
+
+## 8/9/2025
+### SR-PVG1
+Arrived: NA
+Exited: NA
+Personnel: Kueppers
+
+Sensor data download and maintenance. Some damage to site. HOBO and DTPs damaged and not reading. 
+
+## 8/8/2025
+### ER-BME3
+Arrived: NA
+Exited: NA
+Personnel: Powell T
+
+Sensor data download and maintenance. No notes. 
+
+</p>
+</details>
+
+<details>
+<summary>
+<h1>2024</h1>
+</summary>
+<p>
+
+## 8/13/2024
+### LE-PLN2
+Arrived: 13:30
+Exited: 14:20
+Personnel: Worsham, Katz, Kueppers, Budoff-Corujo, Dashpute
+
+Sensor data download and maintenance. Significant damage to site, most DTPs compromised. 
+
+## 6/20/2024
+### ER-APU1
+Arrived: 09:25
+Exited: 09:55
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance plus soil sample for HYPROP. Site OK but HOBO broken. 
+
+HYPROP sampling: 
+- 10 cm depth
+- Sampled @ 09:45
+- Dry sandy soil 
+
+## 6/19/2024
+
+### SR-PVG1
+Arrived: 14:40
+Exited: 15:30
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance. Some snow damage and battery issues. 
+
+### ER-BME3
+Arrived: 11:00
+Exited: 11:20
+
+Sensor data download and maintenance. All OK.
+
+### ER-BME1
+Arrived: 9:20
+Exited: 10:15
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance. Site OK. One broken snow DTP.
+
+## 6/18/2024
+
+### ER-GT1
+Arrived: 15:45
+Exited: 16:25
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance. Site mostly OK. One soil DTP broken. 
+
+### SG-SES1
+Arrived: 14:00
+Exited: 14:40
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance. All ok - everything connected and intact.
+
+### SG-SES2
+Arrived: 12:50
+Exited: 13:20
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance. Site looks great.
+
+### WCPHJ
+Arrived: 12:06
+Exited: 12:40
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance. Site in excellent shape. 
+
+### SG-SWR1
+Arrived: 10:50
+Exited: 12:00
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance plus soil sampling for HYPROP. Site looks good. 
+
+### SG-NES1
+Arrived: 09:10
+Exited: 10:15
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance. Site heavily damaged.
+
+## 6/17/2024
+
+### ER-APL1
+Arrived: NA
+Exited: NA
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance. Mostly OK, but HOBO dead. 
+
+### CC-CVS1
+Arrived: 13:10
+Exited: 14:20
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance plus soil sampling for HYPROP. 
+
+#### Soil sample
+- Sampled flat soil face at 15 cm
+- Lots of organic matter at 15 cm
+- Sample extracted OK
+- Few small pebbles 1-2 cm
+- Large and fine roots throughout
+
+### CA-CAR3
+Arrived: 10:05
+Exited: 11:00
+Personnel: H. M. Worsham, M. Worsham
+
+Sensor data download and maintenance plus soil sampling for HYPROP. Site severely damaged, even after shoring up in November.
+
+#### Soil sample
+- Couldn't sample at 10 cm
+- Sampled flat soil face at 18 cm @ 10:40 AM (VWC = 0.10)
+- Very rocky, sandy-loam
+- About 50 % stones up to 5cm diameter
+- 2 large pine roots at 10cm; fine roots throughout
+- Restored soil in same sequence
+
+</p>
+</details>
+
+<details>
+<summary>
+<h1>2023</h1>
+</summary>
+<p>
+
+## 11/9/2023
+### XX-CAR3
+Arrived: NA
+Exited: NA
+Personnel: Worsham
+
+Sensor data download and maintenance. Site indeed destroyed. Shored up infrastructure and removed dead equipment. 
+
+## 10/23/2023
+### XX-CAR3
+Arrived: NA
+Exited: NA
+Personnel: Beutler
+
+Sensor data download and maintenance. Curtis reported site largely destroyed so will need to go out to fix things before big snow. 
 
 ## 8/9/2023
 ### XX-PLN2
-Arrived: NA  
-Exited: NA  
-Personnel: Worsham, MT Powell, Sewanee  
+Arrived: NA
+Exited: NA
+Personnel: Worsham, MT Powell, Sewanee
 
 Mortality survey. Also repaired soil VWC logger and HOBO air T/RH cable. 
 
@@ -32,9 +239,9 @@ Mortality survey. Downloaded VWC data.
 
 ## 8/4/2023
 ### SR-PVG1
-Arrived: NA  
-Exited: NA  
-Personnel: Worsham, MT Powell  
+Arrived: NA
+Exited: NA
+Personnel: Worsham, MT Powell
 
 Sensor data download and maintenance. Site in poor shape due to heavy snow. Snow finally gone. 
 
@@ -58,9 +265,9 @@ Reinventory. Complete. All stems located and measured. Full records.
 
 ## 8/2/2023
 ### ER-APL1
-Arrived: NA  
+Arrived: NA 
 Exited: NA  
-Personnel: Worsham, Dashpute, Budoff-Corujo, MT Powell, Frazee  
+Personnel: Worsham, Dashpute, Budoff-Corujo, MT Powell, Frazee
 
 Reinventory. Also repaired HOBO mount with new style. No data download.
 
@@ -80,17 +287,17 @@ Sensor maintenance.
 
 ## 7/22/2023
 ### CC-CVS1 
-Arrived: NA  
-Exited: NA  
-Personnel: Worsham  
+Arrived: NA
+Exited: NA
+Personnel: Worsham
 
 Sensor maintenance and data download. 
 
 ## 7/21/2023
 ### ER-APL1
-Arrived: NA  
-Exited: NA  
-Personnel: Worsham  
+Arrived: NA
+Exited: NA
+Personnel: Worsham
 
 Soil sampling for HYPROP. 
 
@@ -130,17 +337,17 @@ Soil sampling for HYPROP.
 
 ## 7/20/2023
 ### SG-NES2
-Arrived: NA  
-Exited: NA  
+Arrived: NA
+Exited: NA
 Personnel: Worsham, MT Powell, Dashpute, Budoff-Corujo, Frazee  
 
 Re-inventory Day 1 + coring PICO. Only got a handful of PICO, trying to keep up with inventory pace and dealing with storm. Field data in `EastRiver_Coring_Field_Data_2022-2023.`
 
 ## 7/18/2023
 ### SG-SES1
-Arrived: 15:10  
-Exited: 17:00  
-Personnel: Worsham  
+Arrived: 15:10 
+Exited: 17:00
+Personnel: Worsham
 
 Soil sampling for HYPROP. Protocol:
 
@@ -162,9 +369,9 @@ Notes:
 - Conclusion was that I needed to dig down well below the bottom of the ring to pull ring and soil out with minimal disturbance
 
 ### SG-NES1
-Arrived: 14:00  
-Exited: 14:35  
-Personnel: Worsham  
+Arrived: 14:00
+Exited: 14:35
+Personnel: Worsham
 
 Sensor data download. Site in decent shape. Very little to remove. 
 
@@ -176,6 +383,13 @@ Personnel: Worsham, Dashpute
 
 Sensor data download. Site in poor shape.
 
+### ER-BME3
+Arrived: 10:25
+Exited: 14:00
+Personnel: Worsham, Dashpute
+
+Soil moisture array installation. Complete. 
+
 ## 6/17/23
 ### XX-PLN2
 Arrived: 09:40  
@@ -184,9 +398,38 @@ Personnel: Worsham
 
 Sensor data download. Site in great shape.
 
+## 6/16/23
+### SG-SES1
+Arrived: 09:15  
+Exited: 12:30 
+Personnel: Worsham, Dashpute
+
+Soil moisture array installation at mid-mountain mixed site. Complete. 
+
+## 6/15/23
+### SG-SWR1
+
+Cored PIEN. 
+
+## 6/14/23
+### SG-SES2
+Arrived: 13:15
+Exited: 15:55
+Personnel: Worsham, Sanchez
+
+Soil moisture array installation at mid-mountain conifer site. Complete.
+
+
+### WCPJH
+Arrived: 09:35
+Exited: 12:45
+Personnel: Worsham, Sanchez
+
+Soil moisture array installation at Blonder aspen site downslope of SG-SWR1. Complete. 
+
 ## 6/13/23
 ### SG-SWR1
-Arrived: 11:00  
+Arrived: 11:00
 Exited: 12:30  
 Personnel: Worsham, Kueppers, Budoff-Corujo, Talavera, Sanchez  
 
@@ -216,9 +459,9 @@ Sensor data download and maintenance. Thwarted due to snow.
 </details>
 
 <details>
-    <summary>
-        <h1>2022</h1>
-    </summary>
+<summary>
+<h1>2022</h1>
+</summary>
 <p>
 
 ## 9/24/22
@@ -249,7 +492,7 @@ Sensor data download and maintenance. Site in good shape. No major changes since
 ## 9/23/22
 ### ER-APU1
 Arrived: 16:25  
-Exited: 17:45  
+Exited: 17:45 
 Personnel: Worsham, Wainwright, Wielandt  
 Sensor data download and maintenance. Clear day, beautiful. 
 
@@ -360,7 +603,7 @@ Mortality survey. Partway through the first lane, Worsham started doing smaller 
 ### SR-PVG1
 Arrived: 08:20  
 Exited: 10:45  
-Personnel: Worsham, Powell MT, Ramsey  
+Personnel: Worsham, Powell MT, Ramsey
 Mortality survey and sensor maintenance. Site was damp, as usual. Coral fungus and devil's fingers fruiting. Finished mortality survey quickly, as there were only about 80 trees. 
 
 ## 8/9/22
@@ -414,7 +657,7 @@ Coring. No major changes in site since July. Very warm and dry. T=75ºF. Underst
 ### ER-APU1
 Arrived: NA  
 Exited: NA  
-Personnel: Worsham, Henderson A, Peterson A  
+Personnel: Worsham, Henderson A, Peterson A   
 Coring. No major changes in site since June. Warm, windy and dry. All cores taken within plot boundaries.
 
 ## 7/14/22
@@ -557,9 +800,9 @@ Sensor data download and maintenance. 10-15% snow cover, damp soil. Clear sky. T
 </details>
 
 <details>
-    <summary>
-        <h1>2021</h1>
-    </summary>
+<summary>
+<h1>2021</h1>
+</summary>
 <p>
 
 ## 10/8/21
