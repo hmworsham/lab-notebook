@@ -10,10 +10,11 @@ in Kueppers et al. forest inventory plots in and around the East River watershed
 <p>
 
 ## 10/28/2025
+
 ### CA-CAR3
-Arrived: NA
-Exited: NA
-Personnel: Beutler, Shirley
+Arrived: NA  
+Exited: NA  
+Personnel: Beutler, Shirley  
 
 Soil VWC array is the only infrastructure present now. All functional. 
 
@@ -21,9 +22,9 @@ Soil VWC array is the only infrastructure present now. All functional.
 Unfortunately, all but one cable had been pulled out of their ports; this is despite the cables being very well secured and taped on the outside (?) we did our best to add hose clamp, zip ties, and electric tape to reinforce them. It's hard to tell what's causing the cable pull - there were teeth marks on logger + tape, but it could also be good ole snow creep.
 
 ### CC-CVS1
-Arrived: NA
-Exited: NA
-Personnel: Beutler, Shirley
+Arrived: NA  
+Exited: NA  
+Personnel: Beutler, Shirley  
 
 #### Soil VWC/T/ET
 Data downloaded successfully. Port 1 (10A) was disconnected starting 7/25/25. Last retrieval on 06/17/24 returned only about a month of data, as logger had died 10/06/2023. No additional data retrieved 10/06/23--06/17/24, unfortunately... so wasn't a reading error. But record was complete 06/17/24--10/28/2025, except for that disconnected Port 1. Teeth marks on logger and tape. 
@@ -35,22 +36,22 @@ No logger present. Removed the whole probe. Realized I never replaced logger aft
 ## 8/16/2025
 
 ### SG-NES1
-Arrived: NA
-Exited: NA
-Personnel: Katz
+Arrived: NA  
+Exited: NA  
+Personnel: Katz  
 
 #### Soil VWC/T/EC
 We were able to get downloads from the soil moisture probes via the Zentra app. The interface showed a "bad battery" message, but we didn't have replacements on hand. 
 
 ### Snow DTP
-D15344
+D15344  
 We were also able to download data from one of the snow DTP probes. Was there ever a second probe at this site? There was a second fence post, but nothing attached to it, and we found tape lying on the ground nearby. (No)
 
 #### Soil DTP
-D1E4DD
+D1E4DD  
 Data download failed. We weren't able to get data from the two soil DTP probes at the site. One probe showed up in the Thermal 2 app, but the app crashed whenever we started the download. The other didn't show up at all; there weren't obvious problems with the probe, so perhaps the battery is dead?
 
-FF10A3
+FF10A3  
 Data download failed. 
 
 ### Air T/RH
@@ -60,25 +61,25 @@ More details in the field notebook scan saved here.
 
 ## 8/10/2025
 ### ER-APU1
-Arrived: NA
-Exited: NA
-Personnel: Kueppers
+Arrived: NA  
+Exited: NA  
+Personnel: Kueppers  
 
 #### Soil VWC/T/EC
 Data downloaded successfully. Complete records 06-20-2024--08-10-2024. Did not replace batteries or clear logger. 
 
 #### Snow DTP
-EEBFB0
+EEBFB0  
 Data download OK. Records 06-20-2024--08-10-2024, but probes died 2025-06-05. Did not remove but should on next visit.
 
-C158AF 
+C158AF  
 Data download OK. Complete record 07-08-2024--08-10-2025. All probes working. 
 
 ## 8/9/2025
 ### SR-PVG1
-Arrived: NA
-Exited: NA
-Personnel: Kueppers
+Arrived: NA  
+Exited: NA  
+Personnel: Kueppers  
 
 #### Soil VWC/T/EC
 Data downloaded successfully. Complete record 08-05-2021--08-09-2025. Battery went to 0 for part of winter. Need to wipe data at next visit. 
@@ -87,7 +88,7 @@ Data downloaded successfully. Complete record 08-05-2021--08-09-2025. Battery we
 Data download failed. The Hobo battery was extremely low (1%) and I was unable to see any files (not sure if that was a low battery situation or something else. Also, the shield for the air T/RH sensor is mounted sideways, so I'd be cautious about data from that in any case.
 
 #### Snow DTP
-DA9321
+DA9321  
 I tried to get the snow/soil profile data too, but the app on the tablet that Curtis gave us was glitchy. The data would start to download and then the app would crash. I tried at least 15 times, including after restarting the tablet. 
 
 #### Soil DTP
@@ -95,9 +96,9 @@ None present.
 
 ## 8/8/2025
 ### ER-BME3
-Arrived: NA
-Exited: NA
-Personnel: Powell T
+Arrived: NA  
+Exited: NA  
+Personnel: Powell T  
 
 Tom downloaded soil sensor data from BME3 yesterday and Lara uploaded it to the Shared Drive folder for that site's sensor data
 
@@ -117,8 +118,8 @@ Data downloaded successfully. Complete record 07-16-2023--08-08-2025.
 
 ## 8/13/2024
 ### LE-PLN2
-Arrived: 13:30
-Exited: 14:20
+Arrived: 13:30  
+Exited: 14:20  
 Personnel: Worsham, Katz, Kueppers, Budoff-Corujo, Dashpute  
 
 Sensor data download and maintenance. Significant damage to site, most DTPs compromised. 
@@ -127,28 +128,28 @@ Sensor data download and maintenance. Significant damage to site, most DTPs comp
 Data downloaded successfully. All ports disconnected 05-20-2024--08/13/2024... so lost all of this summer's data. Dang! Reconnected at all ports, reinforced with zip ties and tape. All appears functional. 
 
 #### Snow DTP
-FD3BC1
+FD3BC1  
 Destroyed. Wet. Dead logger. No data download. Send to lab for retrieval.
 
-EDED77
+EDED77  
 Destoyed. Removed to read at home. Failed to read at home. Logger is dead. Send to lab for retrieval. 
 
 #### Soil DTP
-EF707A
+EF707A  
 Non-responsive. Removed to read at home. Download at home was successful. Complete record 10-12-2021--08-13-2024. 
 
-FF3475
+FF3475  
 Non-responsive. Removed to read at home. Successfully downloaded at home. Incomplete record 10-12-2021--01-16-2023. Logger memory stopped 01-16-2023. 
 
-DDD64E
+DDD64E  
 Non-responsive. Removed to read at home. Failed to read at home. Logger is dead. Send to lab for retrieval. 
 
 ## 6/20/2024
 
 ### ER-APU1 
-Arrived: 09:25
-Exited: 09:55
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 09:25  
+Exited: 09:55  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Site OK but HOBO broken. 
 
@@ -159,22 +160,22 @@ Data downloaded successfully. Complete record through 06-20-2024. 100 % battery.
 Data download OK. Logger memory full on 05-07-2023. Cable disconnected. Removed for possible repair. 
 
 #### Snow DTP
-C0AF01
+C0AF01  
 Data downloaded successfully. Complete record 09-23-2022--03-21-2023. Probes died 03-21-2023. Bend near top. Probes below logger non-responsive. Left in place to exit before storm. 
 
-EEBFB0
+EEBFB0  
 Data downloaded successfully. Complete record 09-23-2022--06-20-2024. 10 º lean. Straightened. 
 
 #### Soil DTP
-C158AF
+C158AF  
 Data downloaded successfully. Complete record 09-23-2022--06-20-2024. Still functional. 
 
 ## 6/19/2024
 
 ### SR-PVG1
-Arrived: 14:40
-Exited: 15:30
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 14:40  
+Exited: 15:30  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Some snow damage and battery issues. 
 
@@ -185,12 +186,12 @@ Data download OK. Incomplete record. Last record on 03-13-2024. Expect batteries
 Batteries dead. Changed out. Data download OK. Records from 09-21-2022--12-17-2023. Logger memory full on 12-17-2023. Erased and relaunched. 
 
 #### Snow DTP
-DA9321
+DA9321  
 Data download OK. Complete record through 06-19-2024. Erased data and restarted. 
 
 ### ER-BME3
-Arrived: 11:00
-Exited: 11:20
+Arrived: 11:00  
+Exited: 11:20  
 
 Sensor data download and maintenance. Soil moisture array only. All OK. BIG tree down about 2 m from logger!
 
@@ -198,9 +199,9 @@ Sensor data download and maintenance. Soil moisture array only. All OK. BIG tree
 Data downloaded successfully. Complete record 08-07-2023--06-19-2024. Logger in good condition. Adjusted logger to more southward orientation. Battery levels went to 0 in winter. Probably not enough light. Sampling on a 30 minute interval but may consider hourly if batteries continue to fail. 
 
 ### ER-BME1
-Arrived: 9:20
-Exited: 10:15
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 9:20  
+Exited: 10:15  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Site OK. One broken snow DTP.
 
@@ -208,14 +209,14 @@ Sensor data download and maintenance. Site OK. One broken snow DTP.
 Data downloaded successfully. Complete record 08-07-2023--06-19-2024 Batteries 100 % through winter. T-post pushed down into soil by snow so pulled out a bit. Otherwise in good condition. 
 
 #### Snow DTP
-EDAD8A
+EDAD8A  
 Not detected. Dead battery. 15 º lean to 1.1 m. 48 º lean above 1.1 m. Probe very bent up, not functional. Connected with new batteries but couldn't read data. Removed for retrieval at home. Data downloaded successfully at home (10-29-2025). Complete download but incomplete record. Logger memory filled 10-07-2023.
 
-EC94AF
+EC94AF  
 Data downloaded successfully. Complete record through 06-19-2024. Erased and restarted. 
 
 #### Soil DTP
-E2729C
+E2729C  
 Data downloaded successfully. Complete record through 06-19-2024. Erased and restarted.
 
 #### Air T/RH
@@ -224,9 +225,9 @@ Data download OK, but no data (?!). Possibly forgot to launch the logger on last
 ## 6/18/2024
 
 ### ER-GT1
-Arrived: 15:45
-Exited: 16:25
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 15:45  
+Exited: 16:25  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Site mostly OK. One soil DTP broken. 
 
@@ -237,20 +238,20 @@ Data downloaded successfully. All probes connected. Logger OK.
 Data downloaded successfully. Logger memory full 09-04-2023. Erased data and restarted. 
 
 #### Snow DTP
-F408C9
+F408C9  
 Data downloaded successfully. Smashed and top missing. Cow hoofprints nearby. Still operating. Erased and restarted. Taped top of housing. Should replace cap on next visit. 
 
-D1AB1B
+D1AB1B  
 Data downloaded successfully. Logger memory full 08-21-2023 but complete record up to then. 3 º lean downslope. Otherwise functional. Erased and restarted. 
 
 #### Soil DTP
-C50CF1
+C50CF1  
 Data downloaded successfully. Logger memory full 09-18-2023 but complete record up to then. Erased and restarted. 
 
 ### SG-SES1
-Arrived: 14:00
-Exited: 14:40
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 14:00  
+Exited: 14:40  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. All ok - everything connected and intact. Only soil moisture array present. 
 
@@ -258,9 +259,9 @@ Sensor data download and maintenance. All ok - everything connected and intact. 
 Data download OK. Sampling at 15 minute interval. Reset to 30 minutes due to data transfer speed issues. Took forever to download. Kept freezing. 100 % battery throughout. 
 
 ### SG-SES2
-Arrived: 12:50
-Exited: 13:20
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 12:50  
+Exited: 13:20  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Site looks great. Only soil moisture array present. 
 
@@ -268,9 +269,9 @@ Sensor data download and maintenance. Site looks great. Only soil moisture array
 Data downloaded successfully. Logger intact. Sampling on 15 minute interval. Reset to 30 minutes for battery. Cables disconnected at ports 1,2,3 on arrival. Appear to have been disconnected in 06-2023, so bummer. Plugged back in and all functional. Other ports all OK. 
 
 ### WCPHJ
-Arrived: 12:06
-Exited: 12:40
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 12:06  
+Exited: 12:40  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Site in excellent shape. Only soil moisture array present. 
 
@@ -278,9 +279,9 @@ Sensor data download and maintenance. Site in excellent shape. Only soil moistur
 Data downloaded successfully. Logger intact. Ports 5 and 6 disconnected on arrival. Lost them on 07-20-2023. Plugged back in and all functional. Otherwise, complete record. Sampling on 15 minute interval. May need to adjust to 30 minutes depending on battery performance. 
 
 ### SG-SWR1
-Arrived: 10:50
-Exited: 12:00
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 10:50  
+Exited: 12:00  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Site looks good. No snow.
 
@@ -291,16 +292,16 @@ Data download OK. Battery 100 %. Equipment in good shape. Small bite marks on lo
 Data download OK but logger memory full on 12-23-23. Erased and restarted. Replaced mount. 
 
 #### Snow DTP
-FC5820
+FC5820  
 Data download OK. Complete record. All looks good. No lean. Last record 06-18-2024. Erased data and restarted.
 
-D00829
+D00829  
 Data download OK. Complete record. Intact and functional. No lean. 
 
 ### SG-NES1
-Arrived: 09:10
-Exited: 10:15
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 09:10  
+Exited: 10:15  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Site heavily damaged. Both snow probes leaning, one snapped at end of rebar.
 
@@ -308,17 +309,17 @@ Sensor data download and maintenance. Site heavily damaged. Both snow probes lea
 VWC logger OK. Severe lean and zip ties broken, but all ports still connected and mount is intact. Data downloaded successfully. 100 % battery. Erased data from logger and restarted. 
 
 #### Snow DTP
-E19F98
+E19F98  
 Data download OK but broken below logger. 49 º lean to 0.8 m, 130 º lean to tip. Removed. 
 
-D15344
+D15344  
 Still 0.5 m snow covering. Leaning 58 º off vertical. Did not straighten to avoid impacting snow. Logger memory full on 08-23-2023. Erased data and restarted. 
 
 #### Soil DTP
-D1E4DD
+D1E4DD  
 Fully under snow. Last reading 06-18-2024. Complete record. Nothing broken. Erased data and restarted. 
 
-FF10A3
+FF10A3  
 First reading attempts failed. Ultimately retrieved complete record. Last reading 06-18-2024. Erased data and restarted. 
 
 #### Air T/RH
@@ -327,9 +328,9 @@ No notes. Data downloaded successfully. Logger memory full 12-12-2023. Erased an
 ## 6/17/2024
 
 ### ER-APL1
-Arrived: NA
-Exited: NA
-Personnel: H. M. Worsham, M. Worsham
+Arrived: NA  
+Exited: NA  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Mostly OK, but HOBO dead. 
 
@@ -337,7 +338,7 @@ Sensor data download and maintenance. Mostly OK, but HOBO dead.
 Data downloaded OK
 
 #### Soil DTP
-F6F387
+F6F387  
 Data download OK. Last measurement on 6/17/2024. Full record at all probes. Full erase and reset. 
 
 #### Snow DTP
@@ -347,9 +348,9 @@ Not present. All removed in 2023.
 Logger dead. Broken solder point on cable. Removed to replace batteries and attempt to pull data and repair. Will probably need to send to Onset. 
 
 ### CC-CVS1
-Arrived: 13:10
-Exited: 14:20
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 13:10  
+Exited: 14:20  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance plus soil sampling for HYPROP. Site in good shape! Not much lean on poles.
 
@@ -360,13 +361,13 @@ Data downloaded successfully but stopped logging on 10/06/2023, so << 1 month of
 Data downloaded OK. Sensor status OK. No damage. Logger memory filled 12-12-2023. Wiped and reset after download. 
 
 #### Snow DTP
-E029EE
+E029EE  
 Dead. Logger won't connect even with new batteries. Removed, will try to read data at home or send to lab for read. Attempted reading on 06-18-2024 and retrieved complete record. Will try to reinstall logger this summer. 
 
 ### CA-CAR3
-Arrived: 10:05
-Exited: 11:00
-Personnel: H. M. Worsham, M. Worsham
+Arrived: 10:05  
+Exited: 11:00  
+Personnel: H. M. Worsham, M. Worsham  
 
 Sensor data download and maintenance. Site severely damaged, even after shoring up in November. All snow and soil DTPs destroyed and removed back in November. Soil VWC all intact, though two cables out on arrival (10A, 30A). HOBO removed in October. 
 
@@ -384,9 +385,9 @@ Data download successful. Lost ports 1,2,5 on 6/9/24. Likely animal pulled out c
 
 ## 11/9/2023
 ### XX-CAR3
-Arrived: NA
-Exited: NA
-Personnel: Worsham
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham  
 
 Sensor data download and maintenance. Removed a bunch of dead equipment. 
 
@@ -397,18 +398,18 @@ Removed logger z6-12266 and replaced with z6-12258. Made sure cables were secure
 Not present. Curtis removed on 10/23 - picked up at Red Lady house. 
 
 #### Snow DTP
-D5B924
+D5B924  
 Removed 
 
 #### Soil DTP
-FD8114
+FD8114  
 Removed
 
 ## 10/23/2023
 ### XX-CAR3
-Arrived: NA
-Exited: NA
-Personnel: Beutler
+Arrived: NA  
+Exited: NA  
+Personnel: Beutler  
 
 - Sensor data download and maintenance. 
 - Due to the massive snowpack this spring all sensors have been compromised and most sensors have been broken beyond repair :(
@@ -430,9 +431,9 @@ Unresponsive. Removed.
 
 ## 8/9/2023
 ### XX-PLN2
-Arrived: NA
-Exited: NA
-Personnel: Worsham, MT Powell, Sewanee
+Arrived: NA  
+Exited: NA  
+Personnel: Worsham, MT Powell, Sewanee  
 
 #### Soil VWC/T/EC
 Repaired logger housing mount. Everything functional. Data download OK. Left same batteries as they were at 100%. 
@@ -459,7 +460,7 @@ Data download successful. Leans 38º downslope. Straightened.
 - GTG (ortho, before straightening): 171 cm
 - GTG (ortho, after straightening): 182 cm 
 
-C0AF01
+C0AF01  
 Data download successful. Sharp c-shaped bend in probe. Did not straighten, as doing so would likely break probe.
 
 - GTG (ortho): 87 cm
