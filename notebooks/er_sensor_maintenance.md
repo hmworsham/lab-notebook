@@ -13,7 +13,7 @@ in Kueppers et al. forest inventory plots in and around the East River watershed
 
 ### ER-APL1
 Arrived: 14:00  
-Exited: 14:55
+Exited: 14:55  
 Personnel: Worsham, Shirley  
 
 Sensor data download and maintenance. Site in decent shape. Soil VWC and one DTP were only things left. 
