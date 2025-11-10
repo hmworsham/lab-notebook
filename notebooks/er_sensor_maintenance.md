@@ -251,8 +251,7 @@ Tom downloaded soil sensor data from BME3 yesterday and Lara uploaded it to the 
 Data downloaded successfully. Complete record 07-16-2023--08-08-2025.
 
 </p>
-</details
-
+</details>
 
 <details>
 <summary>
@@ -520,6 +519,7 @@ Data download successful. Lost ports 1,2,5 on 6/9/24. Likely animal pulled out c
 
 </p>
 </details>
+
 
 <details>
 <summary>

@@ -1,5 +1,5 @@
-site-visit:
+- site-visit:
 	wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1YdD84OuMzHtmIeEHb1np-Hq14Z9Fwql7' -O ./notebooks/er_site_visits.md
 
-sensor-maint:
+- sensor-maint:
 	wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1YgPV_-745dbVWLYsSR0lOX9feD2Px65T' -O ./notebooks/er_sensor_maintenance.md
