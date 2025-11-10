@@ -9,6 +9,148 @@ in Kueppers et al. forest inventory plots in and around the East River watershed
 </summary>
 <p>
 
+## 11/07/2025
+
+### ER-APL1
+Arrived: 14:00  
+Exited: 14:55
+Personnel: Worsham, Shirley  
+
+Sensor data download and maintenance. Site in decent shape. Soil VWC and one DTP were only things left. 
+
+#### Soil VWC/T/EC
+Data downloaded successfully. Lots of data--33 minute download. Complete record 06-10-2022--11-07-2025. Mount broken. Added new zipties but didn't try to upgrade mount. Erased. Batteries above 70 % through year, but replaced anyway.
+
+#### F6F387
+Data download OK. All nominal. Complete record 06-17-24--10-12-2025. Erased and reset. 
+
+### ER-GT1
+Arrived: 11:15  
+Exited: 12:00  
+Personnel: Worsham, Shirley  
+
+Sensor data download and maintenance. Site pretty beat up. Elk, cattle, etc.
+
+#### Soil VWC/T/ET
+Data download OK. All readings nominal. Complete record 06-18-2024--11-07-2025. Batteries at 75 %, went to 0 in winter. Replaced batteries. Erased and relaunched. Added hose clamps to logger to secure. 
+
+#### Air T/RH
+Cable chewed through. Logger dead. No read even with new batteries. Removed. Need to send to Onset for read. 
+
+#### Soil DTP
+C50CF1
+Data download OK but 127s at all probes. Record 10-18-2023--02-06-2025. Removed. 
+
+F408C9
+Data download OK after replacing batteries. Still functional but some dates are in 2013. Check file? Replaced batteries, replaced lid, synced clock. 
+
+#### Snow DTP  
+D1AB1B
+Data download OK after replacing batteries. Complete record 06-18-2024--10-29-2025. Batteries died 10-29-2025. Still functional but jar broken. Replaced jar. Synced clock, erased data. 
+
+### ER-BME1
+Arrived: NA  
+Exited: NA  
+Personnel: Beutler, Villa  
+
+Sensor data download and maintenance. Some damage to DTPs, HOBO malfunctioned over last year, but VWC OK. 
+
+#### Soil VWC/T/ET
+Data download OK. All readings nominal. 
+
+#### Air T/RH
+Data download OK, but data file appears to be corrupt. Try restoring at home. Redeployed.
+
+#### Soil DTP
+E2729C
+No data onboard to download. Relaunched. 
+
+#### Snow DTP  
+EC94AF
+Found destroyed by elk. Could not locate logger or recover data. Mark as removed. 
+
+
+## 11/06/2025
+
+### WCPJH
+Arrived: 16:55  
+Exited: 17:45  
+Personnel: Worsham, Shirley  
+
+Sensor data download and maintenance. Site in perfect condition. 
+
+#### Soil VWC/T/EC
+Data download OK. Complete record 06-14-2023--11-06-2025. Batteries 100% thru full period. Left batteries in place. Logger 66% full. Reset 15 minute logging interval to 30 minutes. Downloading ~85K records took 46 mins. Definitely need to erase at each visit if possible!
+
+### SG-SES2
+Arrived: 15:56  
+Exited: 16:45  
+Personnel: Worsham, Shirley  
+
+Sensor data download and maintenance. Site in perfect condition.  
+
+#### Soil VWC/T/EC
+Data download OK. Battery 100%. All readings nominal except EC1. Complete record 06-14-2023--11-06-2025. Data download was very slow--40 minutes--large data burden + cold temps. Erased. New readings nominal. 
+
+### SG-SWR1
+Arrived: 12:55  
+Exited: 14:15  
+Personnel: Worsham, Shirley
+
+Data download and maintenance. Snow DTPs in real bad shape. Broken by elk. Removing both. Looked for other sensors that were still marked 'in place' in sensor status sheet, but only found D00829, FC5820, and E56385. Assume others were decommissioned in 2023. 
+
+#### Soil VWC/T/EC
+Port 1 disconnected. Lots of elk interaction. All others reading OK. Downloaded prior year of data. There were 120K records in total - 1 hour download. Left data on board and will try to get it all another time. Record is from 11-06-2024 to 11-06-2025 but probably back to 2021 on board. 
+
+#### Snow DTP
+D00829
+Data download OK. Complete record 06-18-2024--11-06-2025. Probes dead below #6. Removed. 
+
+FC5820
+This ID was written on jar in Sharpie but F55521 is printed on jar -- think original logger was replaced in 2023. Complete record from 10-02-2023 to 07-26-2024. Logger electronics broken but still readable. Probes all dead. Removed. 
+
+#### Soil DTP
+E56385
+Data download OK. Record from 06-18-2024--11-06-2025. Bottom probe is dead but rest are functional. Erased, synced clock. Keeping in place. 
+
+#### Air T/RH
+Data download okay, changed battery, 2 months~ of data collected, complete record 061824 thru 080724. Logger relaunched at 14:00.
+
+### SG-NES1
+Arrived: 11:15  
+Exited: 12:15  
+Personnel: Worsham, Beutler, Shirley  
+
+Data download and maintenance. Site actually in decent shape. Was able to connect to all DTPs. One soil DTP died. 
+
+#### Soil VWC/T/EC
+Downloaded last 3 months of data, download okay, erased and replaced batteries, added snow marker.
+
+#### Soil DTP
+FF10A3
+Data download okay, battery is okay, complete record 061824 thru 110625 reset clock, full erase. 
+
+D1E4DD
+Data download okay after replacing batteries. Complete record 06-18-24 thru 07-08-24. Dead batteries on 07-28-24. All probes dead below logger. Removed. 
+
+#### Snow DTP
+D15344
+Data download okay, complete record 061824 thru 110625. Its bent 65 degrees downslope from vertical, straightened. Full erase and clock reset.
+
+#### Air T/RH
+Data download okay after replacing batteries. Only 4 days of data onboard. Stopped and relauched logger at 12pm.
+
+## 11/05/2025
+### LE-PLN2
+Arrived: 15:30 
+Exited: 4:01
+Personnel: Worsham, Beutler
+
+Data download and maintenance. Site in great shape. Soil VWC is only instrument left here now. 
+
+#### Soil VWC/T/EC
+All ports connected and functional at all ports. Data download took 12 minutes - 22K records. Data download successful. Complete record 08-13-24--11-05-2025. Added dessiccant, which was missing. Tightened cables again. Batteries went to 0 in winter a few times. Replaced batteries - at 74% on arrival. Deleted data after download. 
+
 ## 10/28/2025
 
 ### CA-CAR3
@@ -29,9 +171,12 @@ Personnel: Beutler, Shirley
 #### Soil VWC/T/ET
 Data downloaded successfully. Port 1 (10A) was disconnected starting 7/25/25. Last retrieval on 06/17/24 returned only about a month of data, as logger had died 10/06/2023. No additional data retrieved 10/06/23--06/17/24, unfortunately... so wasn't a reading error. But record was complete 06/17/24--10/28/2025, except for that disconnected Port 1. Teeth marks on logger and tape. 
 
-### Snow DTP
+#### Snow DTP
 E029EE
 No logger present. Removed the whole probe. Realized I never replaced logger after removing for reading out of field last summer. 
+
+#### Air T/RH
+Logger dead. No read. Removed. Need to send to Onset for read. 
 
 ## 8/16/2025
 
@@ -108,7 +253,6 @@ Data downloaded successfully. Complete record 07-16-2023--08-08-2025.
 </p>
 </details
 
-====================================================================================
 
 <details>
 <summary>
@@ -132,7 +276,7 @@ FD3BC1
 Destroyed. Wet. Dead logger. No data download. Send to lab for retrieval.
 
 EDED77  
-Destoyed. Removed to read at home. Failed to read at home. Logger is dead. Send to lab for retrieval. 
+Destroyed. Removed to read at home. Failed to read at home. Logger is dead. Send to lab for retrieval. 
 
 #### Soil DTP
 EF707A  

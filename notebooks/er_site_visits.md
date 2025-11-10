@@ -8,6 +8,67 @@ A set of running notes made during visits to Kueppers et al. conifer forest inve
 </summary>
 <p>
 
+## 11/07/2025
+
+### ER-APL1
+Arrived: 14:00  
+Exited: 14:55
+Personnel: Worsham, Shirley  
+
+Sensor data download and maintenance. Site in decent shape. Soil VWC and one DTP were only things left. 
+
+### ER-GT1
+Arrived: 11:15  
+Exited: 12:00  
+Personnel: Worsham, Shirley  
+
+Sensor data download and maintenance. Site pretty beat up. Elk, cattle, etc.
+
+### ER-BME1
+Arrived: NA  
+Exited: NA  
+Personnel: Beutler, Villa  
+
+Sensor data download and maintenance. Some damage to DTPs, HOBO malfunctioned over last year, but VWC OK. 
+
+## 11/06/2025
+
+### WCPJH
+Arrived: 16:55  
+Exited: 17:45  
+Personnel: Worsham, Shirley  
+
+Sensor data download and maintenance. Site in perfect condition. 
+
+### SG-SES2
+Arrived: 15:56  
+Exited: 16:45  
+Personnel: Worsham, Shirley  
+
+Sensor data download and maintenance. Site in perfect condition.  
+
+### SG-SWR1
+Arrived: 12:55  
+Exited: 14:15  
+Personnel: Worsham, Shirley
+
+Data download and maintenance. Snow DTPs in real bad shape. Broken by elk. Removing both. Looked for other sensors that were still marked 'in place' in sensor status sheet, but only found D00829, FC5820, and E56385. Assume others were decommissioned in 2023. 
+
+### SG-NES1
+Arrived: 11:15  
+Exited: 12:15  
+Personnel: Worsham, Beutler, Shirley  
+
+Data download and maintenance. Site actually in decent shape. Was able to connect to all DTPs. One soil DTP died. 
+
+## 11/05/2025
+### LE-PLN2
+Arrived: 15:30 
+Exited: 4:01
+Personnel: Worsham, Beutler
+
+Data download and maintenance. Site in great shape. Soil VWC is only instrument left here now. 
+
 ## 10/28/2025
 ### CA-CAR3
 Arrived: NA
