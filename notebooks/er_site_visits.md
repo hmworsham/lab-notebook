@@ -8,6 +8,15 @@ A set of running notes made during visits to Kueppers et al. conifer forest inve
 </summary>  
 <p>  
   
+## 11/10/2025
+
+### SG-NES1
+Arrived: NA  
+Exited: NA  
+Personnel: Beutler  
+
+Data download and maintenance. Site in great shape.  
+
 ## 11/07/2025  
   
 ### ER-APL1  

@@ -9,6 +9,19 @@ in Kueppers et al. forest inventory plots in and around the East River watershed
 </summary>
 <p>
 
+
+## 11/10/2025
+
+### SG-NES1
+Arrived: NA  
+Exited: NA  
+Personnel: Beutler  
+
+Data download and maintenance. Site in great shape.  
+
+#### Soil VWC/T/EC
+Data downloaded successfully. Lots of data ~45 minutes. Batteries 100%, did not replace. Erased logger. 
+
 ## 11/07/2025
 
 ### ER-APL1
